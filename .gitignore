@@ -1,0 +1,5 @@
+# Datos privados: nunca se suben
+.env
+# Lista con teléfonos y correos de anunciantes: se manda por Telegram, no se publica
+estado/pisos_actuales.csv
+__pycache__/
