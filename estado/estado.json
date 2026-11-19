@@ -1,0 +1,3577 @@
+{
+"fichas": [
+{
+"clave": "habitaclia:9faf39ed-7b7f-45a8-8695-b99d6b534b8e",
+"municipio": "piera",
+"precio": 1000,
+"metros": 64,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "df3dd1dcbdcef12c",
+"fotos": [
+"2421224480304ec0",
+"dd2bb2b2e4cb79f9"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/piera/9faf39ed-7b7f-45a8-8695-b99d6b534b8e/d"
+},
+{
+"clave": "habitaclia:6366a1a2-a037-4bf2-abb3-122e7f0b8c4f",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 45,
+"barrio": "sants - montjuic",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"0971737663644318",
+"e9e1a5a5e06ce13b"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/6366a1a2-a037-4bf2-abb3-122e7f0b8c4f/d"
+},
+{
+"clave": "habitaclia:9071f386-211e-4347-8f6a-e16578d01b8f",
+"municipio": "piera",
+"precio": 1000,
+"metros": 68,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "df3dd1dcbdcef12c",
+"fotos": [
+"00014b4b61430301",
+"c7cf87a7969c6650"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/piera/9071f386-211e-4347-8f6a-e16578d01b8f/d"
+},
+{
+"clave": "habitaclia:df5e2c52-90a2-48df-b7b0-f5019b74843d",
+"municipio": "sant pol de mar",
+"precio": 1000,
+"metros": 71,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "fa3ee63756c2cf5a",
+"fotos": [
+"0f72438b8b17170b",
+"ce971b8b0b1796cb"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/sant-pol-de-mar/df5e2c52-90a2-48df-b7b0-f5019b74843d/d"
+},
+{
+"clave": "habitaclia:d898f780-47f3-45fd-ae3c-26282f55b977",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"cdcde4c9d9f1b515",
+"0e4c4c6ee2e0c219"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/d898f780-47f3-45fd-ae3c-26282f55b977/d"
+},
+{
+"clave": "habitaclia:04a3c99c-7cbf-4999-9fc1-8e8db7f07483",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 68,
+"barrio": "nou barris",
+"habitaciones": 3,
+"telefono": "ad15bbd7dafcf4f8",
+"fotos": [
+"24249492f0e03139",
+"79fbfffb1929ad03"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/nou-barris/barcelona-capital/04a3c99c-7cbf-4999-9fc1-8e8db7f07483/d"
+},
+{
+"clave": "habitaclia:e68b7b3d-4161-4b02-8eb7-05288c1e4951",
+"municipio": "barcelona",
+"precio": 951,
+"metros": 44,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"074f4e4e4f7efefc",
+"5f070e9a7a66870f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/e68b7b3d-4161-4b02-8eb7-05288c1e4951/d"
+},
+{
+"clave": "habitaclia:4d108eda-e0de-4452-9ff5-d40c1006f39c",
+"municipio": "manresa",
+"precio": 850,
+"metros": 45,
+"barrio": "valldaura - carretera de cardona",
+"habitaciones": 1,
+"telefono": "8c16b9d31edaa900",
+"fotos": [
+"cf6f4f69f9f9f8e6",
+"33331630f0183939"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carretera-de-cardona-62/valldaura-carretera-de-cardona/manresa/4d108eda-e0de-4452-9ff5-d40c1006f39c/d"
+},
+{
+"clave": "habitaclia:514c6ce3-61bb-458b-971d-b76b570231c7",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 39,
+"barrio": "sants - montjuic",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"67774a4a78717cf8",
+"334b40c5d8f498dc"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/514c6ce3-61bb-458b-971d-b76b570231c7/d"
+},
+{
+"clave": "habitaclia:d66fb4ad-4128-42ac-bc54-1d8d88838bcc",
+"municipio": "sant joan despi",
+"precio": 885,
+"metros": 69,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "edb65f25f4ca856c",
+"fotos": [
+"73a0305b5b191381",
+"6fde7777733b1b33"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-de-la-creu-d-en-muntaner-24/centre/sant-joan-despi/d66fb4ad-4128-42ac-bc54-1d8d88838bcc/d"
+},
+{
+"clave": "habitaclia:813715ad-423b-461b-ba56-3a6af1bd965f",
+"municipio": "cubelles",
+"precio": 753,
+"metros": 52,
+"barrio": "santa maria - l'eixample - sud sumella",
+"habitaciones": 1,
+"telefono": "fa8b90641773cfa9",
+"fotos": [
+"278b7373433177b7",
+"000080d2c7c20000"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-gallifa/santa-maria-l-eixample-sud-sumella/cubelles/813715ad-423b-461b-ba56-3a6af1bd965f/d"
+},
+{
+"clave": "habitaclia:9f6da27a-983b-491e-aabf-de73c86be85b",
+"municipio": "barcelona",
+"precio": 890,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"9591313911c94b13",
+"31113919c9085673"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/9f6da27a-983b-491e-aabf-de73c86be85b/d"
+},
+{
+"clave": "habitaclia:a5043c96-4e5c-4958-84a0-07bebe0c52a7",
+"municipio": "barcelona",
+"precio": 890,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"effdbbb7a71f0f9f",
+"efb3c0c0e4e4c711"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/a5043c96-4e5c-4958-84a0-07bebe0c52a7/d"
+},
+{
+"clave": "habitaclia:bb571cd7-265b-465e-8061-57ae174b12b5",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 40,
+"barrio": "eixample",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c747054503070f1f",
+"0309010513321617"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/eixample/barcelona-capital/bb571cd7-265b-465e-8061-57ae174b12b5/d"
+},
+{
+"clave": "habitaclia:ce821b85-f834-446f-89a4-f38592fc84c9",
+"municipio": "vilanova i la geltru",
+"precio": 867,
+"metros": 75,
+"barrio": "centre vila",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"fcd8d8f8f8f8dcd8",
+"ec6868e8f8c8e4f4"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre-vila/vilanova-i-la-geltru/ce821b85-f834-446f-89a4-f38592fc84c9/d"
+},
+{
+"clave": "habitaclia:9968a096-6df3-4627-9b2e-f81966aec1b3",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 45,
+"barrio": "sant marti",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"2fafda061919a98e",
+"1b9362e86460f159"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-marti/barcelona-capital/9968a096-6df3-4627-9b2e-f81966aec1b3/d"
+},
+{
+"clave": "habitaclia:7e854300-8d19-437a-b300-a91eab148a9b",
+"municipio": "barcelona",
+"precio": 989,
+"metros": 81,
+"barrio": "ciutat vella",
+"habitaciones": 3,
+"telefono": "262d290845705e5b",
+"fotos": [
+"93939b8e8cc1e163",
+"38690b1bd7070f23"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/ciutat-vella/barcelona-capital/7e854300-8d19-437a-b300-a91eab148a9b/d"
+},
+{
+"clave": "habitaclia:781d29d7-22fb-4045-9752-3575139309bb",
+"municipio": "barcelona",
+"precio": 697,
+"metros": 60,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"452dacc4bc0c240e",
+"739bc9d8d5410696"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/781d29d7-22fb-4045-9752-3575139309bb/d"
+},
+{
+"clave": "habitaclia:cce3ee66-7b10-4714-a24d-38570fd50c08",
+"municipio": "manresa",
+"precio": 830,
+"metros": 55,
+"barrio": "valldaura - carretera de cardona",
+"habitaciones": 1,
+"telefono": "0a7fd74cc5db9dfc",
+"fotos": [
+"212727b393866b49",
+"0c36b236722298f2"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/calle-muralla-de-sant-francesc/valldaura-carretera-de-cardona/manresa/cce3ee66-7b10-4714-a24d-38570fd50c08/d"
+},
+{
+"clave": "habitaclia:64ab97af-a459-479b-8337-5011768c9d8e",
+"municipio": "l'hospitalet de llobregat",
+"precio": 900,
+"metros": 80,
+"barrio": "can serra - pubilla cases",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"81033bb999794a14",
+"ffdf9d5b5e727074"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/can-serra-pubilla-cases/l-hospitalet-de-llobregat/64ab97af-a459-479b-8337-5011768c9d8e/d"
+},
+{
+"clave": "habitaclia:f87d5df7-d303-4ccc-9d52-478606e72ab6",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 47,
+"barrio": "sants - montjuic",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"7d33134b4093450d",
+"1f1d85953d3c464e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/f87d5df7-d303-4ccc-9d52-478606e72ab6/d"
+},
+{
+"clave": "habitaclia:fe85d909-e211-41e5-a3d3-25636d216d15",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"031f46676664e743",
+"0b232f2ec6242603"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/fe85d909-e211-41e5-a3d3-25636d216d15/d"
+},
+{
+"clave": "habitaclia:3e288fb9-eaab-43e7-8844-c2667a622afe",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 36,
+"barrio": "sant andreu",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"dcdcdccc44b54f9c",
+"9f9f9f9696863c57"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu/barcelona-capital/3e288fb9-eaab-43e7-8844-c2667a622afe/d"
+},
+{
+"clave": "habitaclia:07084e8f-15a8-423a-8e7c-74ba636a094e",
+"municipio": "mataro",
+"precio": 800,
+"metros": 79,
+"barrio": "cerdanyola del valles",
+"habitaciones": 2,
+"telefono": "03bd083370c38657",
+"fotos": [
+"3819191a1a99d1c1",
+"73353d1770cf165d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-marathon-19/cerdanyola/mataro/07084e8f-15a8-423a-8e7c-74ba636a094e/d"
+},
+{
+"clave": "habitaclia:5fe64ee0-45a0-4250-9bae-925e0384c292",
+"municipio": "barcelona",
+"precio": 700,
+"metros": 40,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"4b2324252c961647",
+"353b191999929a3f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/5fe64ee0-45a0-4250-9bae-925e0384c292/d"
+},
+{
+"clave": "habitaclia:4baf6a32-34c4-4e19-b9e8-4833d3914fe5",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 45,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "262d290845705e5b",
+"fotos": [
+"7e7d3b3b7ba7b319",
+"3f9d9d1d5e776363"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/ciutat-vella/barcelona-capital/4baf6a32-34c4-4e19-b9e8-4833d3914fe5/d"
+},
+{
+"clave": "habitaclia:7e97356e-bc1d-4c8a-98c5-727877c623a6",
+"municipio": "barcelona",
+"precio": 975,
+"metros": 45,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "262d290845705e5b",
+"fotos": [
+"6b37151935f18d81",
+"2c93c7a7afc7289c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/ciutat-vella/barcelona-capital/7e97356e-bc1d-4c8a-98c5-727877c623a6/d"
+},
+{
+"clave": "habitaclia:5a4c541c-7678-4cd8-a4ad-39f317090fe4",
+"municipio": "vilanova i la geltru",
+"precio": 940,
+"metros": 59,
+"barrio": "nord",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"e90f0e6f4f65e4e4",
+"8c8e869880808890"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/nord/vilanova-i-la-geltru/5a4c541c-7678-4cd8-a4ad-39f317090fe4/d"
+},
+{
+"clave": "habitaclia:d0b7f29c-63fc-46a1-91d0-ebf920df20d4",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "sant andreu",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"39133685859a1607",
+"b919190c2ccc5cf8"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu/barcelona-capital/d0b7f29c-63fc-46a1-91d0-ebf920df20d4/d"
+},
+{
+"clave": "habitaclia:34cf9c6a-3a89-45c2-aae8-5fa3d69f9cde",
+"municipio": "l'hospitalet de llobregat",
+"precio": 900,
+"metros": 40,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"7d3d253d3d7d5d4f",
+"ddddd9d8d8d81816"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/collblanc-la-torrassa/l-hospitalet-de-llobregat/34cf9c6a-3a89-45c2-aae8-5fa3d69f9cde/d"
+},
+{
+"clave": "habitaclia:31236283-d71c-46d5-8c65-56814d5919e3",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 55,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"cdef435b595465e5",
+"1595d0f0644e0e4c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/31236283-d71c-46d5-8c65-56814d5919e3/d"
+},
+{
+"clave": "habitaclia:1021fee1-9c02-46f1-8849-e351d43c5d8f",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 38,
+"barrio": "nou barris",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"198bbac8068031f1",
+"f0f8f0e0e8f8e4f0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/nou-barris/barcelona-capital/1021fee1-9c02-46f1-8849-e351d43c5d8f/d"
+},
+{
+"clave": "habitaclia:12f0f764-b1de-43f5-b1f0-eeb6cc609965",
+"municipio": "barcelona",
+"precio": 997,
+"metros": 54,
+"barrio": "sant andreu",
+"habitaciones": 2,
+"telefono": "40a659296e71070c",
+"fotos": [
+"b8b2b2fada9afae4",
+"370ececece4e3e0e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-cardenal-tedeschini-8/sant-andreu/barcelona-capital/12f0f764-b1de-43f5-b1f0-eeb6cc609965/d"
+},
+{
+"clave": "habitaclia:65c813ab-8a82-4df4-b58c-cdb6afdcc31d",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"95ddc3a3c7c1dc0c",
+"2393d3cbcf0b2676"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/65c813ab-8a82-4df4-b58c-cdb6afdcc31d/d"
+},
+{
+"clave": "habitaclia:9af4d07f-1d9a-42f4-a587-a04db5563dd0",
+"municipio": "barcelona",
+"precio": 990,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"e8e8e0f8f4d8f8e0",
+"c8e8e0e0e0e8f8e0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/9af4d07f-1d9a-42f4-a587-a04db5563dd0/d"
+},
+{
+"clave": "habitaclia:dc4eb17c-a7a2-4444-b8e4-3241d8b77ae2",
+"municipio": "sant joan despi",
+"precio": 990,
+"metros": 47,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "edb65f25f4ca856c",
+"fotos": [
+"313038181811130f",
+"995998888c8e8f9b"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-de-la-creu-d-en-muntaner/centre/sant-joan-despi/dc4eb17c-a7a2-4444-b8e4-3241d8b77ae2/d"
+},
+{
+"clave": "habitaclia:b25d664a-b6c4-4847-9d71-83f38f805a76",
+"municipio": "barcelona",
+"precio": 895,
+"metros": 30,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"d8f8ecd8d8e8e8f0",
+"e8e8e8e4c0c8c8d8"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/b25d664a-b6c4-4847-9d71-83f38f805a76/d"
+},
+{
+"clave": "habitaclia:1edbcde2-4280-4b09-85b6-8095cf09e3ca",
+"municipio": "vic",
+"precio": 1000,
+"metros": 98,
+"barrio": "centre",
+"habitaciones": 4,
+"telefono": "e4372facb8a65262",
+"fotos": [
+"03078e9a92c6c283",
+"7ce2c6d6c6e6dfbf"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/vic/1edbcde2-4280-4b09-85b6-8095cf09e3ca/d"
+},
+{
+"clave": "habitaclia:6dabeee0-5a7f-48ab-b5e1-eef40a31c721",
+"municipio": "vic",
+"precio": 1000,
+"metros": 87,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "e4372facb8a65262",
+"fotos": [
+"0c0c0c5495bdac5c",
+"8f9d998c8439ec8f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/vic/6dabeee0-5a7f-48ab-b5e1-eef40a31c721/d"
+},
+{
+"clave": "habitaclia:864bbe85-4103-4ca9-b745-a56bc1dd10ec",
+"municipio": "vic",
+"precio": 1000,
+"metros": 98,
+"barrio": "centre",
+"habitaciones": 4,
+"telefono": "e4372facb8a65262",
+"fotos": [
+"7e1ce3b3a3babef7",
+"7ce2c6d6c6e6dfbf"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/vic/864bbe85-4103-4ca9-b745-a56bc1dd10ec/d"
+},
+{
+"clave": "habitaclia:5d28277d-a70b-443e-85d7-a66bddc75cbf",
+"municipio": "sant joan despi",
+"precio": 978,
+"metros": 47,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "edb65f25f4ca856c",
+"fotos": [
+"313038181811130f",
+"0e0c1313029a2bb3"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-de-la-creu-d-en-muntaner/centre/sant-joan-despi/5d28277d-a70b-443e-85d7-a66bddc75cbf/d"
+},
+{
+"clave": "habitaclia:f207e75d-7e20-41d3-89f7-244f738fe30c",
+"municipio": "corbera de llobregat",
+"precio": 888,
+"metros": 85,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "0c2494781545962f",
+"fotos": [
+"3cb4b4bca6f73f7d",
+"eff8e6c6d6766603"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/f207e75d-7e20-41d3-89f7-244f738fe30c/d"
+},
+{
+"clave": "habitaclia:7ef992a9-f70e-4bff-bc7c-edd57a674a93",
+"municipio": "sitges",
+"precio": 900,
+"metros": 38,
+"barrio": "vallpineda - santa barbara",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"d8ccccccccfcf0c4",
+"0fc161a4e1efe79f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/vallpineda-santa-barbara/sitges/7ef992a9-f70e-4bff-bc7c-edd57a674a93/d"
+},
+{
+"clave": "habitaclia:c32394d8-8bbb-49fa-8efd-28bf8a5aa55d",
+"municipio": "corbera de llobregat",
+"precio": 889,
+"metros": 85,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "d2ba25bf5735270d",
+"fotos": [
+"3cb4b4bcaef73f7d",
+"eff8e6c6d6766603"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/duplex/corbera-de-llobregat/c32394d8-8bbb-49fa-8efd-28bf8a5aa55d/d"
+},
+{
+"clave": "habitaclia:c2537d5b-4231-4f7e-b793-60fffe874283",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 36,
+"barrio": "eixample",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"1eaeb6c7078d1d07",
+"1319191919991903"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/eixample/barcelona-capital/c2537d5b-4231-4f7e-b793-60fffe874283/d"
+},
+{
+"clave": "habitaclia:a0962069-da7f-4f70-b56a-97d69bf382f9",
+"municipio": "barcelona",
+"precio": 970,
+"metros": 30,
+"barrio": "eixample",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"8f6b311979c270c6",
+"617370501baeaf8c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/eixample/barcelona-capital/a0962069-da7f-4f70-b56a-97d69bf382f9/d"
+},
+{
+"clave": "habitaclia:e41e6c79-64c5-4767-914e-6ce9e6f5f7ae",
+"municipio": "barcelona",
+"precio": 990,
+"metros": 40,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"55095829291c0c07",
+"d3f399a9c9c18306"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/e41e6c79-64c5-4767-914e-6ce9e6f5f7ae/d"
+},
+{
+"clave": "habitaclia:f0baff4c-bf59-4dfc-8798-73fd4c0f1173",
+"municipio": "barcelona",
+"precio": 902,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "a351ae871873be9f",
+"fotos": [
+"0005242d27263bfa",
+"6e676626c66464c6"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-guitert-41/ciutat-vella/barcelona-capital/f0baff4c-bf59-4dfc-8798-73fd4c0f1173/d"
+},
+{
+"clave": "habitaclia:625fad77-2d2b-4e5e-9c02-8e4fc7e9331a",
+"municipio": "barcelona",
+"precio": 972,
+"metros": 45,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "1b9f354c34ac8a5a",
+"fotos": [
+"1f0f731272323c3c",
+"008781898d96c3c3"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/la-rambla/ciutat-vella/barcelona-capital/625fad77-2d2b-4e5e-9c02-8e4fc7e9331a/d"
+},
+{
+"clave": "habitaclia:875e9998-13fa-41bc-9de5-4e5b4e6b8010",
+"municipio": "igualada",
+"precio": 916,
+"metros": 110,
+"barrio": "el poble sec",
+"habitaciones": 3,
+"telefono": "77ba1b6d617a0abf",
+"fotos": [
+"63c1d9cbca8eca2a",
+"070903871b999c87"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-del-mestre-montaner/el-poble-sec/igualada/875e9998-13fa-41bc-9de5-4e5b4e6b8010/d"
+},
+{
+"clave": "habitaclia:4a2e4e4e-0e11-4c1d-bef4-d36c487508ea",
+"municipio": "barcelona",
+"precio": 960,
+"metros": 40,
+"barrio": "gracia",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"0f2f2f4fcd8d9e5a",
+"03179a92b766507e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/gracia/barcelona-capital/4a2e4e4e-0e11-4c1d-bef4-d36c487508ea/d"
+},
+{
+"clave": "habitaclia:ab9cc1a0-30d7-45c0-b87e-c18105a28200",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 36,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"cf79783948494d07",
+"31391355e3a79989"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/ab9cc1a0-30d7-45c0-b87e-c18105a28200/d"
+},
+{
+"clave": "habitaclia:cee02954-43c2-46e2-8904-787279afdec6",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"190f19d8928e1f33",
+"710d898b657473fb"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/cee02954-43c2-46e2-8904-787279afdec6/d"
+},
+{
+"clave": "habitaclia:33d3a429-2224-484b-bda0-7ca24a61a137",
+"municipio": "barcelona",
+"precio": 980,
+"metros": 45,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"e7634d4d29094b89",
+"4557464656666444"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/33d3a429-2224-484b-bda0-7ca24a61a137/d"
+},
+{
+"clave": "habitaclia:62ba852d-9420-455b-95f0-e3c0e859c8a2",
+"municipio": "barcelona",
+"precio": 899,
+"metros": 36,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"160ea6e6e6e68b93",
+"0c3132323232dcbc"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/62ba852d-9420-455b-95f0-e3c0e859c8a2/d"
+},
+{
+"clave": "habitaclia:74d2a019-4dbf-4443-81bb-0119b711e2b2",
+"municipio": "malgrat de mar",
+"precio": 725,
+"metros": 76,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "fa8b90641773cfa9",
+"fotos": [
+"78405372fc7f7f47",
+"ff17e7e7e7e56d7f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/malgrat-de-mar/74d2a019-4dbf-4443-81bb-0119b711e2b2/d"
+},
+{
+"clave": "habitaclia:85ca4633-3338-434d-af5d-1135e10eda3d",
+"municipio": "barcelona",
+"precio": 830,
+"metros": 45,
+"barrio": "sarria - sant gervasi",
+"habitaciones": 1,
+"telefono": "a351ae871873be9f",
+"fotos": [
+"e6b0b0b0d0f1b0e0",
+"fafb7b733b1c3878"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-sant-eusebi/sarria-sant-gervasi/barcelona-capital/85ca4633-3338-434d-af5d-1135e10eda3d/d"
+},
+{
+"clave": "habitaclia:a74a22d9-4213-4302-ac48-462a7b0312a0",
+"municipio": "sant feliu de codines",
+"precio": 1000,
+"metros": 126,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5d32a3ae01909fb1",
+"fotos": [
+"1e1cfc74b6d9f1b1",
+"0707133315f3bf1e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-feliu-de-codines/a74a22d9-4213-4302-ac48-462a7b0312a0/d"
+},
+{
+"clave": "habitaclia:402a3394-aa30-467a-b9a4-58582b0d9064",
+"municipio": "berga",
+"precio": 800,
+"metros": 164,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"3e3f3f3f3b9b2b6b",
+"f272329490103351"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/berga/402a3394-aa30-467a-b9a4-58582b0d9064/d"
+},
+{
+"clave": "habitaclia:7fffd8d1-b709-4830-89c3-c9f2f9ae4b88",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"0e8f8606071eded6",
+"e1e363676760c5c3"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/7fffd8d1-b709-4830-89c3-c9f2f9ae4b88/d"
+},
+{
+"clave": "habitaclia:08e40dce-29e4-45bd-8c51-7f6c873713c9",
+"municipio": "l'hospitalet de llobregat",
+"precio": 890,
+"metros": 64,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"211b1405c5c50505",
+"0747432727af8f8d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/calle-doctor-marti-i-julia/collblanc-la-torrassa/l-hospitalet-de-llobregat/08e40dce-29e4-45bd-8c51-7f6c873713c9/d"
+},
+{
+"clave": "habitaclia:e6d7c3b1-dfd6-4825-9573-4a201661efaf",
+"municipio": "barcelona",
+"precio": 914,
+"metros": 64,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"8ec6f4707777c78f",
+"85ef6f6f6b2e0f4f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/calle-bot/ciutat-vella/barcelona-capital/e6d7c3b1-dfd6-4825-9573-4a201661efaf/d"
+},
+{
+"clave": "habitaclia:e887adec-64a2-4f0c-a8e4-3c6f9df818f5",
+"municipio": "barcelona",
+"precio": 800,
+"metros": 45,
+"barrio": "ciutat vella",
+"habitaciones": null,
+"telefono": "262d290845705e5b",
+"fotos": [
+"030101f1f9f9ffff",
+"7d3d383cbc802024"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/ciutat-vella/barcelona-capital/e887adec-64a2-4f0c-a8e4-3c6f9df818f5/d"
+},
+{
+"clave": "habitaclia:dc629023-574d-46b7-987f-58f8a1a5d021",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"872361313111a1b9",
+"8d0705444b878585"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/dc629023-574d-46b7-987f-58f8a1a5d021/d"
+},
+{
+"clave": "habitaclia:76843159-afc8-45aa-96a7-1193153eea47",
+"municipio": "terrassa",
+"precio": 792,
+"metros": 66,
+"barrio": "sud",
+"habitaciones": 2,
+"telefono": "85f1777f49c9583f",
+"fotos": [
+"5e1f2f3e3f334946",
+"90169313b1d38389"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sud/terrassa/76843159-afc8-45aa-96a7-1193153eea47/d"
+},
+{
+"clave": "habitaclia:e6f90a97-6ebe-443f-a7e3-3d88c229ac54",
+"municipio": "berga",
+"precio": 720,
+"metros": 80,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "7a24c55ac04492fe",
+"fotos": [
+"cc20238307002321",
+"86c2436369e18207"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/berga/e6f90a97-6ebe-443f-a7e3-3d88c229ac54/d"
+},
+{
+"clave": "habitaclia:a2b9c94f-e75a-4a7a-85c3-241882eefb21",
+"municipio": "manresa",
+"precio": 837,
+"metros": 82,
+"barrio": "bases de manresa - carretera de santpedor",
+"habitaciones": 2,
+"telefono": "568d56f980f19def",
+"fotos": [
+"2f08c0c16f68ffd7",
+"6e1f1e39381d9f9f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/bases-de-manresa-carretera-de-santpedor/manresa/a2b9c94f-e75a-4a7a-85c3-241882eefb21/d"
+},
+{
+"clave": "habitaclia:d70d9f8a-432a-4e1a-85c0-8b6674b5f14e",
+"municipio": "terrassa",
+"precio": 1000,
+"metros": 77,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "09b0991eb02236cb",
+"fotos": [
+"1686d19a959c989c",
+"0d5d3b98102604ce"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/atico/vella-3/centre/terrassa/d70d9f8a-432a-4e1a-85c0-8b6674b5f14e/d"
+},
+{
+"clave": "habitaclia:07ecbf5b-8018-4fbf-bf09-d8c654230190",
+"municipio": "sant celoni",
+"precio": 949,
+"metros": 56,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "93f4f5a007819deb",
+"fotos": [
+"b0b0b1b0f0a19880",
+"09c9c9830360c703"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-celoni/07ecbf5b-8018-4fbf-bf09-d8c654230190/d"
+},
+{
+"clave": "habitaclia:a9ee8285-1adb-46e3-8fa4-385f9308d7b8",
+"municipio": "sabadell",
+"precio": 875,
+"metros": 75,
+"barrio": "creu de barbera - sector sud",
+"habitaciones": 2,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"f8f0e4dcd8e0f0f0",
+"e92f2028c8cf8f4f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/creu-de-barbera-sector-sud/sabadell/a9ee8285-1adb-46e3-8fa4-385f9308d7b8/d"
+},
+{
+"clave": "habitaclia:fde89a53-453f-4e38-9cdc-3d3dda21b58b",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"b1b9d8ccce87878d",
+"717164644c6b2d0d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/fde89a53-453f-4e38-9cdc-3d3dda21b58b/d"
+},
+{
+"clave": "habitaclia:1d0834de-8714-4c19-89c7-7de3a3aa9cd9",
+"municipio": "la roca del valles",
+"precio": 900,
+"metros": 75,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "c442871c384d8de2",
+"fotos": [
+"1585c91b39a9e1f4",
+"391e161ac3a78343"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/la-roca-del-valles/1d0834de-8714-4c19-89c7-7de3a3aa9cd9/d"
+},
+{
+"clave": "habitaclia:f4fd4a19-ddc1-44a6-b6ca-54d758edb01b",
+"municipio": "sallent",
+"precio": 850,
+"metros": 84,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "6a8477e096424823",
+"fotos": [
+"99490f0f03030b03",
+"c22c385838684e06"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sallent/f4fd4a19-ddc1-44a6-b6ca-54d758edb01b/d"
+},
+{
+"clave": "habitaclia:6bfbc81b-8666-40d0-91b8-c48791f1f165",
+"municipio": "sant cebria de vallalta",
+"precio": 1000,
+"metros": 50,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"2203133d35266204",
+"3d19033467672f77"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-cebria-de-vallalta/6bfbc81b-8666-40d0-91b8-c48791f1f165/d"
+},
+{
+"clave": "habitaclia:8810bd58-79f5-4979-9658-535cee778cea",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 50,
+"barrio": "sant andreu",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"018f868686898c86",
+"919151cec691909c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu/barcelona-capital/8810bd58-79f5-4979-9658-535cee778cea/d"
+},
+{
+"clave": "habitaclia:554b8aa2-c733-45fc-ae3d-cdb2f930e3a7",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "sarria - sant gervasi",
+"habitaciones": 1,
+"telefono": "f79ea4f6eab1623f",
+"fotos": [
+"025019b9909c9c3e",
+"e377757978363f3f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/carrer-del-putxet/sarria-sant-gervasi/barcelona-capital/554b8aa2-c733-45fc-ae3d-cdb2f930e3a7/d"
+},
+{
+"clave": "habitaclia:4e073fbd-bfaa-41ea-bb4e-2056e7d6b081",
+"municipio": "sant cebria de vallalta",
+"precio": 1000,
+"metros": 100,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c3c7e7e55998085c",
+"11034fc98ab38cd0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-cebria-de-vallalta/4e073fbd-bfaa-41ea-bb4e-2056e7d6b081/d"
+},
+{
+"clave": "habitaclia:97c2b7fb-ccd2-4f75-a5bf-7f6c84365924",
+"municipio": "sant llorenc savall",
+"precio": 950,
+"metros": 105,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "d985271f87e98450",
+"fotos": [
+"15d7ae4c4b6acb98",
+"8e87c6e666666645"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/sant-llorenc-savall/97c2b7fb-ccd2-4f75-a5bf-7f6c84365924/d"
+},
+{
+"clave": "habitaclia:08400b76-162e-41d2-abdc-c0a38f7d08f7",
+"municipio": "berga",
+"precio": 590,
+"metros": 60,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "1210508354aaaf40",
+"fotos": [
+"0d8dcf59e18c0a47",
+"0e2e2c2e266e8607"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/berga/08400b76-162e-41d2-abdc-c0a38f7d08f7/d"
+},
+{
+"clave": "habitaclia:8bab5e8b-8377-4067-a084-ceb1df089b04",
+"municipio": "sentmenat",
+"precio": 520,
+"metros": 50,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "6924b666a02cbb1e",
+"fotos": [
+"35c5c7c5cdbc6ce5",
+"e070283826383938"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/sentmenat/8bab5e8b-8377-4067-a084-ceb1df089b04/d"
+},
+{
+"clave": "habitaclia:7c46ba2e-7bbb-4017-af71-fa4f0c44dd52",
+"municipio": "sant salvador de guardiola",
+"precio": 850,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "596670547404dbcf",
+"fotos": [
+"e72737b1e1dfffff",
+"c6c6e6e6e4143466"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/sant-salvador-de-guardiola/7c46ba2e-7bbb-4017-af71-fa4f0c44dd52/d"
+},
+{
+"clave": "habitaclia:3e8e70a2-f8f9-455d-8df5-f498221a32ac",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "c1241b2b223a2ce0",
+"fotos": [
+"f0b393d3d4943631",
+"f5c6e6d656c6e6e7"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/baluard/ciutat-vella/barcelona-capital/3e8e70a2-f8f9-455d-8df5-f498221a32ac/d"
+},
+{
+"clave": "habitaclia:2eaf6dbb-4384-4a07-a6f8-770e1b7b3c97",
+"municipio": "barcelona",
+"precio": 977,
+"metros": 40,
+"barrio": "eixample",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"aeded2d2d29a989f",
+"b29e8c86a6e2e0c6"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/eixample/barcelona-capital/2eaf6dbb-4384-4a07-a6f8-770e1b7b3c97/d"
+},
+{
+"clave": "habitaclia:d216f034-5db3-4cff-a972-4271ae2bb5c5",
+"municipio": "sant marti sarroca",
+"precio": 782,
+"metros": 151,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "91d5e31cc0cc8581",
+"fotos": [
+"e0e0e0367b58fdf5",
+"5958626761606060"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-marti-sarroca/d216f034-5db3-4cff-a972-4271ae2bb5c5/d"
+},
+{
+"clave": "habitaclia:dccb94a7-b4d3-4044-a664-4a7a0f233389",
+"municipio": "sitges",
+"precio": 950,
+"metros": 30,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"3919b9c7cd8ee5a9",
+"939d991161459d1d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/sitges/dccb94a7-b4d3-4044-a664-4a7a0f233389/d"
+},
+{
+"clave": "habitaclia:eab1fb77-b0cf-4ca9-8c60-a97916a5aad4",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "sant andreu",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"e8f0f0f8f0e0ccec",
+"f8dcd8c8e8e0e4fc"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu/barcelona-capital/eab1fb77-b0cf-4ca9-8c60-a97916a5aad4/d"
+},
+{
+"clave": "habitaclia:e81842ab-d233-4d90-b3a3-00f335d2fa92",
+"municipio": "figaro-montmany",
+"precio": 810,
+"metros": 77,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "77cab91d45c68a81",
+"fotos": [
+"0f4737a727070707",
+"07032726e89a9a59"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/bajo/figaro-montmany/e81842ab-d233-4d90-b3a3-00f335d2fa92/d"
+},
+{
+"clave": "habitaclia:38fce017-0c6c-4c7c-8f52-a495b7997b84",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 32,
+"barrio": "les corts",
+"habitaciones": 1,
+"telefono": "30e28d831356c7bf",
+"fotos": [
+"30160f8fd9d88e8e",
+"272327a626347d27"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/carrer-del-comandant-benitez-16/les-corts/barcelona-capital/38fce017-0c6c-4c7c-8f52-a495b7997b84/d"
+},
+{
+"clave": "habitaclia:0ef1426a-aebf-4557-8b81-4fa48cfb70b9",
+"municipio": "monistrol de calders",
+"precio": 1000,
+"metros": 170,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"e9fff99cbcbd0d2d",
+"1d5cd0d13407c747"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/duplex/monistrol-de-calders/0ef1426a-aebf-4557-8b81-4fa48cfb70b9/d"
+},
+{
+"clave": "habitaclia:135da578-fce8-4ca7-b48d-811571b4d5ca",
+"municipio": "barcelona",
+"precio": 890,
+"metros": 40,
+"barrio": "sants - montjuic",
+"habitaciones": 3,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"7878787878787878",
+"7878687878786068"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/135da578-fce8-4ca7-b48d-811571b4d5ca/d"
+},
+{
+"clave": "habitaclia:2bdb6549-221c-401c-be06-50b7b6f27f5d",
+"municipio": "pineda de mar",
+"precio": 800,
+"metros": 62,
+"barrio": "poblenou",
+"habitaciones": 1,
+"telefono": "09fa8a61797ff1b0",
+"fotos": [
+"e0c003032f217d55",
+"9c9dab4f4cccc4c4"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/calle-camos/poblenou/pineda-de-mar/2bdb6549-221c-401c-be06-50b7b6f27f5d/d"
+},
+{
+"clave": "habitaclia:cbdb3f77-e095-4151-844d-fd85a92b042a",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 58,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "75fa4b5a71c07eed",
+"fotos": [
+"0f83981c1ca08088",
+"0f2783e3833be727"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-vinaros/ciutat-vella/barcelona-capital/cbdb3f77-e095-4151-844d-fd85a92b042a/d"
+},
+{
+"clave": "habitaclia:5696f76b-5fcf-46db-8c69-8a74b3020c2e",
+"municipio": "barcelona",
+"precio": 875,
+"metros": 47,
+"barrio": "sant marti",
+"habitaciones": 1,
+"telefono": "706bfbb8a1205a9c",
+"fotos": [
+"fbe6ce8cccc4c6cf",
+"0f061333e3070606"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/carrer-de-la-independencia/sant-marti/barcelona-capital/5696f76b-5fcf-46db-8c69-8a74b3020c2e/d"
+},
+{
+"clave": "habitaclia:5a1c861b-27e1-4bd6-9218-b4c757512427",
+"municipio": "castellar de n'hug",
+"precio": 900,
+"metros": 230,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "a1ea61248d9eb9d2",
+"fotos": [
+"1d07281bdcf0ce43",
+"3d1d5ffd7072e7c7"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/chalet/castellar-de-n-hug/5a1c861b-27e1-4bd6-9218-b4c757512427/d"
+},
+{
+"clave": "habitaclia:da0e80c9-a8f4-40f2-92ce-7fe20e52382d",
+"municipio": "vic",
+"precio": 950,
+"metros": 80,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "9e9c0b28925852eb",
+"fotos": [
+"283c3c381c2c4cc3",
+"cfad3d1d33373733"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/vic/da0e80c9-a8f4-40f2-92ce-7fe20e52382d/d"
+},
+{
+"clave": "habitaclia:d0d704a2-7f9f-43f1-b9c0-2ada3fa9d1f4",
+"municipio": "folgueroles",
+"precio": 695,
+"metros": 72,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "a4f6fa359137cd2f",
+"fotos": [
+"f84ce7f276fb8303",
+"170737c7e337b0b0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/folgueroles/d0d704a2-7f9f-43f1-b9c0-2ada3fa9d1f4/d"
+},
+{
+"clave": "habitaclia:d1aea0ec-b97b-467f-b3c6-cf39b8e8f2a1",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 36,
+"barrio": "sant andreu",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"e8f0f0f8f0e8ccec",
+"e8c0ecece8ccc4e8"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu/barcelona-capital/d1aea0ec-b97b-467f-b3c6-cf39b8e8f2a1/d"
+},
+{
+"clave": "habitaclia:fc43751e-77fd-4131-86e6-8f322dd33af4",
+"municipio": "cerdanyola del valles",
+"precio": 850,
+"metros": 55,
+"barrio": "centre - cordelles",
+"habitaciones": 2,
+"telefono": "42928d658d666c7a",
+"fotos": [
+"0303861797961147",
+"01477373c2262d0e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre-cordelles/cerdanyola-del-valles/fc43751e-77fd-4131-86e6-8f322dd33af4/d"
+},
+{
+"clave": "habitaclia:05206f30-2aef-420f-be3c-69b41bc5390c",
+"municipio": "mataro",
+"precio": 641,
+"metros": 51,
+"barrio": "eixample",
+"habitaciones": 1,
+"telefono": "6a98607b3c72c77c",
+"fotos": [
+"f6f8f8f9d978f98b",
+"353131313539332d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/eixample/mataro/05206f30-2aef-420f-be3c-69b41bc5390c/d"
+},
+{
+"clave": "habitaclia:d6c8d750-ae6f-4f04-9aa0-50772da25f4d",
+"municipio": "barcelona",
+"precio": 944,
+"metros": 60,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c9e1404262e6cf0f",
+"0fcb4f4e87c74d0f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/d6c8d750-ae6f-4f04-9aa0-50772da25f4d/d"
+},
+{
+"clave": "habitaclia:4b8a71ec-3fb6-4c4a-ac03-93367725f3f5",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 32,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c5c389a3f0f5d9dc",
+"22676666ee240503"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/4b8a71ec-3fb6-4c4a-ac03-93367725f3f5/d"
+},
+{
+"clave": "habitaclia:86a76bf8-07ce-4ba8-aa1f-31520b4a63c4",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c0fe4e4e4ef3e2e3",
+"f4f8f5f5d6e8c667"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/86a76bf8-07ce-4ba8-aa1f-31520b4a63c4/d"
+},
+{
+"clave": "habitaclia:f8d229c7-480f-4e47-a101-51a5649184df",
+"municipio": "viladecans",
+"precio": 1000,
+"metros": 45,
+"barrio": "la roureda",
+"habitaciones": 0,
+"telefono": "43f11faffb542fc1",
+"fotos": [
+"c3c0c8c3c1c6c6cf",
+"3308012544488947"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/loft/carrer-del-doctor-reig/la-roureda/viladecans/f8d229c7-480f-4e47-a101-51a5649184df/d"
+},
+{
+"clave": "habitaclia:a4e48b09-6390-43f0-b1d3-de91af3dee14",
+"municipio": "barcelona",
+"precio": 975,
+"metros": 30,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"26363634361c5c4e",
+"4caccc2de6e5717e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/a4e48b09-6390-43f0-b1d3-de91af3dee14/d"
+},
+{
+"clave": "habitaclia:31ad5d6c-1117-4cef-bed8-74ef671b2bed",
+"municipio": "terrassa",
+"precio": 650,
+"metros": 40,
+"barrio": "ponent",
+"habitaciones": null,
+"telefono": "14d52291cd9d8666",
+"fotos": [
+"7f1f8fcfefef3f19",
+"a1a5a38f0f232303"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/loft/calle-marconi/ponent/terrassa/31ad5d6c-1117-4cef-bed8-74ef671b2bed/d"
+},
+{
+"clave": "habitaclia:94714cdc-1a6a-46d5-a329-6bb562948c94",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 32,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"61610131baefe6f3",
+"93514165cde7e1e1"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/94714cdc-1a6a-46d5-a329-6bb562948c94/d"
+},
+{
+"clave": "habitaclia:fac1534d-a9a9-46af-8a5e-f3eb6c4708fa",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 35,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"ed69616362e27173",
+"b1011dbda646c909"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/fac1534d-a9a9-46af-8a5e-f3eb6c4708fa/d"
+},
+{
+"clave": "habitaclia:f9c8a8eb-d7b8-4677-a1bf-11fc9884fa59",
+"municipio": "mollet del valles",
+"precio": 550,
+"metros": 100,
+"barrio": "col.legis nous",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c8c8d4e4c4d4c8c8",
+"e8f0d0f0e4e0d0d0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/collegis-nous/mollet-del-valles/f9c8a8eb-d7b8-4677-a1bf-11fc9884fa59/d"
+},
+{
+"clave": "habitaclia:26446984-27e5-4df7-8355-336acf28d65d",
+"municipio": "terrassa",
+"precio": 880,
+"metros": 126,
+"barrio": "ponent",
+"habitaciones": 4,
+"telefono": "6eb80be16e33aea4",
+"fotos": [
+"e43cbc8c2c34323e",
+"eb8783ca9aadc7d3"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/duplex/ponent/terrassa/26446984-27e5-4df7-8355-336acf28d65d/d"
+},
+{
+"clave": "habitaclia:5e2539c2-ebd9-400b-9b21-76878cb4c80f",
+"municipio": "el papiol",
+"precio": 900,
+"metros": 64,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "de50f705811b943f",
+"fotos": [
+"878f99390e5e0507",
+"c0c4d0d0b0b09090"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/el-papiol/5e2539c2-ebd9-400b-9b21-76878cb4c80f/d"
+},
+{
+"clave": "habitaclia:bf09d937-0119-4c0d-b9a9-5c7a753d7660",
+"municipio": "barcelona",
+"precio": 999,
+"metros": 42,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "6059ed56a410082c",
+"fotos": [
+"c8f8d8d8f0e8c8d8",
+"d8c8e4f8f8d8f0f0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/bf09d937-0119-4c0d-b9a9-5c7a753d7660/d"
+},
+{
+"clave": "habitaclia:1fb4995d-ba50-4fb1-bc6f-42a393a17c10",
+"municipio": "barcelona",
+"precio": 895,
+"metros": 30,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"e6e63c3c2634f4c4",
+"4c43c3c39299959d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/1fb4995d-ba50-4fb1-bc6f-42a393a17c10/d"
+},
+{
+"clave": "habitaclia:0c59173d-d9f7-4d11-88e9-7d322d36446e",
+"municipio": "manresa",
+"precio": 850,
+"metros": 90,
+"barrio": "barri mion - puigberenguer",
+"habitaciones": 3,
+"telefono": "c79d1d84ccd0230d",
+"fotos": [
+"8cacd4d4c0511d4c",
+"7232306c8c21058d"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-la-pica-d-estats-32/barri-mion-puigberenguer/manresa/0c59173d-d9f7-4d11-88e9-7d322d36446e/d"
+},
+{
+"clave": "habitaclia:8684acc7-adef-4fc7-81fc-0d1916d85a2c",
+"municipio": "monistrol de calders",
+"precio": 800,
+"metros": 60,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "3a9e12223106b750",
+"fotos": [
+"e74747c7cf4d0e9c",
+"3e766c2cad0e8f8f"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/apartamento/monistrol-de-calders/8684acc7-adef-4fc7-81fc-0d1916d85a2c/d"
+},
+{
+"clave": "habitaclia:2131f687-1d39-4a74-bece-0fc4bb2ef8f7",
+"municipio": "barcelona",
+"precio": 825,
+"metros": 30,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"1e18080ad0c4c715",
+"0d6c684d4c0cccac"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/2131f687-1d39-4a74-bece-0fc4bb2ef8f7/d"
+},
+{
+"clave": "habitaclia:2b3ddeed-2013-49ad-8713-9e4df59df1d0",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 30,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"ecfefcf17467e587",
+"858686cacece8cbc"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/2b3ddeed-2013-49ad-8713-9e4df59df1d0/d"
+},
+{
+"clave": "habitaclia:92f46a1f-cba3-4160-8ba1-bfc823d77bd0",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 30,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"0f1d4d066c6eb73e",
+"8dd333119b2b3b27"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/92f46a1f-cba3-4160-8ba1-bfc823d77bd0/d"
+},
+{
+"clave": "habitaclia:b730c7d5-d2b6-468d-b0a6-1906553809da",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 36,
+"barrio": "sants - montjuic",
+"habitaciones": 0,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"6c785878c9c9cf01",
+"391117d5e3171999"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sants-montjuic/barcelona-capital/b730c7d5-d2b6-468d-b0a6-1906553809da/d"
+},
+{
+"clave": "habitaclia:ce2b1c45-85e1-477d-931f-0701d060674f",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 36,
+"barrio": "ciutat vella",
+"habitaciones": 0,
+"telefono": "11cfcc53aa47b205",
+"fotos": [
+"d9e163337371c0c7",
+"bc1f1f1f1b2e2f67"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/ce2b1c45-85e1-477d-931f-0701d060674f/d"
+},
+{
+"clave": "habitaclia:4835cad9-0c82-4812-9ea9-66bf7e061fe4",
+"municipio": "gelida",
+"precio": 950,
+"metros": 103,
+"barrio": "",
+"habitaciones": 4,
+"telefono": "e9ec22177df9ff77",
+"fotos": [
+"100103333272c302",
+"07072626460486ce"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/duplex/gelida/4835cad9-0c82-4812-9ea9-66bf7e061fe4/d"
+},
+{
+"clave": "habitaclia:06c0d6b8-56ef-420f-8985-84064ee4d01b",
+"municipio": "l'hospitalet de llobregat",
+"precio": 899,
+"metros": 89,
+"barrio": "centre - sant josep - sanfeliu",
+"habitaciones": 2,
+"telefono": "654c754621f1056c",
+"fotos": [],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-poeta-llombart-17/centre-sant-josep-sanfeliu/l-hospitalet-de-llobregat/06c0d6b8-56ef-420f-8985-84064ee4d01b/d"
+},
+{
+"clave": "habitaclia:b4c073b6-ffcc-4eea-b568-1c938e4c3126",
+"municipio": "l'hospitalet de llobregat",
+"precio": 899,
+"metros": 89,
+"barrio": "centre - sant josep - sanfeliu",
+"habitaciones": 2,
+"telefono": "654c754621f1056c",
+"fotos": [],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-poeta-llombart-17/centre-sant-josep-sanfeliu/l-hospitalet-de-llobregat/b4c073b6-ffcc-4eea-b568-1c938e4c3126/d"
+},
+{
+"clave": "habitaclia:359b5576-b054-416a-a7e5-937c98209252",
+"municipio": "sabadell",
+"precio": 820,
+"metros": 53,
+"barrio": "centre - sant oleguer",
+"habitaciones": 1,
+"telefono": "bbc0148a007c198e",
+"fotos": [
+"f4548cf575e4c839",
+"cbcb59ddccf13725"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/calle-de-gorina-i-pujol-10/centre-sant-oleguer/sabadell/359b5576-b054-416a-a7e5-937c98209252/d"
+},
+{
+"clave": "habitaclia:ed06edd4-a633-4ecf-b616-ad858b49bd56",
+"municipio": "sant pere de ribes",
+"precio": 890,
+"metros": 45,
+"barrio": "vallpineda - rocamar",
+"habitaciones": 1,
+"telefono": "b37d6ca4f0cd3c1f",
+"fotos": [
+"94939fc78e9e069e",
+"fbca9adac8983818"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/atico/merce-amell-5/vallpineda-rocamar/sant-pere-de-ribes/ed06edd4-a633-4ecf-b616-ad858b49bd56/d"
+},
+{
+"clave": "habitaclia:45160f77-2b97-4b14-a25b-b16e02753e48",
+"municipio": "gironella",
+"precio": 600,
+"metros": 768,
+"barrio": "",
+"habitaciones": null,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"90fcf2f8cca93ef0",
+"ccece0f8e8c0e0e0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/gironella/45160f77-2b97-4b14-a25b-b16e02753e48/d"
+},
+{
+"clave": "habitaclia:70762d17-6861-4380-84f4-37a55d513940",
+"municipio": "cardona",
+"precio": 595,
+"metros": 88,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "0172103caafb6e7d",
+"fotos": [
+"23e632333376c627",
+"e8fc8c9438e8c88c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/duplex/cardona/70762d17-6861-4380-84f4-37a55d513940/d"
+},
+{
+"clave": "habitaclia:50dae79e-03e6-4608-aaa2-d8f8c00dbd2d",
+"municipio": "sant iscle de vallalta",
+"precio": 725,
+"metros": 35,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "94ec5c6494d6f209",
+"fotos": [
+"ffff3fe3bb1e33b1",
+"7ccd91d9d8a4bc3e"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/vivienda/sant-iscle-de-vallalta/50dae79e-03e6-4608-aaa2-d8f8c00dbd2d/d"
+},
+{
+"clave": "habitaclia:b9491376-b6a0-47a0-a113-fcde42cb9663",
+"municipio": "mataro",
+"precio": 800,
+"metros": 45,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "65006a9d8e6341fe",
+"fotos": [
+"b1a06161a11f1731",
+"884c6c4c6c606864"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/apartamento/gravina-6/centre/mataro/b9491376-b6a0-47a0-a113-fcde42cb9663/d"
+},
+{
+"clave": "habitaclia:5caf559c-6bfa-4567-a1bf-a191707fa6ca",
+"municipio": "canovelles",
+"precio": 925,
+"metros": 65,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "ba0db85ed0c796bb",
+"fotos": [
+"dd988888e4d4c0dc",
+"6205696b6d450d0f"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/canovelles/5caf559c-6bfa-4567-a1bf-a191707fa6ca/d"
+},
+{
+"clave": "habitaclia:a3c7155c-cfd1-476b-a27f-db0d2bf2e1fc",
+"municipio": "malgrat de mar",
+"precio": 650,
+"metros": 65,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "dc0712bc7f80debd",
+"fotos": [
+"9c320f0c5cbca361",
+"0e8c8c8d8dc7c7c7"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/malgrat-de-mar/a3c7155c-cfd1-476b-a27f-db0d2bf2e1fc/d"
+},
+{
+"clave": "habitaclia:6c1656cb-5cbb-4abb-9c38-3a7ab4a96134",
+"municipio": "sant feliu de llobregat",
+"precio": 950,
+"metros": 42,
+"barrio": "mas llui",
+"habitaciones": 1,
+"telefono": "7f47b32b8a734541",
+"fotos": [
+"c3e3c3c7c3db5b4f",
+"9d9d1d11b1e9e3c3"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-joan-de-batlle-58/mas-llui/sant-feliu-de-llobregat/6c1656cb-5cbb-4abb-9c38-3a7ab4a96134/d"
+},
+{
+"clave": "habitaclia:4210864c-cd98-4cd3-8047-66e3503d67f5",
+"municipio": "barcelona",
+"precio": 820,
+"metros": 35,
+"barrio": "gracia",
+"habitaciones": 1,
+"telefono": "ebec90e6845365fc",
+"fotos": [
+"32197262c69002c0",
+"6be1e164a6a69b9b"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-cardener-29/gracia/barcelona-capital/4210864c-cd98-4cd3-8047-66e3503d67f5/d"
+},
+{
+"clave": "habitaclia:ece3ae84-b617-4ea6-8dfd-3007429cbac1",
+"municipio": "sabadell",
+"precio": 720,
+"metros": 35,
+"barrio": "ca n'oriac - sector nord",
+"habitaciones": 1,
+"telefono": "a46587e5f7f9ae39",
+"fotos": [
+"0000240143032504",
+"9392801c0e860607"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/loft/carrer-de-la-llanera-47/ca-n-oriac-sector-nord/sabadell/ece3ae84-b617-4ea6-8dfd-3007429cbac1/d"
+},
+{
+"clave": "habitaclia:041ec6a0-2d8b-4852-867e-20b9927c5875",
+"municipio": "castelldefels",
+"precio": 950,
+"metros": 42,
+"barrio": "bellamar",
+"habitaciones": 1,
+"telefono": "bcb1218f5b142611",
+"fotos": [
+"2725212177313e33",
+"3818389cbc9ec989"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/passeig-dels-garrofers-19/bellamar/castelldefels/041ec6a0-2d8b-4852-867e-20b9927c5875/d"
+},
+{
+"clave": "habitaclia:50fab421-9459-4fc9-8c0e-3ba776806442",
+"municipio": "cerdanyola del valles",
+"precio": 900,
+"metros": 42,
+"barrio": "serraparera",
+"habitaciones": 1,
+"telefono": "7cc67b9f85ff58b7",
+"fotos": [
+"0f91131330282135"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/serraparera/cerdanyola-del-valles/50fab421-9459-4fc9-8c0e-3ba776806442/d"
+},
+{
+"clave": "habitaclia:a1d0f0a4-abba-44e8-bec4-6bd0ccac5c0f",
+"municipio": "barcelona",
+"precio": 550,
+"metros": 62,
+"barrio": "horta - guinardo",
+"habitaciones": 0,
+"telefono": "b69d5b8e4da6e411",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/horta-guinardo/barcelona-capital/a1d0f0a4-abba-44e8-bec4-6bd0ccac5c0f/d"
+},
+{
+"clave": "habitaclia:a8321ed6-2873-4792-bfdd-97cfbcf88198",
+"municipio": "barcelona",
+"precio": 925,
+"metros": 60,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "b32eb07ec628ba12",
+"fotos": [],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/apartamento/assaonadors-2/ciutat-vella/barcelona-capital/a8321ed6-2873-4792-bfdd-97cfbcf88198/d"
+},
+{
+"clave": "habitaclia:f85e32a2-3e3e-4ae0-afad-230a6946e0df",
+"municipio": "parets del valles",
+"precio": 995,
+"metros": 130,
+"barrio": "",
+"habitaciones": 4,
+"telefono": "878d9dcc750895e4",
+"fotos": [],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/atico/parets-del-valles/f85e32a2-3e3e-4ae0-afad-230a6946e0df/d"
+},
+{
+"clave": "fotocasa:191442473",
+"municipio": "cubelles",
+"precio": 753,
+"metros": 52,
+"barrio": "santa maria - l'eixample - sud sumella",
+"habitaciones": 1,
+"telefono": "fa8b90641773cfa9",
+"fotos": [
+"278b7373433177b7",
+"000080d2c7c20000"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cubelles/aire-acondicionado-calefaccion-terraza-amueblado/191442473/d"
+},
+{
+"clave": "fotocasa:191440591",
+"municipio": "folgueroles",
+"precio": 695,
+"metros": 72,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "a4f6fa359137cd2f",
+"fotos": [
+"f84ce7f276fb8303",
+"170737c7e337b0b0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/folgueroles/aire-acondicionado-calefaccion/191440591/d"
+},
+{
+"clave": "fotocasa:191440541",
+"municipio": "la roca del valles",
+"precio": 900,
+"metros": 75,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "c442871c384d8de2",
+"fotos": [
+"1585c91b39a9e1f4",
+"391e161ac3a78343"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/la-roca-del-valles/aire-acondicionado-calefaccion-terraza-amueblado-piscina/191440541/d"
+},
+{
+"clave": "fotocasa:191438462",
+"municipio": "cerdanyola del valles",
+"precio": 850,
+"metros": 55,
+"barrio": "centre - cordelles",
+"habitaciones": 2,
+"telefono": "42928d658d666c7a",
+"fotos": [
+"0303861797961147",
+"01477373c2262d0e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cerdanyola-del-valles/ascensor/191438462/d"
+},
+{
+"clave": "fotocasa:191437399",
+"municipio": "l'hospitalet de llobregat",
+"precio": 899,
+"metros": 89,
+"barrio": "sanfeliu",
+"habitaciones": 2,
+"telefono": "654c754621f1056c",
+"fotos": [],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/ascensor-amueblado-television/191437399/d"
+},
+{
+"clave": "fotocasa:191437398",
+"municipio": "l'hospitalet de llobregat",
+"precio": 899,
+"metros": 89,
+"barrio": "sanfeliu",
+"habitaciones": 2,
+"telefono": "654c754621f1056c",
+"fotos": [],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/ascensor-amueblado-television/191437398/d"
+},
+{
+"clave": "fotocasa:191434508",
+"municipio": "malgrat de mar",
+"precio": 725,
+"metros": 76,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "fa8b90641773cfa9",
+"fotos": [
+"78405372fc7f7f47",
+"ff17e7e7e7e56d7f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/malgrat-de-mar/terraza-ascensor/191434508/d"
+},
+{
+"clave": "fotocasa:191431603",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 35,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "c1241b2b223a2ce0",
+"fotos": [
+"f0b393d3d4943631",
+"f5c6e6d656c6e6e7"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-amueblado/191431603/d"
+},
+{
+"clave": "fotocasa:191429027",
+"municipio": "barcelona",
+"precio": 875,
+"metros": 47,
+"barrio": "el camp de l'arpa del clot",
+"habitaciones": 1,
+"telefono": "706bfbb8a1205a9c",
+"fotos": [
+"fbe6ce8cccc4c6cf",
+"0f061333e3070606"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/191429027/d"
+},
+{
+"clave": "fotocasa:191427193",
+"municipio": "barcelona",
+"precio": 825,
+"metros": 30,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"1e18080ad0c4c715",
+"0d6c684d4c0cccac"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-television/191427193/d"
+},
+{
+"clave": "fotocasa:191427141",
+"municipio": "sant feliu de llobregat",
+"precio": 950,
+"metros": 42,
+"barrio": "mas llui",
+"habitaciones": 1,
+"telefono": "7f47b32b8a734541",
+"fotos": [
+"c3e3c3c7c3db5b4f",
+"9d9d1d11b1e9e3c3"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-feliu-de-llobregat/amueblado/191427141/d"
+},
+{
+"clave": "fotocasa:191423833",
+"municipio": "manresa",
+"precio": 850,
+"metros": 45,
+"barrio": "valldaura - carretera de cardona",
+"habitaciones": 1,
+"telefono": "8c16b9d31edaa900",
+"fotos": [
+"cf6f4f69f9f9f8e6",
+"33331630f0183939"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/calefaccion-parking-terraza-ascensor-amueblado-television/191423833/d"
+},
+{
+"clave": "fotocasa:191422835",
+"municipio": "berga",
+"precio": 590,
+"metros": 60,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "1210508354aaaf40",
+"fotos": [
+"0d8dcf59e18c0a47",
+"0e2e2c2e266e8607"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/berga/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/191422835/d"
+},
+{
+"clave": "fotocasa:191420158",
+"municipio": "sentmenat",
+"precio": 520,
+"metros": 50,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "6924b666a02cbb1e",
+"fotos": [
+"35c5c7c5cdbc6ce5",
+"e070283826383938"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sentmenat/calefaccion-amueblado-se-aceptan-mascotas/191420158/d"
+},
+{
+"clave": "fotocasa:191418710",
+"municipio": "sabadell",
+"precio": 720,
+"metros": 35,
+"barrio": "ca n'oriac",
+"habitaciones": 1,
+"telefono": "a46587e5f7f9ae39",
+"fotos": [
+"0000240143032504",
+"9392801c0e860607"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/amueblado/191418710/d"
+},
+{
+"clave": "fotocasa:191415882",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 32,
+"barrio": "el raval",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"61610131baefe6f3",
+"93514165cde7e1e1"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado/191415882/d"
+},
+{
+"clave": "fotocasa:191415245",
+"municipio": "barcelona",
+"precio": 820,
+"metros": 35,
+"barrio": "la salut",
+"habitaciones": 1,
+"telefono": "ebec90e6845365fc",
+"fotos": [
+"32197262c69002c0",
+"6be1e164a6a69b9b"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado/191415245/d"
+},
+{
+"clave": "fotocasa:191413807",
+"municipio": "mataro",
+"precio": 641,
+"metros": 51,
+"barrio": "eixample",
+"habitaciones": 1,
+"telefono": "6a98607b3c72c77c",
+"fotos": [
+"f6f8f8f9d978f98b",
+"353131313539332d"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-ascensor/191413807/d"
+},
+{
+"clave": "fotocasa:191408995",
+"municipio": "figaro-montmany",
+"precio": 810,
+"metros": 77,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "77cab91d45c68a81",
+"fotos": [
+"0f4737a727070707",
+"07032726e89a9a59"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/figaro-montmany/no-amueblado/191408995/d"
+},
+{
+"clave": "fotocasa:191407600",
+"municipio": "sallent",
+"precio": 850,
+"metros": 84,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "6a8477e096424823",
+"fotos": [
+"99490f0f03030b03",
+"c22c385838684e06"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sallent/calefaccion/191407600/d"
+},
+{
+"clave": "fotocasa:191407420",
+"municipio": "manresa",
+"precio": 850,
+"metros": 90,
+"barrio": "barri mion - puigberenguer",
+"habitaciones": 3,
+"telefono": "c79d1d84ccd0230d",
+"fotos": [
+"8cacd4d4c0511d4c",
+"7232306c8c21058d"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/calefaccion-parking-trastero-ascensor-amueblado/191407420/d"
+},
+{
+"clave": "fotocasa:191406824",
+"municipio": "l'hospitalet de llobregat",
+"precio": 890,
+"metros": 64,
+"barrio": "la torrassa",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"211b1405c5c50505",
+"0747432727af8f8d"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/ascensor-amueblado/191406824/d"
+},
+{
+"clave": "fotocasa:191382624",
+"municipio": "barcelona",
+"precio": 972,
+"metros": 45,
+"barrio": "el raval",
+"habitaciones": 2,
+"telefono": "1b9f354c34ac8a5a",
+"fotos": [
+"1f0f731272323c3c",
+"008781898d96c3c3"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/191382624/d"
+},
+{
+"clave": "fotocasa:191357356",
+"municipio": "sant pere de ribes",
+"precio": 890,
+"metros": 40,
+"barrio": "vallpineda - rocamar",
+"habitaciones": 1,
+"telefono": "b37d6ca4f0cd3c1f",
+"fotos": [
+"e25ad29ec89a3a12",
+"0c94939fc79e1e06"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pere-de-ribes/calefaccion-terraza-amueblado/191357356/d"
+},
+{
+"clave": "fotocasa:191350707",
+"municipio": "manresa",
+"precio": 837,
+"metros": 82,
+"barrio": "bases de manresa - carretera de santpedor",
+"habitaciones": 2,
+"telefono": "568d56f980f19def",
+"fotos": [
+"2f08c0c16f68ffd7",
+"6e1f1e39381d9f9f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/calefaccion-terraza-ascensor/191350707/d"
+},
+{
+"clave": "fotocasa:191350084",
+"municipio": "barcelona",
+"precio": 914,
+"metros": 64,
+"barrio": "barri gotic",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"8ec6f4707777c78f",
+"85ef6f6f6b2e0f4f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/191350084/d"
+},
+{
+"clave": "fotocasa:191348397",
+"municipio": "cardona",
+"precio": 595,
+"metros": 88,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "0172103caafb6e7d",
+"fotos": [
+"23e632333376c627",
+"e8fc8c9438e8c88c"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cardona/cardona/191348397/d"
+},
+{
+"clave": "fotocasa:191330913",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 35,
+"barrio": "barri gotic",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"95ddc3a3c7c1dc0c",
+"2393d3cbcf0b2676"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/191330913/d"
+},
+{
+"clave": "fotocasa:191298129",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 36,
+"barrio": "el raval",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"d9e163337371c0c7",
+"bc1f1f1f1b2e2f67"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado-television/191298129/d"
+},
+{
+"clave": "fotocasa:191298128",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 36,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"6c785878c9c9cf01",
+"391117d5e3171999"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado-television/191298128/d"
+},
+{
+"clave": "fotocasa:191298078",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 30,
+"barrio": "el raval",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"0f1d4d066c6eb73e",
+"8dd333119b2b3b27"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-television/191298078/d"
+},
+{
+"clave": "fotocasa:191298051",
+"municipio": "barcelona",
+"precio": 895,
+"metros": 30,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"e6e63c3c2634f4c4",
+"4c43c3c39299959d"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-amueblado/191298051/d"
+},
+{
+"clave": "fotocasa:191289701",
+"municipio": "berga",
+"precio": 800,
+"metros": 164,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"3e3f3f3f3b9b2b6b",
+"f272329490103351"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/berga/calefaccion-parking-amueblado/191289701/d"
+},
+{
+"clave": "fotocasa:191287928",
+"municipio": "terrassa",
+"precio": 880,
+"metros": 126,
+"barrio": "la maurina",
+"habitaciones": 4,
+"telefono": "6eb80be16e33aea4",
+"fotos": [
+"e43cbc8c2c34323e",
+"eb8783ca9aadc7d3"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/calefaccion-terraza-ascensor-patio-amueblado-television/191287928/d"
+},
+{
+"clave": "fotocasa:191280244",
+"municipio": "terrassa",
+"precio": 650,
+"metros": 40,
+"barrio": "ca n'aurell",
+"habitaciones": null,
+"telefono": "14d52291cd9d8666",
+"fotos": [
+"7f1f8fcfefef3f19",
+"a1a5a38f0f232303"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/calefaccion-ascensor-amueblado/191280244/d"
+},
+{
+"clave": "fotocasa:191213723",
+"municipio": "monistrol de calders",
+"precio": 1000,
+"metros": 170,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"e9fff99cbcbd0d2d",
+"1d5cd0d13407c747"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/monistrol-de-calders/aire-acondicionado-calefaccion-terraza-amueblado/191213723/d"
+},
+{
+"clave": "fotocasa:191210851",
+"municipio": "piera",
+"precio": 1000,
+"metros": 68,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "df3dd1dcbdcef12c",
+"fotos": [
+"00014b4b61430301",
+"c7cf87a7969c6650"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/piera/parking-terraza-zona-comunitaria-amueblado/191210851/d"
+},
+{
+"clave": "fotocasa:191208993",
+"municipio": "cardedeu",
+"precio": 680,
+"metros": 71,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "0f2e808370c64554",
+"fotos": [
+"a4a0e47878e8fcbc",
+"23614b4b49404058"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-ascensor-no-amueblado/191208993/d"
+},
+{
+"clave": "fotocasa:191196009",
+"municipio": "castelldefels",
+"precio": 950,
+"metros": 42,
+"barrio": "bellamar",
+"habitaciones": 1,
+"telefono": "bcb1218f5b142611",
+"fotos": [
+"2725212177313e33",
+"3818389cbc9ec989"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/castelldefels/jardin-patio-amueblado/191196009/d"
+},
+{
+"clave": "fotocasa:191185861",
+"municipio": "el papiol",
+"precio": 900,
+"metros": 64,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "de50f705811b943f",
+"fotos": [
+"878f99390e5e0507",
+"c0c4d0d0b0b09090"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-papiol/aire-acondicionado-ascensor-amueblado/191185861/d"
+},
+{
+"clave": "fotocasa:191179779",
+"municipio": "terrassa",
+"precio": 792,
+"metros": 66,
+"barrio": "can palet",
+"habitaciones": 2,
+"telefono": "85f1777f49c9583f",
+"fotos": [
+"5e1f2f3e3f334946",
+"90169313b1d38389"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/191179779/d"
+},
+{
+"clave": "fotocasa:191176595",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 30,
+"barrio": "la bordeta",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"ecfefcf17467e587",
+"858686cacece8cbc"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-television-no-amueblado/191176595/d"
+},
+{
+"clave": "fotocasa:191154463",
+"municipio": "barcelona",
+"precio": 675,
+"metros": 40,
+"barrio": "barri de les corts",
+"habitaciones": 1,
+"telefono": "46aec752f4f0c614",
+"fotos": [
+"f7538d1a3a5a3a73"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor/191154463/d"
+},
+{
+"clave": "fotocasa:191104833",
+"municipio": "terrassa",
+"precio": 1000,
+"metros": 77,
+"barrio": "barri del centre",
+"habitaciones": 1,
+"telefono": "09b0991eb02236cb",
+"fotos": [
+"1686d19a959c989c",
+"0d5d3b98102604ce"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-calefaccion-trastero-ascensor-amueblado/191104833/d"
+},
+{
+"clave": "fotocasa:191067870",
+"municipio": "berga",
+"precio": 720,
+"metros": 80,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "7a24c55ac04492fe",
+"fotos": [
+"cc20238307002321",
+"86c2436369e18207"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/berga/calefaccion/191067870/d"
+},
+{
+"clave": "fotocasa:191035983",
+"municipio": "vic",
+"precio": 950,
+"metros": 80,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "9e9c0b28925852eb",
+"fotos": [
+"283c3c381c2c4cc3",
+"cfad3d1d33373733"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/ascensor/191035983/d"
+},
+{
+"clave": "fotocasa:191033868",
+"municipio": "sitges",
+"precio": 950,
+"metros": 30,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"3919b9c7cd8ee5a9",
+"939d991161459d1d"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sitges/aire-acondicionado-calefaccion-amueblado-se-aceptan-mascotas-internet/191033868/d"
+},
+{
+"clave": "fotocasa:191015522",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 35,
+"barrio": "barri gotic",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"872361313111a1b9",
+"8d0705444b878585"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/191015522/d"
+},
+{
+"clave": "fotocasa:191003089",
+"municipio": "monistrol de calders",
+"precio": 1000,
+"metros": 70,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "a74dcdc8a51b6a36",
+"fotos": [
+"21a9a8165773393d",
+"2e272317cdcf170d"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/monistrol-de-calders/aire-acondicionado-calefaccion-terraza-amueblado/191003089/d"
+},
+{
+"clave": "fotocasa:190976489",
+"municipio": "mollet del valles",
+"precio": 550,
+"metros": 100,
+"barrio": "col.legis nous",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"c8c8d4e4c4d4c8c8",
+"e8f0d0f0e4e0d0d0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/mollet-del-valles/aire-acondicionado-calefaccion-amueblado-internet/190976489/d"
+},
+{
+"clave": "fotocasa:190902343",
+"municipio": "barcelona",
+"precio": 997,
+"metros": 54,
+"barrio": "la sagrera",
+"habitaciones": 2,
+"telefono": "40a659296e71070c",
+"fotos": [
+"b8b2b2fada9afae4",
+"370ececece4e3e0e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/190902343/d"
+},
+{
+"clave": "fotocasa:190846342",
+"municipio": "pineda de mar",
+"precio": 800,
+"metros": 62,
+"barrio": "poblenou",
+"habitaciones": 1,
+"telefono": "09fa8a61797ff1b0",
+"fotos": [
+"e0c003032f217d55",
+"9c9dab4f4cccc4c4"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/pineda-de-mar/aire-acondicionado-calefaccion-terraza-ascensor-amueblado-piscina/190846342/d"
+},
+{
+"clave": "fotocasa:190733689",
+"municipio": "sant feliu de codines",
+"precio": 1000,
+"metros": 126,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5d32a3ae01909fb1",
+"fotos": [
+"1e1cfc74b6d9f1b1",
+"0707133315f3bf1e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-feliu-de-codines/calefaccion-terraza-trastero-zona-comunitaria-ascensor-amueblado/190733689/d"
+},
+{
+"clave": "fotocasa:190665797",
+"municipio": "sant pol de mar",
+"precio": 1000,
+"metros": 71,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "fa3ee63756c2cf5a",
+"fotos": [
+"0f72438b8b17170b",
+"ce971b8b0b1796cb"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pol-de-mar/parking-ascensor-amueblado/190665797/d"
+},
+{
+"clave": "fotocasa:190655376",
+"municipio": "cabrils",
+"precio": 900,
+"metros": 40,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "90509705ac75f011",
+"fotos": [
+"b363644c4c2c0c46",
+"f8383e1a181818f9"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cabrils/internet/190655376/d"
+},
+{
+"clave": "fotocasa:190631982",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 68,
+"barrio": "la prosperitat",
+"habitaciones": 3,
+"telefono": "ad15bbd7dafcf4f8",
+"fotos": [
+"24249492f0e03139",
+"79fbfffb1929ad03"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/190631982/d"
+},
+{
+"clave": "fotocasa:190591069",
+"municipio": "manresa",
+"precio": 650,
+"metros": 80,
+"barrio": "poble nou",
+"habitaciones": 1,
+"telefono": "d030b42ac3bab59b",
+"fotos": [
+"fffbf9d00e383030"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/poble-nou/190591069/d"
+},
+{
+"clave": "fotocasa:190548134",
+"municipio": "sant marti sarroca",
+"precio": 782,
+"metros": 151,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "91d5e31cc0cc8581",
+"fotos": [
+"e0e0e0367b58fdf5",
+"5958626761606060"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-marti-sarroca/sant-marti-sarroca/190548134/d"
+},
+{
+"clave": "fotocasa:190522046",
+"municipio": "l'hospitalet de llobregat",
+"precio": 1000,
+"metros": 60,
+"barrio": "santa eulalia",
+"habitaciones": 1,
+"telefono": "710a7f643d90162a",
+"fotos": [
+"0f4736162637b317",
+"009a82024048190c"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/aire-acondicionado-ascensor-amueblado/190522046/d"
+},
+{
+"clave": "fotocasa:190513267",
+"municipio": "sant salvador de guardiola",
+"precio": 850,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "596670547404dbcf",
+"fotos": [
+"e72737b1e1dfffff",
+"c6c6e6e6e4143466"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-salvador-de-guardiola/jardin-terraza-trastero-amueblado/190513267/d"
+},
+{
+"clave": "fotocasa:190414395",
+"municipio": "barcelona",
+"precio": 895,
+"metros": 30,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"d8f8ecd8d8e8e8f0",
+"e8e8e8e4c0c8c8d8"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/190414395/d"
+},
+{
+"clave": "fotocasa:190240174",
+"municipio": "gironella",
+"precio": 600,
+"metros": 768,
+"barrio": "",
+"habitaciones": null,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"90fcf2f8cca93ef0",
+"ccece0f8e8c0e0e0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/gironella/jardin/190240174/d"
+},
+{
+"clave": "fotocasa:190082317",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 39,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"67774a4a78717cf8",
+"334b40c5d8f498dc"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/190082317/d"
+},
+{
+"clave": "fotocasa:189919591",
+"municipio": "sabadell",
+"precio": 875,
+"metros": 75,
+"barrio": "creu de barbera",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"f8f0e4dcd8e0f0f0",
+"e92f2028c8cf8f4f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/aire-acondicionado-calefaccion-amueblado-internet/189919591/d"
+},
+{
+"clave": "fotocasa:189689115",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 32,
+"barrio": "la maternitat i sant ramon",
+"habitaciones": 1,
+"telefono": "30e28d831356c7bf",
+"fotos": [
+"30160f8fd9d88e8e",
+"272327a626347d27"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona/no-amueblado/189689115/d"
+},
+{
+"clave": "fotocasa:189630548",
+"municipio": "sant cebria de vallalta",
+"precio": 1000,
+"metros": 50,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"2203133d35266204",
+"3d19033467672f77"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-cebria-de-vallalta/aire-acondicionado-calefaccion-amueblado-internet/189630548/d"
+},
+{
+"clave": "fotocasa:189630544",
+"municipio": "sant cebria de vallalta",
+"precio": 1000,
+"metros": 100,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"c3c7e7e55998085c",
+"11034fc98ab38cd0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-cebria-de-vallalta/aire-acondicionado-calefaccion-amueblado-se-aceptan-mascotas-internet/189630544/d"
+},
+{
+"clave": "fotocasa:189598397",
+"municipio": "barcelona",
+"precio": 875,
+"metros": 35,
+"barrio": "la nova esquerra de l'eixample",
+"habitaciones": 1,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"47646161706c4cc3",
+"6868606070786848"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor/189598397/d"
+},
+{
+"clave": "fotocasa:189409535",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 58,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "75fa4b5a71c07eed",
+"fotos": [
+"0f83981c1ca08088",
+"0f2783e3833be727"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/no-amueblado/189409535/d"
+},
+{
+"clave": "fotocasa:189321573",
+"municipio": "viladecans",
+"precio": 1000,
+"metros": 45,
+"barrio": "la roureda",
+"habitaciones": null,
+"telefono": "43f11faffb542fc1",
+"fotos": [
+"c3c0c8c3c1c6c6cf",
+"3308012544488947"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/viladecans/aire-acondicionado-calefaccion-ascensor-amueblado/189321573/d"
+},
+{
+"clave": "fotocasa:189266723",
+"municipio": "sant llorenc savall",
+"precio": 950,
+"metros": 105,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "d985271f87e98450",
+"fotos": [
+"15d7ae4c4b6acb98",
+"8e87c6e666666645"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-llorenc-savall/aire-acondicionado-calefaccion-terraza-trastero-patio/189266723/d"
+},
+{
+"clave": "pisoscom:69184885004.417500",
+"municipio": "caldes de montbui",
+"precio": 920,
+"metros": 65,
+"barrio": "caldes de montbui",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"233c32363c06021e"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-caldes_de_montbui_centro_urbano-69184885004_417500/"
+},
+{
+"clave": "pisoscom:69262598641.529120",
+"municipio": "folgueroles",
+"precio": 695,
+"metros": 72,
+"barrio": "folgueroles",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"f84ce7f276fb8307"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-folgueroles_centro_urbano-69262598641_529120/"
+},
+{
+"clave": "pisoscom:69219936922.531427",
+"municipio": "corbera de llobregat",
+"precio": 888,
+"metros": 85,
+"barrio": "corbera de llobregat",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"dcd89c949498993d"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-corbera_de_llobregat_centro_urbano-69219936922_531427/"
+},
+{
+"clave": "pisoscom:69229058992.501564",
+"municipio": "figaro montmany",
+"precio": 810,
+"metros": 77,
+"barrio": "el figaro (figaro-montmany)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"87878f35e9c9ddcb"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_figaro-69229058992_501564/"
+},
+{
+"clave": "pisoscom:69258713605.518209",
+"municipio": "l'hospitalet de llobregat",
+"precio": 890,
+"metros": 64,
+"barrio": "la torrassa (l'hospitalet de llobregat)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"391b140545c50505"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-la_torrassa08903-69258713605_518209/"
+},
+{
+"clave": "pisoscom:69214924357.109800",
+"municipio": "barcelona",
+"precio": 925,
+"metros": 50,
+"barrio": "la dreta de l'eixample (distrito eixample. barcelona)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"07e7e6e6a693b3fb"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-la_dreta_de_eixample08009-69214924357_109800/"
+},
+{
+"clave": "pisoscom:67581560793.225100",
+"municipio": "sant feliu de codines",
+"precio": 1000,
+"metros": 126,
+"barrio": "sant feliu de codines",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"1e9cfc743699e9b1"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-sant_feliu_de_codines_centro_urbano-67581560793_225100/"
+},
+{
+"clave": "pisoscom:69222741978.518209",
+"municipio": "barcelona",
+"precio": 914,
+"metros": 64,
+"barrio": "el barri gotic (distrito ciutat vella. barcelona)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"8ee4f0707777478f"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_barri_gotic08002-69222741978_518209/"
+},
+{
+"clave": "pisoscom:69202353647.109800",
+"municipio": "igualada",
+"precio": 600,
+"metros": 98,
+"barrio": "centre (igualada)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"1f3b3939f97b3fff"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-igualada_centre-69202353647_109800/"
+},
+{
+"clave": "pisoscom:69218236055.100500",
+"municipio": "navarcles",
+"precio": 770,
+"metros": 88,
+"barrio": "navarcles",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"1fa3678367861f1f"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-navarcles_centro_urbano-69218236055_100500/"
+},
+{
+"clave": "pisoscom:69259712769.109800",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 66,
+"barrio": "el raval (distrito ciutat vella. barcelona)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"4d2f2d2da533879f"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/apartamento-el_raval08001-69259712769_109800/"
+},
+{
+"clave": "pisoscom:69255713819.100500",
+"municipio": "cardona",
+"precio": 695,
+"metros": 88,
+"barrio": "cardona",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"23e632333366c627"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/duplex-cardona_centro_urbano-69255713819_100500/"
+},
+{
+"clave": "pisoscom:69173792482.109200",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 30,
+"barrio": "el raval (distrito ciutat vella. barcelona)",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"8f8fac8e6c6c969f"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_raval08001-69173792482_109200/"
+},
+{
+"clave": "pisoscom:68349765369.501301",
+"municipio": "berga",
+"precio": 800,
+"metros": 164,
+"barrio": "berga",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"3f3f3f3f3bbb4b2b"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/casa-berga_centro_urbano-68349765369_501301/"
+},
+{
+"clave": "pisoscom:68416835378.109200",
+"municipio": "barcelona",
+"precio": 945,
+"metros": 60,
+"barrio": "el raval (distrito ciutat vella. barcelona)",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"e56b61a226668e07"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_raval08001-68416835378_109200/"
+},
+{
+"clave": "pisoscom:68398200063.531896",
+"municipio": "barcelona",
+"precio": 880,
+"metros": 47,
+"barrio": "el poble-sec (distrito sants-montjuic. barcelona)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"8f4e2c24ac8c9ea3"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-el_poble_sec08004-68398200063_531896/"
+},
+{
+"clave": "pisoscom:68382343239.518209",
+"municipio": "monistrol de calders",
+"precio": 1000,
+"metros": 170,
+"barrio": "monistrol de calders",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"e9ffd99c9cb90d0d"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/duplex-monistrol_de_calders_centro_urbano-68382343239_518209/"
+},
+{
+"clave": "pisoscom:76744869710.501283",
+"municipio": "guardiola de bergueda",
+"precio": 700,
+"metros": 100,
+"barrio": "guardiola de bergueda",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"979fdf3c0c0c9f95"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-guardiola_de_bergueda_centro_urbano-76744869710_501283/"
+},
+{
+"clave": "pisoscom:68422613825.225000",
+"municipio": "tona",
+"precio": 1000,
+"metros": 100,
+"barrio": "tona",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"1d19142313187c7c"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-tona_centro_urbano-68422613825_225000/"
+},
+{
+"clave": "pisoscom:24228061113.341300",
+"municipio": "les franqueses del valles",
+"precio": 930,
+"metros": 76,
+"barrio": "bellavista (les franqueses del valles)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"1f1f1f1f0f1d5d4d"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-les_franqueses_del_valles_bellavista-24228061113_341300/"
+},
+{
+"clave": "pisoscom:56710225447.518056",
+"municipio": "pineda de mar",
+"precio": 800,
+"metros": 62,
+"barrio": "centre (pineda de mar)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"e0c0030327217d57"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-pineda_de_mar_centre-56710225447_518056/"
+},
+{
+"clave": "pisoscom:67560404516.531896",
+"municipio": "barcelona",
+"precio": 980,
+"metros": 62,
+"barrio": "el parc-la llacuna del poblenou (distrito sant marti. barcelona)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"1e1e0c1e368e8e0e"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-el_parc_la_llacuna_del_poblenou08018-67560404516_531896/"
+},
+{
+"clave": "pisoscom:51670910796.501301",
+"municipio": "gironella",
+"precio": 600,
+"metros": 768,
+"barrio": "gironella",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"fcf6fbf8cce92f7e"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/casa-gironella_centro_urbano-51670910796_501301/"
+},
+{
+"clave": "pisoscom:65848858909.513967",
+"municipio": "sant sadurni d'anoia",
+"precio": 940,
+"metros": 150,
+"barrio": "can benet de la prua (sant sadurni d'anoia)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"c7cfcd54342e5e17"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/casa-can_benet_de_la_prua-65848858909_513967/"
+},
+{
+"clave": "pisoscom:55883522329.100500",
+"municipio": "cerdanyola del valles",
+"precio": 900,
+"metros": null,
+"barrio": "serraparrera (cerdanyola del valles)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"0f535393b5292131"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/estudio-serraparrera08290-55883522329_100500/"
+},
+{
+"clave": "pisoscom:64204596462.530867",
+"municipio": "barcelona",
+"precio": 900,
+"metros": 45,
+"barrio": "hostafrancs (distrito sants-montjuic. barcelona)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"8fcece6ccc069233"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-sants_montjuic_hostafrancs08015-64204596462_530867/"
+},
+{
+"clave": "pisoscom:63382254620.530867",
+"municipio": "barcelona",
+"precio": 820,
+"metros": 33,
+"barrio": "sant antoni (distrito eixample. barcelona)",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"a899133323271756"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/estudio-eixample_sant_antoni08011-63382254620_530867/"
+},
+{
+"clave": "pisoscom:63378468377.530867",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 42,
+"barrio": "el congres-els indians (distrito sant andreu. barcelona)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"093c3d3d693e8796"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_congres_els_indians08027-63378468377_530867/"
+},
+{
+"clave": "pisoscom:63431472689.530867",
+"municipio": "barcelona",
+"precio": 800,
+"metros": 32,
+"barrio": "el barri gotic (distrito ciutat vella. barcelona)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"f1f9f9797878c207"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_barri_gotic08002-63431472689_530867/"
+},
+{
+"clave": "pisoscom:63420332110.530867",
+"municipio": "barcelona",
+"precio": 800,
+"metros": 44,
+"barrio": "hostafrancs (distrito sants-montjuic. barcelona)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"0d32b2b0b0331307"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-sants_montjuic_hostafrancs08014-63420332110_530867/"
+},
+{
+"clave": "pisoscom:63424964407.530867",
+"municipio": "barcelona",
+"precio": 975,
+"metros": 40,
+"barrio": "la vila de gracia (distrito gracia. barcelona)",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"d6e6c4c4d9c98587"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/estudio-la_vila_de_gracia08012-63424964407_530867/"
+},
+{
+"clave": "pisoscom:63384109363.530867",
+"municipio": "barcelona",
+"precio": 750,
+"metros": 42,
+"barrio": "el raval (distrito ciutat vella. barcelona)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"ee2e4e4f6336378f"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-el_raval08001-63384109363_530867/"
+}
+],
+"correos": {
+"2026-11-19": 0
+},
+"errores_seguidos": {
+"habitaclia": 0,
+"fotocasa": 0,
+"milanuncios": 1,
+"pisoscom": 0
+},
+"primera_vez": false,
+"fotos_genericas": [
+"3979610e0649c98c",
+"b82838383e3e3f3f"
+]
+}
