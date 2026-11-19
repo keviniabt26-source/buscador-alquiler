@@ -159,6 +159,7 @@ def main():
     # 5. Primera vez: resumen + CSV con todo lo que hay publicado ahora mismo
     if primera_vez and filas_csv:
         destino = CARPETA / "estado" / "pisos_actuales.csv"
+        destino.parent.mkdir(exist_ok=True)  # en GitHub la carpeta estado/ no existe la primera vez
         with open(destino, "w", newline="", encoding="utf-8-sig") as fh:
             w = csv.DictWriter(fh, fieldnames=list(filas_csv[0].keys()), delimiter=";")
             w.writeheader()
