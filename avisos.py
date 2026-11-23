@@ -161,7 +161,7 @@ def fijar(ids):
 
 LEYENDA = """📌 <b>CÓMO FUNCIONA RASTREATOR</b>
 
-Cada 15 minutos miro <b>Habitaclia, Fotocasa, pisos.com y Milanuncios</b> y os aviso de los pisos <b>NUEVOS</b> de alquiler en toda la provincia de Barcelona que cumplen:
+Cada 15 minutos miro <b>Habitaclia, Fotocasa y pisos.com</b> y os aviso de los pisos <b>NUEVOS</b> de alquiler en toda la provincia de Barcelona que cumplen:
 ✔️ Máximo 1.000 €/mes · ✔️ Mínimo 30 m² · ✔️ Pisos, estudios y lofts (sin habitaciones sueltas)
 
 <b>COLORES Y CÓMO OS LLEGAN</b>
