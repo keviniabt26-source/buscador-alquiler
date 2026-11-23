@@ -71,6 +71,34 @@ def hoy():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+
+def bloque_que_hacer(p, color, estado_correo):
+    """Dos líneas claras al final de cada aviso 🔴/🟢: en qué punto estamos y qué tiene que hacer Kevin."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    hora = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%H:%M")
+    hay_whatsapp = bool(avisos.enlace_whatsapp(p))
+    contactar = ("pulsa «💬 WhatsApp al propietario» o llama" if hay_whatsapp
+                 else "llama o rellena el formulario del anuncio")
+    if estado_correo.startswith("✉️"):
+        situacion = f"✉️ Ya les hemos escrito por correo (hoy a las {hora})"
+        que_hacer = "Espera su respuesta (llega a Seguimiento 🍀). Si te urge, llama y diles que les escribisteis por email"
+    elif estado_correo.startswith("ℹ️"):
+        situacion = "ℹ️ Hoy ya les escribimos por otro piso"
+        que_hacer = f"Si este también os interesa, {contactar} y nombrad este piso"
+    elif estado_correo.startswith("⏳"):
+        situacion = "❌ Nadie les ha escrito todavía (tope de correos de hoy)"
+        que_hacer = contactar[0].upper() + contactar[1:]
+    elif estado_correo.startswith("⚠️ No se pudo"):
+        situacion = "❌ Falló el correo automático: nadie les ha escrito"
+        que_hacer = contactar[0].upper() + contactar[1:]
+    else:
+        situacion = "❌ Nadie les ha escrito todavía" + (" (el anuncio no tiene email)" if estado_correo else "")
+        que_hacer = ("Si os gusta: " + contactar) if color != "🔴" else contactar[0].upper() + contactar[1:]
+    return (f"<b>📌 Situación:</b> {html.escape(situacion)}\n"
+            f"<b>📄 Documentación:</b> no enviada (solo tras visitar, con tu ok)\n"
+            f"<b>👉 Qué hacer:</b> {html.escape(que_hacer)}")
+
 def main():
     global MODO_INICIAL
     cargar_env()
@@ -210,7 +238,9 @@ def main():
                 except Exception as e:
                     print("ERROR enviando correo:", e)
                     estado_correo = "⚠️ No se pudo enviar el correo: contactad vosotros"
-        if estado_correo:
+        if color in ("🔴", "🟢"):
+            texto += "\n\n" + bloque_que_hacer(p, color, estado_correo)
+        elif estado_correo:
             texto += f"\n<b>{html.escape(estado_correo)}</b>"
 
         if color in ("🔴", "🟢") and avisados < config.MAX_AVISOS_POR_EJECUCION:

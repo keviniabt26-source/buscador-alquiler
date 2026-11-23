@@ -177,9 +177,10 @@ Cada 15 minutos miro <b>Habitaclia, Fotocasa y pisos.com</b> y os aviso de los p
 👤 particular · 🐾 admite mascotas · 🚫🐾 no mascotas · ⚠️ alquiler de temporada
 ❄️ aire · 🔥 calefacción · 🌿 terraza/balcón · 🚗 parking · 🛗 ascensor
 
-<b>CONTACTO AUTOMÁTICO (solo 🔴)</b>
-✉️ <b>Ya les hemos escrito un correo</b> → el robot ha mandado vuestra presentación al anunciante.
-⚠️ <b>Sin email</b> → no hay correo: llamad o rellenad el formulario del anuncio.
+<b>AL FINAL DE CADA 🔴 Y 🟢</b>
+📌 <b>Situación</b> → si ya les hemos escrito (✉️ correo automático, solo 🔴) o si nadie les ha escrito (❌).
+📄 <b>Documentación</b> → nunca se envía sola: solo tras visitar el piso y con el ok de Kevin.
+👉 <b>Qué hacer</b> → el siguiente paso: esperar respuesta, llamar, WhatsApp o formulario.
 💬 <b>WhatsApp al propietario</b> → botón con el mensaje ya escrito (solo particulares con móvil): pulsad y enviad.
 📩 Las <b>respuestas</b> de agencias y propietarios llegan al grupo <b>Seguimiento Pisos 🍀</b>.
 
