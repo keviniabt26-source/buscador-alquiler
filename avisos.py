@@ -1,4 +1,5 @@
 """Envía los avisos al móvil: Telegram (con foto y botón) y/o WhatsApp (solo texto, vía CallMeBot)."""
+import re
 import html
 import json
 import os
@@ -73,7 +74,27 @@ def enlace_whatsapp(p):
     return f"https://wa.me/{numero}?text=" + urllib.parse.quote(texto)
 
 
-def telegram(texto_html, url_anuncio, foto=None, silencio=False, whatsapp=None):
+def enlace_email(p):
+    """Botón «✉️ Escribirles un email»: abre Gmail (cuenta del piso) con el correo ya escrito.
+    No envía nada: lo envía Kevin si el piso le gusta. Solo si el anuncio tiene un email de verdad."""
+    dest = (p.get("email") or "").strip()
+    if not dest or re.search(r"no-?reply|donotreply", dest, re.I):
+        return None
+    zona = p["municipio"] + (f" ({p['barrio'].strip()})" if (p.get("barrio") or "").strip() else "")
+    tel = os.environ.get("DATOS_TELEFONO", "")
+    firma = os.environ.get("DATOS_FIRMA_CORREO") or os.environ.get("DATOS_FIRMA", "")
+    asunto = f"Interesados en el piso de {p['municipio']} – {p['precio']} €/mes"
+    cuerpo = (f"Hola, buenos días:\n\nHemos visto vuestro anuncio del piso en {zona} por {p['precio']} €/mes "
+              f"y nos interesa mucho. Somos Kevin y Andrea, una pareja con trabajos estables (Kevin, Senior Cashier "
+              f"en adidas con contrato indefinido; Andrea, en Sprinter), contamos con avalista familiar y tenemos "
+              f"la documentación preparada. ¿Podríamos visitarlo?\n\nPodéis llamarnos o escribirnos por WhatsApp "
+              f"al {tel}.\n\nMuchas gracias,\n{firma}\n\nAnuncio: {p['url']}")
+    cuenta = os.environ.get("GMAIL_USUARIO", "")
+    return ("https://mail.google.com/mail/?" + urllib.parse.urlencode(
+        {"authuser": cuenta, "view": "cm", "fs": "1", "to": dest, "su": asunto, "body": cuerpo}))
+
+
+def telegram(texto_html, url_anuncio, foto=None, silencio=False, whatsapp=None, email=None):
     """Un piso = un mensaje con foto, datos y botón. silencio=True: llega sin sonido ni vibración.
     whatsapp: enlace wa.me con el mensaje preparado (se añade como segundo botón)."""
     token = os.environ.get("TELEGRAM_TOKEN")
@@ -84,7 +105,10 @@ def telegram(texto_html, url_anuncio, foto=None, silencio=False, whatsapp=None):
     fila = [{"text": "🔗 Ver anuncio", "url": url_anuncio}]
     if whatsapp:
         fila.append({"text": "💬 WhatsApp al propietario", "url": whatsapp})
-    botones = json.dumps({"inline_keyboard": [fila]})
+    filas = [fila]
+    if email:
+        filas.append([{"text": "✉️ Escribirles un email (lo envías tú)", "url": email}])
+    botones = json.dumps({"inline_keyboard": filas})
     callado = "true" if silencio else "false"
     for chat in chats:
         try:
@@ -201,9 +225,9 @@ def whatsapp(texto_html, url_anuncio):
     urllib.request.urlopen(url, timeout=30).read()
 
 
-def avisar(texto_html, url_anuncio, foto=None, silencio=False, whatsapp=None):
+def avisar(texto_html, url_anuncio, foto=None, silencio=False, whatsapp=None, email=None):
     if config.CANAL_AVISOS in ("telegram", "ambos"):
-        telegram(texto_html, url_anuncio, foto, silencio, whatsapp)
+        telegram(texto_html, url_anuncio, foto, silencio, whatsapp, email)
     if config.CANAL_AVISOS in ("whatsapp", "ambos"):
         whatsapp(texto_html, url_anuncio)
 

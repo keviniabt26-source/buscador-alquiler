@@ -78,8 +78,13 @@ def bloque_que_hacer(p, color, estado_correo):
     from zoneinfo import ZoneInfo
     hora = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%H:%M")
     hay_whatsapp = bool(avisos.enlace_whatsapp(p))
-    contactar = ("pulsa «💬 WhatsApp al propietario» o llama" if hay_whatsapp
-                 else "llama o rellena el formulario del anuncio")
+    hay_email = bool(avisos.enlace_email(p))
+    if hay_whatsapp:
+        contactar = "pulsa «💬 WhatsApp al propietario» o llama"
+    elif hay_email:
+        contactar = "pulsa «✉️ Escribirles un email» o llama"
+    else:
+        contactar = "llama o rellena el formulario del anuncio"
     if estado_correo.startswith("✉️"):
         situacion = f"✉️ Ya les hemos escrito por correo (hoy a las {hora})"
         que_hacer = "Espera su respuesta (llega a Seguimiento 🍀). Si te urge, llama y diles que les escribisteis por email"
@@ -245,8 +250,10 @@ def main():
 
         if color in ("🔴", "🟢") and avisados < config.MAX_AVISOS_POR_EJECUCION:
             try:
+                # Botón de email solo si el robot NO les ha escrito ya (🟢 siempre; 🔴 si no se pudo)
+                boton_email = None if estado_correo.startswith(("✉️", "ℹ️")) else avisos.enlace_email(p)
                 avisos.avisar(texto, p["url"], p["fotos"][0] if p["fotos"] else None,
-                              silencio=(color == "🟢"), whatsapp=avisos.enlace_whatsapp(p))
+                              silencio=(color == "🟢"), whatsapp=avisos.enlace_whatsapp(p), email=boton_email)
                 avisados += 1
             except Exception as e:
                 print("ERROR avisando:", e)
