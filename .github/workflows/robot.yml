@@ -32,6 +32,16 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SAL_TELEFONOS: ${{ secrets.SAL_TELEFONOS }}
+          TELEGRAM_SEGUIMIENTO_ID: ${{ secrets.TELEGRAM_SEGUIMIENTO_ID }}
+          GMAIL_USUARIO: ${{ secrets.GMAIL_USUARIO }}
+          GMAIL_CLAVE_APP: ${{ secrets.GMAIL_CLAVE_APP }}
+          DATOS_NOMBRES: ${{ secrets.DATOS_NOMBRES }}
+          DATOS_FIRMA: ${{ secrets.DATOS_FIRMA }}
+          DATOS_FIRMA_CORREO: ${{ secrets.DATOS_FIRMA_CORREO }}
+          DATOS_TELEFONO: ${{ secrets.DATOS_TELEFONO }}
+          DATOS_TRABAJO_1: ${{ secrets.DATOS_TRABAJO_1 }}
+          DATOS_TRABAJO_2: ${{ secrets.DATOS_TRABAJO_2 }}
+          DATOS_TITULARES: ${{ secrets.DATOS_TITULARES }}
 
       - name: Guardar la memoria del robot
         run: |

@@ -31,9 +31,9 @@ ZONA_CERCANA = [
 # --- CORREOS AUTOMÁTICOS ------------------------------------------------------
 # Si es True y el anuncio trae el correo del anunciante, el robot le envía
 # el mensaje de plantillas/correo_interes.txt desde tu Gmail.
-ENVIAR_CORREOS = False        # se activa cuando se configure Gmail y se revise la plantilla
-MAX_CORREOS_POR_DIA = 40      # para que Gmail no lo tome por spam
-CORREO_SOLO_NIVELES = ["🔴", "🟢", "🟡"]  # a qué niveles se escribe
+ENVIAR_CORREOS = True         # correo automático al anunciante (Gmail del robot)
+MAX_CORREOS_POR_DIA = 10      # cuenta nueva y compartida con el envío a agencias: total bajo para no parecer spam
+CORREO_SOLO_NIVELES = ["🔴"]  # a qué niveles se escribe
 
 # --- AVISOS AL MÓVIL ----------------------------------------------------------
 # "telegram", "whatsapp" o "ambos"
@@ -41,8 +41,10 @@ CANAL_AVISOS = "telegram"
 # La primera vez que se ejecuta hay cientos de pisos ya publicados: en vez de
 # mandar cientos de avisos, los guarda como "vistos" y crea pisos_actuales.csv
 AVISAR_EN_PRIMERA_EJECUCION = False
-MAX_AVISOS_POR_EJECUCION = 25  # por seguridad, si algo sale mal no te inunda
+MAX_AVISOS_POR_EJECUCION = 25  # por seguridad, si algo sale mal no te inunda (lo que no quepa va al resumen)
+# 🟡 LEJOS no se manda uno a uno: va en un resumen diario a partir de esta hora (hora de España)
+HORA_RESUMEN = 21
 
 # --- FUENTES ------------------------------------------------------------------
-FUENTES_ACTIVAS = ["habitaclia", "fotocasa", "milanuncios", "pisoscom"]
+FUENTES_ACTIVAS = ["habitaclia", "fotocasa", "pisoscom"]  # milanuncios bloquea a GitHub: se usa su alerta propia
 PAUSA_ENTRE_PAGINAS = 2.0     # segundos, para no cargar las webs

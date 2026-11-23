@@ -1,17 +1,16 @@
-ASUNTO: Interesados en el piso de {municipio} – {precio} €{referencia}
+ASUNTO: Interesados en el piso de {municipio} – {precio} €/mes{referencia}
 Hola, buenos días:
 
-Hemos visto vuestro anuncio del piso en {municipio} por {precio} €/mes{referencia} y nos interesa mucho. Nos gustaría visitarlo en cuanto sea posible; nos adaptamos al horario que os vaya bien.
+Hemos visto vuestro anuncio del piso en {zona} por {precio} €/mes{referencia} y nos interesa mucho. Nos gustaría visitarlo en cuanto sea posible; nos adaptamos a vuestro horario.
 
-Somos {nombres}, una pareja sin hijos. Os resumimos nuestra situación:
+Somos {nombres}, una pareja sin hijos, y os resumimos nuestra situación:
 - {trabajo_1}
 - {trabajo_2}
-- Contamos con el aval de dos familiares con más de 10 años de antigüedad en sus trabajos.
-- Tenemos toda la documentación preparada (nóminas, contratos, vida laboral) para enviarla en cuanto nos la pidáis.
-
-Aquí tenéis nuestra presentación: {enlace_presentacion}
-
-Podéis llamarme o escribirme por WhatsApp al {telefono}.
+- {titulares}
+- Tenemos toda la documentación preparada (nóminas, contratos y vida laboral) para facilitarla cuando visitemos la vivienda.
+- Entrada flexible.
+{linea_presentacion}
+Podéis llamarme o escribirme por WhatsApp al {telefono}, o responder a este correo.
 
 Muchas gracias y un saludo,
 {firma}

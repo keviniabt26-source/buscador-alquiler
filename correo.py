@@ -7,6 +7,8 @@ Necesita (en Secrets de GitHub o en .env):
   DATOS_FIRMA          -> p. ej. "Nombre Apellido"
   DATOS_TELEFONO       -> tu móvil
   DATOS_TRABAJO_1/2    -> una línea por persona, p. ej. "Nombre: contrato indefinido en ... desde 20XX"
+  DATOS_TITULARES      -> línea sobre cotitulares/avalistas e ingresos conjuntos
+  DATOS_FIRMA_CORREO   -> firma del correo (si falta, se usa DATOS_FIRMA)
   ENLACE_PRESENTACION  -> enlace (Drive) a la presentación en PDF, SIN DNI ni nóminas
 """
 import os
@@ -19,7 +21,8 @@ PLANTILLA = Path(__file__).parent / "plantillas" / "correo_interes.txt"
 
 def configurado():
     return all(os.environ.get(k) for k in ["GMAIL_USUARIO", "GMAIL_CLAVE_APP", "DATOS_NOMBRES",
-                                           "DATOS_FIRMA", "DATOS_TELEFONO"])
+                                           "DATOS_FIRMA", "DATOS_TELEFONO", "DATOS_TRABAJO_1",
+                                           "DATOS_TRABAJO_2", "DATOS_TITULARES"])
 
 
 def componer(p):
@@ -27,15 +30,18 @@ def componer(p):
     asunto, cuerpo = texto.split("\n", 1)
     datos = {
         "municipio": p["municipio"],
+        "zona": p["municipio"] + (f" ({p['barrio'].strip()})" if (p.get("barrio") or "").strip() else ""),
         "precio": p["precio"],
         "referencia": f" (ref. {p['referencia']})" if p.get("referencia") else "",
         "url": p["url"],
         "nombres": os.environ.get("DATOS_NOMBRES", ""),
-        "firma": os.environ.get("DATOS_FIRMA", ""),
+        "firma": os.environ.get("DATOS_FIRMA_CORREO") or os.environ.get("DATOS_FIRMA", ""),
         "telefono": os.environ.get("DATOS_TELEFONO", ""),
         "trabajo_1": os.environ.get("DATOS_TRABAJO_1", ""),
         "trabajo_2": os.environ.get("DATOS_TRABAJO_2", ""),
-        "enlace_presentacion": os.environ.get("ENLACE_PRESENTACION", "(os la envío en cuanto me digáis)"),
+        "titulares": os.environ.get("DATOS_TITULARES", ""),
+        "linea_presentacion": (f"\nAquí tenéis nuestra presentación: {os.environ['ENLACE_PRESENTACION']}\n"
+                               if os.environ.get("ENLACE_PRESENTACION") else ""),
     }
     return asunto.replace("ASUNTO:", "").strip().format(**datos), cuerpo.strip().format(**datos)
 
@@ -43,7 +49,8 @@ def componer(p):
 def enviar(p):
     asunto, cuerpo = componer(p)
     msg = EmailMessage()
-    msg["From"] = os.environ["GMAIL_USUARIO"]
+    nombre = os.environ.get("DATOS_NOMBRES", "")
+    msg["From"] = f"{nombre} <{os.environ['GMAIL_USUARIO']}>" if nombre else os.environ["GMAIL_USUARIO"]
     msg["To"] = p["email"]
     msg["Subject"] = asunto
     msg.set_content(cuerpo)
