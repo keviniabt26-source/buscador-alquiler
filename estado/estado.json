@@ -4557,10 +4557,1706 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-capellades_centro_urbano-69198564710_100500/"
+},
+{
+"clave": "habitaclia:1be8a3f7-b8ae-421b-8e46-770867e26897",
+"municipio": "barcelona",
+"precio": 781,
+"metros": 51,
+"barrio": "horta - guinardo",
+"habitaciones": 2,
+"telefono": "c17cf6f67734cb8a",
+"fotos": [
+"87d5c7c6c6868687",
+"8fd5c7c6c6878687"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-santa-albina/horta-guinardo/barcelona-capital/1be8a3f7-b8ae-421b-8e46-770867e26897/d"
+},
+{
+"clave": "habitaclia:089b30f7-7866-4736-8bb9-19842099c7f6",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-consell-de-cent-315/eixample/barcelona-capital/089b30f7-7866-4736-8bb9-19842099c7f6/d"
+},
+{
+"clave": "habitaclia:40931164-6324-4f7a-ac27-21ee808be9f5",
+"municipio": "sant boi de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-d-anselm-clave-23/centre/sant-boi-de-llobregat/40931164-6324-4f7a-ac27-21ee808be9f5/d"
+},
+{
+"clave": "habitaclia:597f8d98-741f-40f8-baf6-1cb398d13633",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "sant marti",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0e0e1d9d2e4eeeff"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/gran-via-de-les-corts-catalanes-983/sant-marti/barcelona-capital/597f8d98-741f-40f8-baf6-1cb398d13633/d"
+},
+{
+"clave": "habitaclia:66697340-4016-4890-aca6-df0831bebf96",
+"municipio": "badalona",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-dos-de-maig-20/centre/badalona/66697340-4016-4890-aca6-df0831bebf96/d"
+},
+{
+"clave": "habitaclia:6bca7900-7a3b-4385-9e73-1d7b0f9b118a",
+"municipio": "terrassa",
+"precio": 535,
+"metros": 65,
+"barrio": "nord-oest",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-pere-fizes-18/nord-oest/terrassa/6bca7900-7a3b-4385-9e73-1d7b0f9b118a/d"
+},
+{
+"clave": "habitaclia:7f6bb78b-6a20-4eb9-959f-68fb0386fd62",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-casp-74/eixample/barcelona-capital/7f6bb78b-6a20-4eb9-959f-68fb0386fd62/d"
+},
+{
+"clave": "habitaclia:a6836bea-e0dc-4065-bc1f-619948f8ec02",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0e0c9b3333fb7363"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-balmes-104/eixample/barcelona-capital/a6836bea-e0dc-4065-bc1f-619948f8ec02/d"
+},
+{
+"clave": "habitaclia:b176757f-6a7c-4e8c-965b-1214c71d2d5a",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0703a1cfc3e6e6b3"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-la-diputacio-45/eixample/barcelona-capital/b176757f-6a7c-4e8c-965b-1214c71d2d5a/d"
+},
+{
+"clave": "habitaclia:c6c94440-80b1-45d1-9c95-7e274d689c48",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0d93e3679b9b973f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-d-arago-113/eixample/barcelona-capital/c6c94440-80b1-45d1-9c95-7e274d689c48/d"
+},
+{
+"clave": "habitaclia:cfc5bf6d-1a46-4693-bef4-aab6dfef9ba5",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-tarragona-86/eixample/barcelona-capital/cfc5bf6d-1a46-4693-bef4-aab6dfef9ba5/d"
+},
+{
+"clave": "habitaclia:fcf08c28-126d-4d33-b5ad-2ac7640bf308",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "sants - montjuic",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-del-paral-lel-103/sants-montjuic/barcelona-capital/fcf08c28-126d-4d33-b5ad-2ac7640bf308/d"
+},
+{
+"clave": "habitaclia:246f87f7-c5bb-44a3-934a-ebb5aa58a43f",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-manso-40/eixample/barcelona-capital/246f87f7-c5bb-44a3-934a-ebb5aa58a43f/d"
+},
+{
+"clave": "habitaclia:25c45640-05e0-4d0a-a4d7-e3aba4cd012b",
+"municipio": "sitges",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-sant-antoni-13/centre/sitges/25c45640-05e0-4d0a-a4d7-e3aba4cd012b/d"
+},
+{
+"clave": "habitaclia:9f7559fc-fb27-4239-b406-c7462dc79ac5",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-sardenya-334/eixample/barcelona-capital/9f7559fc-fb27-4239-b406-c7462dc79ac5/d"
+},
+{
+"clave": "habitaclia:eefbb1ff-94f7-4fc4-a196-f9659187184d",
+"municipio": "sant boi de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "marianao",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-riera-baste-8/marianao/sant-boi-de-llobregat/eefbb1ff-94f7-4fc4-a196-f9659187184d/d"
+},
+{
+"clave": "habitaclia:05080fee-d726-462c-9840-183b3885568a",
+"municipio": "manresa",
+"precio": 635,
+"metros": 105,
+"barrio": "centre - passeig i rodalies",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-bruc-106/centre-passeig-i-rodalies/manresa/05080fee-d726-462c-9840-183b3885568a/d"
+},
+{
+"clave": "habitaclia:06136170-08ad-4e84-876f-0118b9694ef0",
+"municipio": "santa coloma de gramenet",
+"precio": 535,
+"metros": 65,
+"barrio": "llati",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"3f3f183333327070"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-verdi-9/llati/santa-coloma-de-gramenet/06136170-08ad-4e84-876f-0118b9694ef0/d"
+},
+{
+"clave": "habitaclia:0ae21bc0-822c-4c56-8b8c-f74265952ece",
+"municipio": "el prat de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "estruch - eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-barcelona-32/estruch-eixample/el-prat-de-llobregat/0ae21bc0-822c-4c56-8b8c-f74265952ece/d"
+},
+{
+"clave": "habitaclia:14f817cf-e207-4048-9842-e7fe1892c597",
+"municipio": "santa coloma de gramenet",
+"precio": 535,
+"metros": 65,
+"barrio": "can mariner",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-camprodon-18/can-mariner/santa-coloma-de-gramenet/14f817cf-e207-4048-9842-e7fe1892c597/d"
+},
+{
+"clave": "habitaclia:1c9a06b1-7b00-4d5c-9fac-0885f45cd459",
+"municipio": "sant feliu de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "mas llui",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-general-manso-65/mas-llui/sant-feliu-de-llobregat/1c9a06b1-7b00-4d5c-9fac-0885f45cd459/d"
+},
+{
+"clave": "habitaclia:20643a1d-02b5-4645-892f-1389cde45c94",
+"municipio": "badalona",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"2303232b2b2f286c",
+"2313c373558f8387"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-de-marti-pujol-1/centre/badalona/20643a1d-02b5-4645-892f-1389cde45c94/d"
+},
+{
+"clave": "habitaclia:397a4adc-ae0b-43c6-976a-fcd9c3317571",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "la florida - les planes",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-bobiles-51/la-florida-les-planes/l-hospitalet-de-llobregat/397a4adc-ae0b-43c6-976a-fcd9c3317571/d"
+},
+{
+"clave": "habitaclia:60bf56aa-a61c-443f-94b8-a408866c5c33",
+"municipio": "sabadell",
+"precio": 535,
+"metros": 65,
+"barrio": "centre - sant oleguer",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-marques-de-comillas-9/centre-sant-oleguer/sabadell/60bf56aa-a61c-443f-94b8-a408866c5c33/d"
+},
+{
+"clave": "habitaclia:65fcd8f2-d52a-4b06-b8d5-6856cec7f40e",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "gracia",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-ventallo-48/gracia/barcelona-capital/65fcd8f2-d52a-4b06-b8d5-6856cec7f40e/d"
+},
+{
+"clave": "habitaclia:9ddaf79e-ffc2-4328-804c-aa76bea2822d",
+"municipio": "terrassa",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-col-legi-18/centre/terrassa/9ddaf79e-ffc2-4328-804c-aa76bea2822d/d"
+},
+{
+"clave": "habitaclia:a999fdc5-22ff-4dc7-a7b6-1e947bc8e629",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "sants - montjuic",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-roser-28/sants-montjuic/barcelona-capital/a999fdc5-22ff-4dc7-a7b6-1e947bc8e629/d"
+},
+{
+"clave": "habitaclia:aae0ce0a-0b78-4d7f-99e9-bfe3f3c2eec7",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "horta - guinardo",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-tajo-57/horta-guinardo/barcelona-capital/aae0ce0a-0b78-4d7f-99e9-bfe3f3c2eec7/d"
+},
+{
+"clave": "habitaclia:aed6b8f7-9050-4128-b7dd-893e7b152ab8",
+"municipio": "sant boi de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-francesc-pi-i-margall-81/centre/sant-boi-de-llobregat/aed6b8f7-9050-4128-b7dd-893e7b152ab8/d"
+},
+{
+"clave": "habitaclia:bd4a6ce6-dd07-488b-8a52-55bf54e906e9",
+"municipio": "l'hospitalet de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-montseny-140/collblanc-la-torrassa/l-hospitalet-de-llobregat/bd4a6ce6-dd07-488b-8a52-55bf54e906e9/d"
+},
+{
+"clave": "habitaclia:c3bad78f-fed6-4b21-ad34-8d906cdb17e2",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "horta - guinardo",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-sant-antoni-maria-claret-173/horta-guinardo/barcelona-capital/c3bad78f-fed6-4b21-ad34-8d906cdb17e2/d"
+},
+{
+"clave": "habitaclia:d899a405-fb3b-4eea-b413-4886770c6c6d",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"999999dcfcd898d9"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-del-portal-de-l-angel-7/ciutat-vella/barcelona-capital/d899a405-fb3b-4eea-b413-4886770c6c6d/d"
+},
+{
+"clave": "habitaclia:df0892b9-8161-4238-84ae-f680d6fd5382",
+"municipio": "rubi",
+"precio": 535,
+"metros": 65,
+"barrio": "ca n'oriol",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-girona-14/ca-n-oriol/rubi/df0892b9-8161-4238-84ae-f680d6fd5382/d"
+},
+{
+"clave": "habitaclia:f56c9214-19b7-4f3b-9737-fd6512779026",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "ciutat vella",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-dels-escudellers-18/ciutat-vella/barcelona-capital/f56c9214-19b7-4f3b-9737-fd6512779026/d"
+},
+{
+"clave": "habitaclia:02306bea-1dfb-40aa-92e7-ef4ae7b17275",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-pau-claris-80/eixample/barcelona-capital/02306bea-1dfb-40aa-92e7-ef4ae7b17275/d"
+},
+{
+"clave": "habitaclia:04e80b00-3d00-4aa9-9390-e1fdf23d9ef5",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "sarria - sant gervasi",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-vilana-4b/sarria-sant-gervasi/barcelona-capital/04e80b00-3d00-4aa9-9390-e1fdf23d9ef5/d"
+},
+{
+"clave": "habitaclia:0aca21b5-6d32-4acd-a11f-72fa2d648880",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"ece4e4e6aea6a367"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/passeig-de-joan-de-borbo-69/ciutat-vella/barcelona-capital/0aca21b5-6d32-4acd-a11f-72fa2d648880/d"
+},
+{
+"clave": "habitaclia:0e049004-6af2-4531-b78f-e54ebc0de9e4",
+"municipio": "vilanova i la geltru",
+"precio": 435,
+"metros": 37,
+"barrio": "centre vila",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-josep-anselm-clave-10/centre-vila/vilanova-i-la-geltru/0e049004-6af2-4531-b78f-e54ebc0de9e4/d"
+},
+{
+"clave": "habitaclia:0f77165f-759f-4659-92ad-d5550a4b2b3b",
+"municipio": "granollers",
+"precio": 635,
+"metros": 105,
+"barrio": "sota el cami ral",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-navarra-61/sota-el-cami-ral/granollers/0f77165f-759f-4659-92ad-d5550a4b2b3b/d"
+},
+{
+"clave": "habitaclia:175a1940-1b7e-4f41-9de1-d81bac752ed7",
+"municipio": "igualada",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-santa-caterina-27/centre/igualada/175a1940-1b7e-4f41-9de1-d81bac752ed7/d"
+},
+{
+"clave": "habitaclia:1d32583d-41c9-4ae3-a042-9097998f08c0",
+"municipio": "viladecans",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-dos-de-maig-41/centre/viladecans/1d32583d-41c9-4ae3-a042-9097998f08c0/d"
+},
+{
+"clave": "habitaclia:204f9e5b-3cad-46e3-974e-59d4e99b0914",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-graner-44/collblanc-la-torrassa/l-hospitalet-de-llobregat/204f9e5b-3cad-46e3-974e-59d4e99b0914/d"
+},
+{
+"clave": "habitaclia:3025f362-48a0-47c1-b834-a2f7c00a60a0",
+"municipio": "sant cugat del valles",
+"precio": 435,
+"metros": 37,
+"barrio": "sant domenec",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-vic-5/sant-domenec/sant-cugat-del-valles/3025f362-48a0-47c1-b834-a2f7c00a60a0/d"
+},
+{
+"clave": "habitaclia:306effba-058a-4180-a73c-d512fe859037",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "eixample",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-roger-de-lluria-58/eixample/barcelona-capital/306effba-058a-4180-a73c-d512fe859037/d"
+},
+{
+"clave": "habitaclia:4109fc31-7646-4b3f-a1cf-4d09edff0853",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-balboa-2/ciutat-vella/barcelona-capital/4109fc31-7646-4b3f-a1cf-4d09edff0853/d"
+},
+{
+"clave": "habitaclia:4267e818-40ad-4daa-958c-1b5862efb6c5",
+"municipio": "castelldefels",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-la-llibertat-17/centre/castelldefels/4267e818-40ad-4daa-958c-1b5862efb6c5/d"
+},
+{
+"clave": "habitaclia:5355f5f6-cdf0-4a31-b30f-d4d57c55f38a",
+"municipio": "esplugues de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "el centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-santiago-rusinol-32/el-centre/esplugues-de-llobregat/5355f5f6-cdf0-4a31-b30f-d4d57c55f38a/d"
+},
+{
+"clave": "habitaclia:6161fec2-94ef-4f76-b406-5c46efd02d1d",
+"municipio": "terrassa",
+"precio": 635,
+"metros": 105,
+"barrio": "ponent",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-marconi-32/ponent/terrassa/6161fec2-94ef-4f76-b406-5c46efd02d1d/d"
+},
+{
+"clave": "habitaclia:6be0e932-5c1b-4046-897e-52d2b6330813",
+"municipio": "rubi",
+"precio": 435,
+"metros": 37,
+"barrio": "la serreta",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"03e61431999151d4"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-santa-rosa-7/la-serreta/rubi/6be0e932-5c1b-4046-897e-52d2b6330813/d"
+},
+{
+"clave": "habitaclia:785a5d29-6e2d-409c-af63-d1fb18019244",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "sants - montjuic",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-puig-i-xoriguer-45/sants-montjuic/barcelona-capital/785a5d29-6e2d-409c-af63-d1fb18019244/d"
+},
+{
+"clave": "habitaclia:79955122-2b7c-4a19-8bcf-7a715381efa6",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/placa-cadi-110/collblanc-la-torrassa/l-hospitalet-de-llobregat/79955122-2b7c-4a19-8bcf-7a715381efa6/d"
+},
+{
+"clave": "habitaclia:7dd74f94-7163-4129-8dcc-2f9be258908c",
+"municipio": "cornella de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "la gavarra",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-vista-alegre-39/la-gavarra/cornella-de-llobregat/7dd74f94-7163-4129-8dcc-2f9be258908c/d"
+},
+{
+"clave": "habitaclia:81bac262-dbbc-4c60-bf68-5dea7f699b7c",
+"municipio": "granollers",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-barcelona-98/centre/granollers/81bac262-dbbc-4c60-bf68-5dea7f699b7c/d"
+},
+{
+"clave": "habitaclia:920a1301-e780-47b9-b24b-1d7e5872b1af",
+"municipio": "terrassa",
+"precio": 635,
+"metros": 105,
+"barrio": "ponent",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"2715333a3b2ba2e1"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-galileu-266/ponent/terrassa/920a1301-e780-47b9-b24b-1d7e5872b1af/d"
+},
+{
+"clave": "habitaclia:976d9927-a9c0-48c2-ae41-9d31d7f2c813",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "horta - guinardo",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"841c0c2c2c37670f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ronda-del-guinardo-78/horta-guinardo/barcelona-capital/976d9927-a9c0-48c2-ae41-9d31d7f2c813/d"
+},
+{
+"clave": "habitaclia:b7e6f530-6ad1-4a21-aaa4-8c3c2e9764df",
+"municipio": "sant joan despi",
+"precio": 435,
+"metros": 37,
+"barrio": "les planes",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-josep-maria-trias-de-bes-3/les-planes/sant-joan-despi/b7e6f530-6ad1-4a21-aaa4-8c3c2e9764df/d"
+},
+{
+"clave": "habitaclia:bd0ac008-6c24-4628-be02-97942ff1e83e",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "gracia",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/travessera-de-gracia-222/gracia/barcelona-capital/bd0ac008-6c24-4628-be02-97942ff1e83e/d"
+},
+{
+"clave": "habitaclia:bf57e9ed-8823-4d22-a160-fca89037a8d3",
+"municipio": "el masnou",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-sant-miquel-119/centre/el-masnou/bf57e9ed-8823-4d22-a160-fca89037a8d3/d"
+},
+{
+"clave": "habitaclia:c11aad7c-9f25-462f-9672-5bb17f525faa",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"f7eb8b4a4a63d1d0"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-balmes-10/eixample/barcelona-capital/c11aad7c-9f25-462f-9672-5bb17f525faa/d"
+},
+{
+"clave": "habitaclia:c5f184fc-8989-435f-a082-f406f76ed5ea",
+"municipio": "granollers",
+"precio": 435,
+"metros": 37,
+"barrio": "sota el cami ral",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-princesa-66/sota-el-cami-ral/granollers/c5f184fc-8989-435f-a082-f406f76ed5ea/d"
+},
+{
+"clave": "habitaclia:d6f4230c-6741-4293-9327-2e56a4fab620",
+"municipio": "santa coloma de gramenet",
+"precio": 435,
+"metros": 37,
+"barrio": "can mariner",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-mila-i-fontanals-34/can-mariner/santa-coloma-de-gramenet/d6f4230c-6741-4293-9327-2e56a4fab620/d"
+},
+{
+"clave": "habitaclia:fbd1d502-a019-4e9e-b038-bdb9f6366226",
+"municipio": "vilanova i la geltru",
+"precio": 435,
+"metros": 37,
+"barrio": "barri del mar",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/passeig-del-carme-7/barri-del-mar/vilanova-i-la-geltru/fbd1d502-a019-4e9e-b038-bdb9f6366226/d"
+},
+{
+"clave": "habitaclia:fce9ed70-cc3f-4682-ab73-34b4c5212073",
+"municipio": "granollers",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"1e3e1e1e36342406"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-guayaquil-73/centre/granollers/fce9ed70-cc3f-4682-ab73-34b4c5212073/d"
+},
+{
+"clave": "habitaclia:13d45f4d-c7d7-4d9e-9185-50a9e1392e0c",
+"municipio": "badalona",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-de-marti-pujol-123/centre/badalona/13d45f4d-c7d7-4d9e-9185-50a9e1392e0c/d"
+},
+{
+"clave": "habitaclia:6898a5bf-b370-42b3-98aa-baafef5cb5d5",
+"municipio": "sabadell",
+"precio": 635,
+"metros": 105,
+"barrio": "centre - sant oleguer",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"deba9e9a96167fff"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-narcis-giralt-11/centre-sant-oleguer/sabadell/6898a5bf-b370-42b3-98aa-baafef5cb5d5/d"
+},
+{
+"clave": "habitaclia:6d5134fb-ab96-4ead-90a2-ca1209fc81ca",
+"municipio": "sabadell",
+"precio": 635,
+"metros": 105,
+"barrio": "centre - sant oleguer",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-l-escola-pia-65/centre-sant-oleguer/sabadell/6d5134fb-ab96-4ead-90a2-ca1209fc81ca/d"
+},
+{
+"clave": "habitaclia:e3079bf2-5316-40c7-9561-87ecf57f1225",
+"municipio": "montcada i reixac",
+"precio": 635,
+"metros": 105,
+"barrio": "mas rampinyo - montcada nova - carrerada",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-lleida-25/mas-rampinyo-montcada-nova-carrerada/montcada-i-reixac/e3079bf2-5316-40c7-9561-87ecf57f1225/d"
+},
+{
+"clave": "habitaclia:2dc4b49b-4c4f-43cf-ba83-3ee8b568b335",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/rambla-de-catalunya-65/eixample/barcelona-capital/2dc4b49b-4c4f-43cf-ba83-3ee8b568b335/d"
+},
+{
+"clave": "fotocasa:191480220",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "la florida",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480220/d"
+},
+{
+"clave": "fotocasa:191480200",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "el baix guinardo",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"841c0c2c2c37670f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480200/d"
+},
+{
+"clave": "fotocasa:191480183",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "el camp d'en grassot i gracia nova",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480183/d"
+},
+{
+"clave": "fotocasa:191480168",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "dreta de l'eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480168/d"
+},
+{
+"clave": "fotocasa:191480120",
+"municipio": "terrassa",
+"precio": 635,
+"metros": 105,
+"barrio": "ca n'aurell",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"2715333a3b2ba2e1"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480120/d"
+},
+{
+"clave": "fotocasa:191480115",
+"municipio": "sabadell",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191480115/d"
+},
+{
+"clave": "fotocasa:191480113",
+"municipio": "granollers",
+"precio": 635,
+"metros": 105,
+"barrio": "sota el cami ral",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480113/d"
+},
+{
+"clave": "fotocasa:191480104",
+"municipio": "esplugues de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "el centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/esplugues-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480104/d"
+},
+{
+"clave": "fotocasa:191480063",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "sant marti de provencals",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0e0e1d9d2e4eeeff"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191480063/d"
+},
+{
+"clave": "fotocasa:191480060",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "collblanc",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191480060/d"
+},
+{
+"clave": "fotocasa:191480054",
+"municipio": "badalona",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191480054/d"
+},
+{
+"clave": "fotocasa:191480040",
+"municipio": "terrassa",
+"precio": 635,
+"metros": 105,
+"barrio": "ca n'aurell",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191480040/d"
+},
+{
+"clave": "fotocasa:191479963",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "dreta de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479963/d"
+},
+{
+"clave": "fotocasa:191479958",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "la nova esquerra de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479958/d"
+},
+{
+"clave": "fotocasa:191479955",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "barri gotic",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479955/d"
+},
+{
+"clave": "fotocasa:191479946",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "dreta de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0e0c9b3333fb7363"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479946/d"
+},
+{
+"clave": "fotocasa:191479935",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "el guinardo",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479935/d"
+},
+{
+"clave": "fotocasa:191479928",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "dreta de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479928/d"
+},
+{
+"clave": "fotocasa:191479923",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479923/d"
+},
+{
+"clave": "fotocasa:191479911",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "dreta de l'eixample",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191479911/d"
+},
+{
+"clave": "fotocasa:191479893",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "dreta de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"f7eb8b4a4a63d1d0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479893/d"
+},
+{
+"clave": "fotocasa:191479891",
+"municipio": "granollers",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191479891/d"
+},
+{
+"clave": "fotocasa:191479886",
+"municipio": "badalona",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"2303232b2b2f286c",
+"2313c373558f8387"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor-amueblado-se-aceptan-mascotas/191479886/d"
+},
+{
+"clave": "fotocasa:191479881",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191479881/d"
+},
+{
+"clave": "fotocasa:191479879",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "la barceloneta",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"ece4e4e6aea6a367"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191479879/d"
+},
+{
+"clave": "fotocasa:191479877",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479877/d"
+},
+{
+"clave": "fotocasa:191479862",
+"municipio": "sant feliu de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "mas llui",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-feliu-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479862/d"
+},
+{
+"clave": "fotocasa:191479854",
+"municipio": "barcelona",
+"precio": 435,
+"metros": 37,
+"barrio": "el poble sec - parc de montjuic",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191479854/d"
+},
+{
+"clave": "fotocasa:191479853",
+"municipio": "l'hospitalet de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "la torrassa",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479853/d"
+},
+{
+"clave": "fotocasa:191479843",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "sant antoni",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479843/d"
+},
+{
+"clave": "fotocasa:191479825",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "horta",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479825/d"
+},
+{
+"clave": "fotocasa:191479813",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "la nova esquerra de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0d93e3679b9b973f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479813/d"
+},
+{
+"clave": "fotocasa:191479796",
+"municipio": "sabadell",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479796/d"
+},
+{
+"clave": "fotocasa:191479790",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "la nova esquerra de l'eixample",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"0703a1cfc3e6e6b3"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479790/d"
+},
+{
+"clave": "fotocasa:191479776",
+"municipio": "rubi",
+"precio": 535,
+"metros": 65,
+"barrio": "ca n'oriol",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/rubi/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479776/d"
+},
+{
+"clave": "fotocasa:191479773",
+"municipio": "santa coloma de gramenet",
+"precio": 535,
+"metros": 65,
+"barrio": "llati",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"3f3f183333327070"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479773/d"
+},
+{
+"clave": "fotocasa:191479745",
+"municipio": "igualada",
+"precio": 435,
+"metros": 37,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/ascensor-amueblado-se-aceptan-mascotas/191479745/d"
+},
+{
+"clave": "fotocasa:191479736",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "sagrada familia",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479736/d"
+},
+{
+"clave": "fotocasa:191479728",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "el camp d'en grassot i gracia nova",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479728/d"
+},
+{
+"clave": "fotocasa:191479724",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "les tres torres",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479724/d"
+},
+{
+"clave": "fotocasa:191479687",
+"municipio": "viladecans",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/viladecans/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479687/d"
+},
+{
+"clave": "fotocasa:191479624",
+"municipio": "montcada i reixac",
+"precio": 635,
+"metros": 105,
+"barrio": "mas rampinyo - montcada nova - carrerada",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/montcada-i-reixac/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479624/d"
+},
+{
+"clave": "fotocasa:191479614",
+"municipio": "el masnou",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479614/d"
+},
+{
+"clave": "fotocasa:191479609",
+"municipio": "vilanova i la geltru",
+"precio": 435,
+"metros": 37,
+"barrio": "barri del mar",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/ascensor-amueblado-se-aceptan-mascotas/191479609/d"
+},
+{
+"clave": "fotocasa:191479600",
+"municipio": "badalona",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479600/d"
+},
+{
+"clave": "fotocasa:191479587",
+"municipio": "sant boi de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-boi-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479587/d"
+},
+{
+"clave": "fotocasa:191479553",
+"municipio": "el prat de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "estruch - eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-prat-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479553/d"
+},
+{
+"clave": "fotocasa:191479544",
+"municipio": "santa coloma de gramenet",
+"precio": 535,
+"metros": 65,
+"barrio": "can mariner",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479544/d"
+},
+{
+"clave": "fotocasa:191479529",
+"municipio": "terrassa",
+"precio": 535,
+"metros": 65,
+"barrio": "sant pere",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479529/d"
+},
+{
+"clave": "fotocasa:191479474",
+"municipio": "sitges",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sitges/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479474/d"
+},
+{
+"clave": "fotocasa:191479473",
+"municipio": "vilanova i la geltru",
+"precio": 435,
+"metros": 37,
+"barrio": "centre vila",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/ascensor-amueblado-se-aceptan-mascotas/191479473/d"
+},
+{
+"clave": "fotocasa:191479468",
+"municipio": "sabadell",
+"precio": 635,
+"metros": 105,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"deba9e9a96167fff"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479468/d"
+},
+{
+"clave": "fotocasa:191479457",
+"municipio": "manresa",
+"precio": 635,
+"metros": 105,
+"barrio": "centre - passeig i rodalies",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479457/d"
+},
+{
+"clave": "fotocasa:191479445",
+"municipio": "sant cugat del valles",
+"precio": 435,
+"metros": 37,
+"barrio": "sant domenec",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-cugat-del-valles/ascensor-amueblado-se-aceptan-mascotas/191479445/d"
+},
+{
+"clave": "fotocasa:191479441",
+"municipio": "rubi",
+"precio": 435,
+"metros": 37,
+"barrio": "la serreta",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"03e61431999151d4"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/rubi/ascensor-amueblado-se-aceptan-mascotas/191479441/d"
+},
+{
+"clave": "fotocasa:191479434",
+"municipio": "sant joan despi",
+"precio": 435,
+"metros": 37,
+"barrio": "les planes",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-joan-despi/ascensor-amueblado-se-aceptan-mascotas/191479434/d"
+},
+{
+"clave": "fotocasa:191479422",
+"municipio": "sant boi de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "marianao",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-boi-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479422/d"
+},
+{
+"clave": "fotocasa:191479397",
+"municipio": "barcelona",
+"precio": 535,
+"metros": 65,
+"barrio": "barri gotic",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"999999dcfcd898d9"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479397/d"
+},
+{
+"clave": "fotocasa:191479367",
+"municipio": "santa coloma de gramenet",
+"precio": 435,
+"metros": 37,
+"barrio": "can mariner",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/ascensor-amueblado-se-aceptan-mascotas/191479367/d"
+},
+{
+"clave": "fotocasa:191479357",
+"municipio": "barcelona",
+"precio": 781,
+"metros": 51,
+"barrio": "la teixonera",
+"habitaciones": 2,
+"telefono": "c17cf6f67734cb8a",
+"fotos": [
+"87d5c7c6c6868687",
+"8fd5c7c6c6878687"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-patio-se-aceptan-mascotas-no-amueblado/191479357/d"
+},
+{
+"clave": "fotocasa:191479346",
+"municipio": "castelldefels",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/castelldefels/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479346/d"
+},
+{
+"clave": "fotocasa:191479342",
+"municipio": "sant boi de llobregat",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-boi-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479342/d"
+},
+{
+"clave": "fotocasa:191479326",
+"municipio": "barcelona",
+"precio": 635,
+"metros": 105,
+"barrio": "dreta de l'eixample",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479326/d"
+},
+{
+"clave": "fotocasa:191479319",
+"municipio": "terrassa",
+"precio": 535,
+"metros": 65,
+"barrio": "barri del centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479319/d"
+},
+{
+"clave": "fotocasa:191479314",
+"municipio": "granollers",
+"precio": 535,
+"metros": 65,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "c236cb7ddf5af215",
+"fotos": [
+"1e3e1e1e36342406"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191479314/d"
+},
+{
+"clave": "fotocasa:191479298",
+"municipio": "l'hospitalet de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "collblanc",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479298/d"
+},
+{
+"clave": "fotocasa:191479278",
+"municipio": "cornella de llobregat",
+"precio": 635,
+"metros": 105,
+"barrio": "la gavarra",
+"habitaciones": 3,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cornella-de-llobregat/aire-acondicionado-parking-ascensor-patio-amueblado-television-se-aceptan-mascotas-internet/191479278/d"
+},
+{
+"clave": "fotocasa:191479270",
+"municipio": "granollers",
+"precio": 435,
+"metros": 37,
+"barrio": "sota el cami ral",
+"habitaciones": 1,
+"telefono": "c236cb7ddf5af215",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191479270/d"
 }
 ],
 "correos": {
-"2026-11-23": 6
+"2026-11-24": 4
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -4570,10 +6266,38 @@
 },
 "primera_vez": false,
 "fotos_genericas": [
+"030321d58dc1c786",
 "03243034343c1e9d",
+"03c1c1c1c1c1d3f0",
+"0644458489311393",
+"070f0fcf13301a66",
+"0c0c1414140c2c2c",
+"139796e4acfcbc9c",
+"1725355fdf3f868e",
+"196424040b072426",
+"1c111727577363f1",
+"1e4b1f715849199c",
+"1f05a5c6c6e3c3b3",
+"2d282c2425383066",
+"3313570323e03c7e",
 "3979610e0649c98c",
+"3c1b333d6262bc3e",
+"3d1d3519e8f0c0d8",
+"3e5e5efefab8909a",
+"3f8a8dcdcd9a3838",
+"44c4e4e0c5010080",
+"474f14c19987607b",
+"56505051216044c6",
+"5cbd999a27e79710",
+"60372f0c8e46c68e",
+"6b6ab763e18b4e76",
+"7232323836d6c871",
+"86c34554c2fb7bc3",
 "b82838383e3e3f3f",
-"cef3f3e3f3b3f0e7"
+"c143c31a193e3d1b",
+"c349494141c9e961",
+"cef3f3e3f3b3f0e7",
+"eb7ff0e5f6f5e5c4"
 ],
 "resumen_pendiente": [
 {
@@ -4828,6 +6552,149 @@
 "url": "https://www.pisos.com/alquilar/piso-martorell_centro_urbano-69202055201_524707/",
 "motivo": "",
 "color": ""
+},
+{
+"precio": 635,
+"municipio": "Sant Boi de Llobregat",
+"barrio": "Centre",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-d-anselm-clave-23/centre/sant-boi-de-llobregat/40931164-6324-4f7a-ac27-21ee808be9f5/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 535,
+"municipio": "Sitges",
+"barrio": "Centre",
+"metros": 65,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-sant-antoni-13/centre/sitges/25c45640-05e0-4d0a-a4d7-e3aba4cd012b/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 535,
+"municipio": "Sant Boi de Llobregat",
+"barrio": "Marianao",
+"metros": 65,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-riera-baste-8/marianao/sant-boi-de-llobregat/eefbb1ff-94f7-4fc4-a196-f9659187184d/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 635,
+"municipio": "Manresa",
+"barrio": "Centre - Passeig i Rodalies",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-bruc-106/centre-passeig-i-rodalies/manresa/05080fee-d726-462c-9840-183b3885568a/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 635,
+"municipio": "El Prat de Llobregat",
+"barrio": "Estruch - Eixample",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-barcelona-32/estruch-eixample/el-prat-de-llobregat/0ae21bc0-822c-4c56-8b8c-f74265952ece/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 435,
+"municipio": "Vilanova i la Geltrú",
+"barrio": "Centre Vila",
+"metros": 37,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-josep-anselm-clave-10/centre-vila/vilanova-i-la-geltru/0e049004-6af2-4531-b78f-e54ebc0de9e4/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 635,
+"municipio": "Granollers",
+"barrio": "Sota el Cami Ral",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-navarra-61/sota-el-cami-ral/granollers/0f77165f-759f-4659-92ad-d5550a4b2b3b/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 435,
+"municipio": "Igualada",
+"barrio": "Centre",
+"metros": 37,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-santa-caterina-27/centre/igualada/175a1940-1b7e-4f41-9de1-d81bac752ed7/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 535,
+"municipio": "Castelldefels",
+"barrio": "Centre",
+"metros": 65,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-la-llibertat-17/centre/castelldefels/4267e818-40ad-4daa-958c-1b5862efb6c5/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 435,
+"municipio": "Granollers",
+"barrio": "Centre",
+"metros": 37,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-barcelona-98/centre/granollers/81bac262-dbbc-4c60-bf68-5dea7f699b7c/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 635,
+"municipio": "El Masnou",
+"barrio": "Centre",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-sant-miquel-119/centre/el-masnou/bf57e9ed-8823-4d22-a160-fca89037a8d3/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 535,
+"municipio": "Granollers",
+"barrio": "Centre",
+"metros": 65,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-guayaquil-73/centre/granollers/fce9ed70-cc3f-4682-ab73-34b4c5212073/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 635,
+"municipio": "Badalona",
+"barrio": "Centre",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-de-marti-pujol-123/centre/badalona/13d45f4d-c7d7-4d9e-9185-50a9e1392e0c/d",
+"motivo": "",
+"color": ""
 }
 ],
 "contactados": [
@@ -4872,16 +6739,44 @@
 "precio": 435,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-pau-claris-78/eixample/barcelona-capital/84d3f58f-416e-4c70-b604-9929d2688eda/d",
 "fecha": "2026-11-23"
+},
+{
+"destino": "ce5fb8e778254878",
+"municipio": "Barcelona Capital",
+"precio": 781,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-santa-albina/horta-guinardo/barcelona-capital/1be8a3f7-b8ae-421b-8e46-770867e26897/d",
+"fecha": "2026-11-24"
+},
+{
+"destino": "b884d9d3ef04d0b0",
+"municipio": "Barcelona Capital",
+"precio": 535,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-consell-de-cent-315/eixample/barcelona-capital/089b30f7-7866-4736-8bb9-19842099c7f6/d",
+"fecha": "2026-11-24"
+},
+{
+"destino": "b884d9d3ef04d0b0",
+"municipio": "Barcelona Capital",
+"precio": 635,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/gran-via-de-les-corts-catalanes-983/sant-marti/barcelona-capital/597f8d98-741f-40f8-baf6-1cb398d13633/d",
+"fecha": "2026-11-24"
+},
+{
+"destino": "b884d9d3ef04d0b0",
+"municipio": "Terrassa",
+"precio": 535,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-pere-fizes-18/nord-oest/terrassa/6bca7900-7a3b-4385-9e73-1d7b0f9b118a/d",
+"fecha": "2026-11-24"
 }
 ],
 "correos_destino": {
-"2026-11-23": {
-"a075c86b283127e5": 1,
-"670a1779e1ff1d26": 1,
-"5f6b0dc02628a3ac": 1,
-"7bf392e2e55e7ee3": 1,
-"b884d9d3ef04d0b0": 2
+"2026-11-24": {
+"ce5fb8e778254878": 1,
+"b884d9d3ef04d0b0": 3
 }
 },
-"respuestas_vistas": []
+"respuestas_vistas": [
+"1c736e572bfd1720",
+"2db724119dd2a4d6"
+]
 }
