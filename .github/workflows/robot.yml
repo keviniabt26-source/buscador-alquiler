@@ -2,7 +2,7 @@ name: Buscar pisos
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 minutos (GitHub a veces se retrasa unos minutos)
+    - cron: "7,22,37,52 * * * *"   # minutos «raros»: a las horas en punto GitHub va saturado y se salta ejecuciones
   workflow_dispatch:          # botón para lanzarlo a mano desde la pestaña Actions
 
 permissions:
