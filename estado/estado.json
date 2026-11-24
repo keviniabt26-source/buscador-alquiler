@@ -6253,10 +6253,354 @@
 "fotos": [],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191479270/d"
+},
+{
+"clave": "habitaclia:4fe81f7c-d816-4123-bcc8-87b8244ea46a",
+"municipio": "sabadell",
+"precio": 982,
+"metros": 100,
+"barrio": "centre - sant oleguer",
+"habitaciones": 4,
+"telefono": "13e29cccf15d0683",
+"fotos": [
+"071e686e602c0e06",
+"c387cae2e2c6c2c6"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre-sant-oleguer/sabadell/4fe81f7c-d816-4123-bcc8-87b8244ea46a/d"
+},
+{
+"clave": "habitaclia:b414b5ea-8653-4c63-9ab7-faffe454d0b0",
+"municipio": "cervello",
+"precio": 850,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "8e429ff0ed535cc2",
+"fotos": [
+"0e9c6473d9c02d4d",
+"727373e6636024e5"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/cervello/b414b5ea-8653-4c63-9ab7-faffe454d0b0/d"
+},
+{
+"clave": "habitaclia:7ff8fa5a-c5bc-41ea-8de0-2692f66393a8",
+"municipio": "barcelona",
+"precio": 987,
+"metros": 54,
+"barrio": "ciutat vella",
+"habitaciones": 1,
+"telefono": "80693bd4b89912d5",
+"fotos": [
+"b8d1d3d313559c36",
+"82e4b4ecb4b49440"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-dels-tallers/ciutat-vella/barcelona-capital/7ff8fa5a-c5bc-41ea-8de0-2692f66393a8/d"
+},
+{
+"clave": "habitaclia:db11c695-72a4-48a1-a162-226c79ebd0a6",
+"municipio": "igualada",
+"precio": 624,
+"metros": 35,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "2a9960ab073c5b64",
+"fotos": [
+"c6c64c45b0383232",
+"22a29293a363c781"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/centre/igualada/db11c695-72a4-48a1-a162-226c79ebd0a6/d"
+},
+{
+"clave": "habitaclia:259c4962-8d7a-42cf-a8c8-35e9d53b36c0",
+"municipio": "barcelona",
+"precio": 700,
+"metros": 35,
+"barrio": "horta - guinardo",
+"habitaciones": 1,
+"telefono": "f5670c846d494801",
+"fotos": [
+"23273797939999ac",
+"0772728606ecccde"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/horta-guinardo/barcelona-capital/259c4962-8d7a-42cf-a8c8-35e9d53b36c0/d"
+},
+{
+"clave": "habitaclia:2b794455-187e-4310-b96d-2f1a6fe831c9",
+"municipio": "mataro",
+"precio": 820,
+"metros": 53,
+"barrio": "el palau - escorxador",
+"habitaciones": 1,
+"telefono": "7e342787e71aaf68",
+"fotos": [
+"7f535b5979383c1a",
+"773f6d0d0d6fcf4f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-antoni-de-capmany/el-palau-escorxador/mataro/2b794455-187e-4310-b96d-2f1a6fe831c9/d"
+},
+{
+"clave": "habitaclia:15d0e6cc-db6d-4b22-8f50-715aa7dec970",
+"municipio": "sant andreu de la barca",
+"precio": 900,
+"metros": 73,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "251a09f70e58a034",
+"fotos": [
+"4e8e4bcaf6a6e6ce",
+"070707091c4c4c4e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/15d0e6cc-db6d-4b22-8f50-715aa7dec970/d"
+},
+{
+"clave": "habitaclia:3b22c241-69ba-4932-8f88-7b741adebdfb",
+"municipio": "olvan",
+"precio": 600,
+"metros": 75,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "37a5fb1b626ecce4",
+"fotos": [
+"3fef3b2fa7337dff",
+"3e232767313cffff"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/olvan/3b22c241-69ba-4932-8f88-7b741adebdfb/d"
+},
+{
+"clave": "habitaclia:c522bc8b-5cc6-4d7a-8e47-885d4073faf7",
+"municipio": "barcelona",
+"precio": 820,
+"metros": 40,
+"barrio": "eixample",
+"habitaciones": 0,
+"telefono": "bfc08ef2bb5a6815",
+"fotos": [
+"09091989c1d1988d",
+"69f9f97b1b4b0b3b"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-de-valencia/eixample/barcelona-capital/c522bc8b-5cc6-4d7a-8e47-885d4073faf7/d"
+},
+{
+"clave": "habitaclia:4102e808-cfd8-4901-a36c-74d12a75f75f",
+"municipio": "sant mateu de bages",
+"precio": 590,
+"metros": 116,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "7a24c55ac04492fe",
+"fotos": [
+"4e4e38240ccedf84",
+"df1f266cdc59f1f9"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/casa-pareada/sant-mateu-de-bages/4102e808-cfd8-4901-a36c-74d12a75f75f/d"
+},
+{
+"clave": "habitaclia:fe9c93da-8462-406d-b979-878fc26988f2",
+"municipio": "premia de dalt",
+"precio": 980,
+"metros": 55,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "896e27434695d1b2",
+"fotos": [
+"033e5e5e6cd8d85e",
+"032088084b53e37a"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/apartamento/premia-de-dalt/fe9c93da-8462-406d-b979-878fc26988f2/d"
+},
+{
+"clave": "habitaclia:61543690-af0b-43fa-b56f-84f8e9b90fea",
+"municipio": "sitges",
+"precio": 770,
+"metros": 55,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "dff54b6a117034e0",
+"fotos": [
+"979185d5cdd9c3c7",
+"c8c8a8b09bd95c6d"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/sitges/61543690-af0b-43fa-b56f-84f8e9b90fea/d"
+},
+{
+"clave": "habitaclia:5250c800-7387-4dce-96ca-9ac48ab856e7",
+"municipio": "sitges",
+"precio": 1000,
+"metros": 78,
+"barrio": "can pei",
+"habitaciones": 2,
+"telefono": "dfc05df06ba497b5",
+"fotos": [
+"999d9999c9f93dfc",
+"1b23266a6a66de9e"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-cami-del-coll-24/can-pei/sitges/5250c800-7387-4dce-96ca-9ac48ab856e7/d"
+},
+{
+"clave": "fotocasa:191486761",
+"municipio": "sant mateu de bages",
+"precio": 590,
+"metros": 116,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "7a24c55ac04492fe",
+"fotos": [
+"4e4e38240ccedf84",
+"df1f266cdc59f1f9"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-mateu-de-bages/parking/191486761/d"
+},
+{
+"clave": "fotocasa:191485616",
+"municipio": "cervello",
+"precio": 850,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "8e429ff0ed535cc2",
+"fotos": [
+"0e9c6473d9c02d4d",
+"727373e6636024e5"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cervello/calefaccion-jardin-trastero-piscina-se-aceptan-mascotas-no-amueblado/191485616/d"
+},
+{
+"clave": "fotocasa:191485554",
+"municipio": "barcelona",
+"precio": 820,
+"metros": 40,
+"barrio": "la nova esquerra de l'eixample",
+"habitaciones": null,
+"telefono": "bfc08ef2bb5a6815",
+"fotos": [
+"09091989c1d1988d",
+"69f9f97b1b4b0b3b"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/191485554/d"
+},
+{
+"clave": "fotocasa:191484974",
+"municipio": "sitges",
+"precio": 770,
+"metros": 55,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "dff54b6a117034e0",
+"fotos": [
+"979185d5cdd9c3c7",
+"c8c8a8b09bd95c6d"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sitges/se-aceptan-mascotas/191484974/d"
+},
+{
+"clave": "fotocasa:191484058",
+"municipio": "sant andreu de la barca",
+"precio": 900,
+"metros": 73,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "251a09f70e58a034",
+"fotos": [
+"4e8e4bcaf6a6e6ce",
+"070707091c4c4c4e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-andreu-de-la-barca/aire-acondicionado/191484058/d"
+},
+{
+"clave": "fotocasa:191483896",
+"municipio": "igualada",
+"precio": 624,
+"metros": 35,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "2a9960ab073c5b64",
+"fotos": [
+"c6c64c45b0383232",
+"22a29293a363c781"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/aire-acondicionado-calefaccion-parking-amueblado/191483896/d"
+},
+{
+"clave": "fotocasa:191482889",
+"municipio": "barcelona",
+"precio": 987,
+"metros": 54,
+"barrio": "el raval",
+"habitaciones": 1,
+"telefono": "80693bd4b89912d5",
+"fotos": [
+"b8d1d3d313559c36",
+"82e4b4ecb4b49440"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/191482889/d"
+},
+{
+"clave": "fotocasa:191327699",
+"municipio": "olvan",
+"precio": 600,
+"metros": 75,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "37a5fb1b626ecce4",
+"fotos": [
+"3fef3b2fa7337dff",
+"3e232767313cffff"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/olvan/no-amueblado/191327699/d"
+},
+{
+"clave": "fotocasa:191150284",
+"municipio": "sabadell",
+"precio": 982,
+"metros": 100,
+"barrio": "centre",
+"habitaciones": 4,
+"telefono": "13e29cccf15d0683",
+"fotos": [
+"071e686e602c0e06",
+"c387cae2e2c6c2c6"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/aire-acondicionado-calefaccion-terraza/191150284/d"
+},
+{
+"clave": "pisoscom:68402857288.519487",
+"municipio": "sabadell",
+"precio": 982,
+"metros": 100,
+"barrio": "centre (distrito centre-covadonga. sabadell)",
+"habitaciones": 4,
+"telefono": "",
+"fotos": [
+"071e686e602c0e06"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-centre_covadonga_centre08201-68402857288_519487/"
 }
 ],
 "correos": {
-"2026-11-24": 4
+"2026-11-24": 5
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -6695,6 +7039,105 @@
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-de-marti-pujol-123/centre/badalona/13d45f4d-c7d7-4d9e-9185-50a9e1392e0c/d",
 "motivo": "",
 "color": ""
+},
+{
+"precio": 850,
+"municipio": "Cervelló",
+"barrio": "",
+"metros": 50,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/vivienda/cervello/b414b5ea-8653-4c63-9ab7-faffe454d0b0/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 624,
+"municipio": "Igualada",
+"barrio": "Centre",
+"metros": 35,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/centre/igualada/db11c695-72a4-48a1-a162-226c79ebd0a6/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 820,
+"municipio": "Mataró",
+"barrio": "El Palau - Escorxador",
+"metros": 53,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-antoni-de-capmany/el-palau-escorxador/mataro/2b794455-187e-4310-b96d-2f1a6fe831c9/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 900,
+"municipio": "Sant Andreu de la Barca",
+"barrio": "",
+"metros": 73,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/15d0e6cc-db6d-4b22-8f50-715aa7dec970/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 600,
+"municipio": "Olvan",
+"barrio": "",
+"metros": 75,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/olvan/3b22c241-69ba-4932-8f88-7b741adebdfb/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 590,
+"municipio": "Sant Mateu de Bages",
+"barrio": "",
+"metros": 116,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/casa-pareada/sant-mateu-de-bages/4102e808-cfd8-4901-a36c-74d12a75f75f/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 980,
+"municipio": "Premià de Dalt",
+"barrio": "",
+"metros": 55,
+"habitaciones": 1,
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/apartamento/premia-de-dalt/fe9c93da-8462-406d-b979-878fc26988f2/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 770,
+"municipio": "Sitges",
+"barrio": "Centre",
+"metros": 55,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/sitges/61543690-af0b-43fa-b56f-84f8e9b90fea/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 1000,
+"municipio": "Sitges",
+"barrio": "Can Pei",
+"metros": 78,
+"habitaciones": 2,
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-cami-del-coll-24/can-pei/sitges/5250c800-7387-4dce-96ca-9ac48ab856e7/d",
+"motivo": "",
+"color": ""
 }
 ],
 "contactados": [
@@ -6767,16 +7210,27 @@
 "precio": 535,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-pere-fizes-18/nord-oest/terrassa/6bca7900-7a3b-4385-9e73-1d7b0f9b118a/d",
 "fecha": "2026-11-24"
+},
+{
+"destino": "de9638392d36fe67",
+"municipio": "Barcelona Capital",
+"precio": 700,
+"url": "https://www.habitaclia.com/alquiler/apartamento/horta-guinardo/barcelona-capital/259c4962-8d7a-42cf-a8c8-35e9d53b36c0/d",
+"fecha": "2026-11-24"
 }
 ],
 "correos_destino": {
 "2026-11-24": {
 "ce5fb8e778254878": 1,
-"b884d9d3ef04d0b0": 3
+"b884d9d3ef04d0b0": 3,
+"de9638392d36fe67": 1
 }
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
-"2db724119dd2a4d6"
+"2db724119dd2a4d6",
+"64e10e1c6326fc8f",
+"8a6367eb6dceda82",
+"fbdd081c3053b31c"
 ]
 }
