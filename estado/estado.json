@@ -6907,6 +6907,36 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/calefaccion-no-amueblado/191493985/d"
+},
+{
+"clave": "habitaclia:ce495629-71c7-4740-b432-5afd5618b852",
+"municipio": "manlleu",
+"precio": 760,
+"metros": 87,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "c93b4ea8e60b8737",
+"fotos": [
+"152d23271b1b0f37",
+"1c1c2c2434143c74"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/manlleu/ce495629-71c7-4740-b432-5afd5618b852/d"
+},
+{
+"clave": "habitaclia:0715215f-e627-4c32-ae37-55d5a6c9597f",
+"municipio": "la garriga",
+"precio": 795,
+"metros": 60,
+"barrio": "can violi  - can poi del bosc",
+"habitaciones": 2,
+"telefono": "e95e594a8e7c4151",
+"fotos": [
+"87beb8b6b5b9b1a3",
+"d1c9999b83cbf171"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-nadal-2/can-violi-can-poi-del-bosc/la-garriga/0715215f-e627-4c32-ae37-55d5a6c9597f/d"
 }
 ],
 "correos": {
@@ -6973,6 +7003,17 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/calefaccion-no-amueblado/191493985/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 795,
+"municipio": "La Garriga",
+"barrio": "Can Violí  - Can Poi del Bosc",
+"metros": 60,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/carrer-nadal-2/can-violi-can-poi-del-bosc/la-garriga/0715215f-e627-4c32-ae37-55d5a6c9597f/d",
 "motivo": "",
 "color": ""
 }
