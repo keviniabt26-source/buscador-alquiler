@@ -6967,6 +6967,36 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-no-amueblado/191494607/d"
+},
+{
+"clave": "habitaclia:50e95f0f-3c56-46a7-9bf9-957b7b46dc16",
+"municipio": "les franqueses del valles",
+"precio": 875,
+"metros": null,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "e4bacfefac7a958e",
+"fotos": [
+"03068c2628e8cc8e",
+"5531b3c5c586829b"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/les-franqueses-del-valles/50e95f0f-3c56-46a7-9bf9-957b7b46dc16/d"
+},
+{
+"clave": "fotocasa:191494859",
+"municipio": "les franqueses del valles",
+"precio": 875,
+"metros": null,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "e4bacfefac7a958e",
+"fotos": [
+"03068c2628e8cc8e",
+"5531b3c5c586829b"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/les-franqueses-del-valles/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/191494859/d"
 }
 ],
 "correos": {
@@ -7044,6 +7074,17 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/apartamento/carrer-nadal-2/can-violi-can-poi-del-bosc/la-garriga/0715215f-e627-4c32-ae37-55d5a6c9597f/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 875,
+"municipio": "Les Franqueses del Vallès",
+"barrio": "",
+"metros": null,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/les-franqueses-del-valles/50e95f0f-3c56-46a7-9bf9-957b7b46dc16/d",
 "motivo": "",
 "color": ""
 }
