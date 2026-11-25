@@ -6937,6 +6937,36 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/apartamento/carrer-nadal-2/can-violi-can-poi-del-bosc/la-garriga/0715215f-e627-4c32-ae37-55d5a6c9597f/d"
+},
+{
+"clave": "habitaclia:671b8550-8378-4695-9b2f-2a53975dcb76",
+"municipio": "barcelona",
+"precio": 859,
+"metros": 85,
+"barrio": "nou barris",
+"habitaciones": 3,
+"telefono": "1c3fa3751cdea250",
+"fotos": [
+"129bdbdd79f1d393",
+"73f3f363637b677e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/nou-barris/barcelona-capital/671b8550-8378-4695-9b2f-2a53975dcb76/d"
+},
+{
+"clave": "fotocasa:191494607",
+"municipio": "barcelona",
+"precio": 859,
+"metros": 85,
+"barrio": "vilapicina i la torre llobeta",
+"habitaciones": 3,
+"telefono": "1c3fa3751cdea250",
+"fotos": [
+"129bdbdd79f1d393",
+"73f3f363637b677e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-no-amueblado/191494607/d"
 }
 ],
 "correos": {
