@@ -6863,6 +6863,35 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-centre_covadonga_centre08201-69245021212_992671/"
+},
+{
+"clave": "fotocasa:191493843",
+"municipio": "manlleu",
+"precio": 760,
+"metros": 87,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "c93b4ea8e60b8737",
+"fotos": [
+"152d23271b1b0f37",
+"1c1c2c2434143c74"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manlleu/aire-acondicionado/191493843/d"
+},
+{
+"clave": "pisoscom:55912868248.110700",
+"municipio": "manlleu",
+"precio": 760,
+"metros": 87,
+"barrio": "manlleu",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"2d2b370b1b131b1f"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-manlleu_centro_urbano-55912868248_110700/"
 }
 ],
 "correos": {
@@ -6909,7 +6938,19 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [],
+"resumen_pendiente": [
+{
+"precio": 760,
+"municipio": "Manlleu",
+"barrio": "",
+"metros": 87,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manlleu/aire-acondicionado/191493843/d",
+"motivo": "",
+"color": ""
+}
+],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
