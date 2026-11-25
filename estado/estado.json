@@ -6997,6 +6997,35 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/les-franqueses-del-valles/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/191494859/d"
+},
+{
+"clave": "fotocasa:191495141",
+"municipio": "talamanca",
+"precio": 550,
+"metros": 72,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "09b0991eb02236cb",
+"fotos": [
+"cc98470d0d0c85e3",
+"300c2c2c382e2c6c"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/talamanca/parking-ascensor/191495141/d"
+},
+{
+"clave": "pisoscom:69205970764.100500",
+"municipio": "talamanca",
+"precio": 550,
+"metros": 72,
+"barrio": "talamanca",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"cc98470d0d0c85e3"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-talamanca_centro_urbano-69205970764_100500/"
 }
 ],
 "correos": {
@@ -7086,6 +7115,28 @@
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/les-franqueses-del-valles/50e95f0f-3c56-46a7-9bf9-957b7b46dc16/d",
 "motivo": "",
+"color": ""
+},
+{
+"precio": 550,
+"municipio": "Talamanca",
+"barrio": "",
+"metros": 72,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/talamanca/parking-ascensor/191495141/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 550,
+"municipio": "Talamanca",
+"barrio": "Talamanca",
+"metros": 72,
+"habitaciones": 3,
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-talamanca_centro_urbano-69205970764_100500/",
+"motivo": "👤 Ahora también lo anuncia un PARTICULAR",
 "color": ""
 }
 ],
