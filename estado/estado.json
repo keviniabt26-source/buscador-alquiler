@@ -7366,6 +7366,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-amueblado/191499421/d"
+},
+{
+"clave": "fotocasa:191501092",
+"municipio": "les masies de voltrega",
+"precio": 800,
+"metros": 90,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "e112e26008bb2d31",
+"fotos": [
+"071b53d363474732",
+"4158585c78602030"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/les-masies-de-voltrega/calefaccion-terraza-ascensor-amueblado/191501092/d"
 }
 ],
 "correos": {
@@ -7412,7 +7427,19 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [],
+"resumen_pendiente": [
+{
+"precio": 800,
+"municipio": "Les Masies de Voltregà",
+"barrio": "",
+"metros": 90,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/les-masies-de-voltrega/calefaccion-terraza-ascensor-amueblado/191501092/d",
+"motivo": "",
+"color": ""
+}
+],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
