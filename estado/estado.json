@@ -7099,6 +7099,51 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-cercs_sant_jordi-68398434523_501301/"
+},
+{
+"clave": "fotocasa:191494223",
+"municipio": "barcelona",
+"precio": 910,
+"metros": 55,
+"barrio": "la teixonera",
+"habitaciones": 2,
+"telefono": "6f43ab0c5a6cb841",
+"fotos": [
+"d3dbcd6d695f0d2d",
+"6260f9b5baf27bbe"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-no-amueblado/191494223/d"
+},
+{
+"clave": "fotocasa:191307040",
+"municipio": "vic",
+"precio": 892,
+"metros": 105,
+"barrio": "el sucre - el nadal",
+"habitaciones": 3,
+"telefono": "8d4035ce524fe81e",
+"fotos": [
+"97b79599d9d8c607",
+"13131298b8a8c896"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/191307040/d"
+},
+{
+"clave": "fotocasa:190997756",
+"municipio": "cercs",
+"precio": 550,
+"metros": 91,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"0e8e8e8c8ecc8c1c",
+"6444e0c88860cc0c"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cercs/calefaccion-parking-amueblado/190997756/d"
 }
 ],
 "correos": {
@@ -7231,6 +7276,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-cercs_sant_jordi-68398434523_501301/",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 892,
+"municipio": "Vic",
+"barrio": "El Sucre - El Nadal",
+"metros": 105,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/191307040/d",
 "motivo": "",
 "color": ""
 }
