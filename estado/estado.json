@@ -7144,6 +7144,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/cercs/calefaccion-parking-amueblado/190997756/d"
+},
+{
+"clave": "fotocasa:191497609",
+"municipio": "canet de mar",
+"precio": 800,
+"metros": 79,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "815dbd8e6782cd3f",
+"fotos": [
+"723ebebae35c3e26",
+"2686061c0c0e0e3e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/canet-de-mar/canet-de-mar/191497609/d"
 }
 ],
 "correos": {
@@ -7289,6 +7304,17 @@
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/aire-acondicionado-calefaccion-parking-terraza-ascensor-no-amueblado/191307040/d",
 "motivo": "",
 "color": ""
+},
+{
+"precio": 800,
+"municipio": "Canet de Mar",
+"barrio": "",
+"metros": 79,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/canet-de-mar/canet-de-mar/191497609/d",
+"motivo": "",
+"color": ""
 }
 ],
 "contactados": [
@@ -7376,6 +7402,7 @@
 "respuestas_vistas": [
 "1c736e572bfd1720",
 "2db724119dd2a4d6",
+"3acdb04a15e2e7ba",
 "64e10e1c6326fc8f",
 "8a6367eb6dceda82",
 "d16b6b9f2dd43f5e",
