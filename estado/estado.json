@@ -7336,6 +7336,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191498769/d"
+},
+{
+"clave": "fotocasa:191435318",
+"municipio": "vilafranca del penedes",
+"precio": 663,
+"metros": 65,
+"barrio": "les clotes",
+"habitaciones": 3,
+"telefono": "19d2d5c0f7bdcc3b",
+"fotos": [
+"f963e37361440e8c",
+"e3c3e2e2604e0e8e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilafranca-del-penedes/ascensor-amueblado-television/191435318/d"
 }
 ],
 "correos": {
@@ -7534,6 +7549,17 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-francesc-marimon/nucli-urba/esparreguera/62a5e40b-6960-408b-8249-3d2600f048a8/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 663,
+"municipio": "Vilafranca del Penedès",
+"barrio": "Les Clotes",
+"metros": 65,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilafranca-del-penedes/ascensor-amueblado-television/191435318/d",
 "motivo": "",
 "color": ""
 }
