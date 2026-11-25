@@ -7056,6 +7056,49 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/arenys-de-mar/aire-acondicionado-calefaccion-terraza-zona-comunitaria-ascensor-amueblado-piscina/191495874/d"
+},
+{
+"clave": "fotocasa:191210914",
+"municipio": "piera",
+"precio": 1000,
+"metros": 64,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "df3dd1dcbdcef12c",
+"fotos": [
+"2421224480304ec0",
+"dd2bb2b2e4cb79f9"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/piera/parking-terraza-zona-comunitaria-amueblado/191210914/d"
+},
+{
+"clave": "pisoscom:69229887187.142600",
+"municipio": "terrassa",
+"precio": 646,
+"metros": 44,
+"barrio": "la cogullada (distrito segle xx-la cogullada. terrassa)",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"1c1c0d0b1ae6828c"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-la_cogullada-69229887187_142600/"
+},
+{
+"clave": "pisoscom:68398434523.501301",
+"municipio": "cercs",
+"precio": 550,
+"metros": 91,
+"barrio": "sant jordi (cercs)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"0e8e8e8c8ecc8c1c"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-cercs_sant_jordi-68398434523_501301/"
 }
 ],
 "correos": {
@@ -7177,6 +7220,17 @@
 "habitaciones": 1,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/arenys-de-mar/aire-acondicionado-calefaccion-terraza-zona-comunitaria-ascensor-amueblado-piscina/191495874/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 550,
+"municipio": "Cercs",
+"barrio": "Sant Jordi (Cercs)",
+"metros": 91,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-cercs_sant_jordi-68398434523_501301/",
 "motivo": "",
 "color": ""
 }
