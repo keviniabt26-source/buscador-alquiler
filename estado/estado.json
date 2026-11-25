@@ -7174,10 +7174,172 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/191497826/d"
+},
+{
+"clave": "habitaclia:50b54c87-2086-46b1-8847-5ff2764e7fdc",
+"municipio": "badalona",
+"precio": 770,
+"metros": 45,
+"barrio": "bonavista - bufala - morera",
+"habitaciones": 1,
+"telefono": "42928d658d666c7a",
+"fotos": [
+"5755616161666352",
+"a9a9a9aa8787c78e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/bonavista-bufala-morera/badalona/50b54c87-2086-46b1-8847-5ff2764e7fdc/d"
+},
+{
+"clave": "habitaclia:fc6f76dd-71ca-4e3f-8ca2-f0dd5dd9ef47",
+"municipio": "arenys de mar",
+"precio": 693,
+"metros": 38,
+"barrio": "urbanitzacions",
+"habitaciones": 1,
+"telefono": "9def1db092739471",
+"fotos": [
+"9c9898c8c9e08406",
+"c4c4c4cec2b70707"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/avinguda-de-catalunya/urbanitzacions/arenys-de-mar/fc6f76dd-71ca-4e3f-8ca2-f0dd5dd9ef47/d"
+},
+{
+"clave": "habitaclia:4ddcc5c3-b41f-475c-a4c1-dddf1b16a837",
+"municipio": "cercs",
+"precio": 550,
+"metros": 91,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "5df5703503f8f67e",
+"fotos": [
+"0e8e8e8c8ecc8c1c",
+"6444e0c88860cc0c"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/cercs/4ddcc5c3-b41f-475c-a4c1-dddf1b16a837/d"
+},
+{
+"clave": "habitaclia:5e426f5e-1f9e-4521-9770-6761aa3749ed",
+"municipio": "mataro",
+"precio": 953,
+"metros": 68,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "9a8efd2a4a3276af",
+"fotos": [
+"0a80a0e044090c07",
+"14cec2cf9d1a0706"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/bajo/centre/mataro/5e426f5e-1f9e-4521-9770-6761aa3749ed/d"
+},
+{
+"clave": "habitaclia:7c04ccb5-745b-4cca-9ba9-fb8e9ccd30c9",
+"municipio": "manresa",
+"precio": 300,
+"metros": 30,
+"barrio": "placa catalunya",
+"habitaciones": 1,
+"telefono": "e1d1c13b897d09e9",
+"fotos": [
+"4f4c8c8f3f1fab9d",
+"3f35353919190939"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/placa-catalunya/manresa/7c04ccb5-745b-4cca-9ba9-fb8e9ccd30c9/d"
+},
+{
+"clave": "habitaclia:75f2e330-fa41-4e79-b53f-3efea3ae6268",
+"municipio": "vic",
+"precio": 892,
+"metros": 105,
+"barrio": "el sucre - el nadal",
+"habitaciones": 3,
+"telefono": "8d4035ce524fe81e",
+"fotos": [
+"97b79599d9d8c607",
+"13131298b8a8c896"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/el-sucre-el-nadal/vic/75f2e330-fa41-4e79-b53f-3efea3ae6268/d"
+},
+{
+"clave": "habitaclia:dabe0428-4499-4c7a-a646-a03c8a9e0065",
+"municipio": "barcelona",
+"precio": 917,
+"metros": 30,
+"barrio": "sant marti",
+"habitaciones": 0,
+"telefono": "86379b0017416908",
+"fotos": [
+"7b33331b12a48787",
+"4a4b86081c0c0f47"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/estudio/carrer-de-lope-de-vega/sant-marti/barcelona-capital/dabe0428-4499-4c7a-a646-a03c8a9e0065/d"
+},
+{
+"clave": "habitaclia:14a75526-c047-4233-8dca-a17effa281a3",
+"municipio": "barbera del valles",
+"precio": 650,
+"metros": 60,
+"barrio": "centre - eixample  can llobet",
+"habitaciones": 1,
+"telefono": "d483952c5a0c9963",
+"fotos": [
+"bf8f8b8fcfcfdfff",
+"1f90c3c1e0674f9f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/bajo/passeig-del-doctor-moragas/centre-eixample-can-llobet/barbera-del-valles/14a75526-c047-4233-8dca-a17effa281a3/d"
+},
+{
+"clave": "habitaclia:f544da42-d545-4dd1-bc07-98e14a9fefbf",
+"municipio": "barcelona",
+"precio": 910,
+"metros": 55,
+"barrio": "horta - guinardo",
+"habitaciones": 2,
+"telefono": "6f43ab0c5a6cb841",
+"fotos": [
+"d3dbcd6d695f0d2d",
+"6260f9b5baf27bbe"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-d-arenys-104/horta-guinardo/barcelona-capital/f544da42-d545-4dd1-bc07-98e14a9fefbf/d"
+},
+{
+"clave": "habitaclia:62a5e40b-6960-408b-8249-3d2600f048a8",
+"municipio": "esparreguera",
+"precio": 670,
+"metros": 60,
+"barrio": "nucli urba",
+"habitaciones": 2,
+"telefono": "83bb157d6c764775",
+"fotos": [],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-francesc-marimon/nucli-urba/esparreguera/62a5e40b-6960-408b-8249-3d2600f048a8/d"
+},
+{
+"clave": "fotocasa:191498769",
+"municipio": "badalona",
+"precio": 770,
+"metros": 45,
+"barrio": "morera",
+"habitaciones": 1,
+"telefono": "42928d658d666c7a",
+"fotos": [
+"5755616161666352",
+"a9a9a9aa8787c78e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191498769/d"
 }
 ],
 "correos": {
-"2026-11-25": 0
+"2026-11-25": 1
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -7330,6 +7492,50 @@
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/canet-de-mar/canet-de-mar/191497609/d",
 "motivo": "",
 "color": ""
+},
+{
+"precio": 770,
+"municipio": "Badalona",
+"barrio": "Bonavista - Bufalà - Morera",
+"metros": 45,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/bonavista-bufala-morera/badalona/50b54c87-2086-46b1-8847-5ff2764e7fdc/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 953,
+"municipio": "Mataró",
+"barrio": "Centre",
+"metros": 68,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/bajo/centre/mataro/5e426f5e-1f9e-4521-9770-6761aa3749ed/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 300,
+"municipio": "Manresa",
+"barrio": "Plaça Catalunya",
+"metros": 30,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/placa-catalunya/manresa/7c04ccb5-745b-4cca-9ba9-fb8e9ccd30c9/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 670,
+"municipio": "Esparreguera",
+"barrio": "Nucli Urbà",
+"metros": 60,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-francesc-marimon/nucli-urba/esparreguera/62a5e40b-6960-408b-8249-3d2600f048a8/d",
+"motivo": "",
+"color": ""
 }
 ],
 "contactados": [
@@ -7409,10 +7615,19 @@
 "precio": 700,
 "url": "https://www.habitaclia.com/alquiler/apartamento/horta-guinardo/barcelona-capital/259c4962-8d7a-42cf-a8c8-35e9d53b36c0/d",
 "fecha": "2026-11-24"
+},
+{
+"destino": "0064302e025b39dd",
+"municipio": "Barberà del Vallès",
+"precio": 650,
+"url": "https://www.habitaclia.com/alquiler/bajo/passeig-del-doctor-moragas/centre-eixample-can-llobet/barbera-del-valles/14a75526-c047-4233-8dca-a17effa281a3/d",
+"fecha": "2026-11-25"
 }
 ],
 "correos_destino": {
-"2026-11-25": {}
+"2026-11-25": {
+"0064302e025b39dd": 1
+}
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
