@@ -7041,6 +7041,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/191495609/d"
+},
+{
+"clave": "fotocasa:191495874",
+"municipio": "arenys de mar",
+"precio": 693,
+"metros": 38,
+"barrio": "urbanitzacions",
+"habitaciones": 1,
+"telefono": "9def1db092739471",
+"fotos": [
+"9c9898c8c9e08406",
+"c4c4c4cec2b70707"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/arenys-de-mar/aire-acondicionado-calefaccion-terraza-zona-comunitaria-ascensor-amueblado-piscina/191495874/d"
 }
 ],
 "correos": {
@@ -7152,6 +7167,17 @@
 "particular": true,
 "url": "https://www.pisos.com/alquilar/piso-talamanca_centro_urbano-69205970764_100500/",
 "motivo": "👤 Ahora también lo anuncia un PARTICULAR",
+"color": ""
+},
+{
+"precio": 693,
+"municipio": "Arenys de Mar",
+"barrio": "Urbanitzacions",
+"metros": 38,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/arenys-de-mar/aire-acondicionado-calefaccion-terraza-zona-comunitaria-ascensor-amueblado-piscina/191495874/d",
+"motivo": "",
 "color": ""
 }
 ],
