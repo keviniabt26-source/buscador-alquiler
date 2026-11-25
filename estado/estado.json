@@ -6892,6 +6892,21 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-manlleu_centro_urbano-55912868248_110700/"
+},
+{
+"clave": "fotocasa:191493985",
+"municipio": "argentona",
+"precio": 700,
+"metros": 60,
+"barrio": "nucli urba",
+"habitaciones": 2,
+"telefono": "9d0b6779f3d3af7c",
+"fotos": [
+"fadad1f9f9f9f9d9",
+"3e09c99f8fa7f8fc"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/calefaccion-no-amueblado/191493985/d"
 }
 ],
 "correos": {
@@ -6947,6 +6962,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/manlleu/aire-acondicionado/191493843/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 700,
+"municipio": "Argentona",
+"barrio": "Nucli Urbà",
+"metros": 60,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/calefaccion-no-amueblado/191493985/d",
 "motivo": "",
 "color": ""
 }
