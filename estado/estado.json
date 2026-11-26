@@ -7499,6 +7499,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/ascensor-amueblado/191504824/d"
+},
+{
+"clave": "fotocasa:191504954",
+"municipio": "cardedeu",
+"precio": 872,
+"metros": 100,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "0f40345bf7488bd7",
+"fotos": [
+"81d9d9152eeee96c",
+"64642585818cc4c2"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-trastero/191504954/d"
 }
 ],
 "correos": {
@@ -7611,6 +7626,17 @@
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/ascensor-amueblado/191504824/d",
 "motivo": "",
 "color": ""
+},
+{
+"precio": 872,
+"municipio": "Cardedeu",
+"barrio": "",
+"metros": 100,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-trastero/191504954/d",
+"motivo": "",
+"color": ""
 }
 ],
 "contactados": [
@@ -7708,6 +7734,7 @@
 "2db724119dd2a4d6",
 "3acdb04a15e2e7ba",
 "64e10e1c6326fc8f",
+"77457f38d3a9e493",
 "8a6367eb6dceda82",
 "d16b6b9f2dd43f5e",
 "f5dd8fe3f408a054",
