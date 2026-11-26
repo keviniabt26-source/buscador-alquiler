@@ -7896,6 +7896,92 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510484/d"
+},
+{
+"clave": "fotocasa:191510644",
+"municipio": "castelldefels",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"dfc4c5e5e5b8ae3f",
+"32c2436363e393db"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/castelldefels/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510644/d"
+},
+{
+"clave": "fotocasa:191510641",
+"municipio": "sant boi de llobregat",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"08311d05e0f17269",
+"32c2436363e393db"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-boi-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510641/d"
+},
+{
+"clave": "fotocasa:191510629",
+"municipio": "terrassa",
+"precio": 500,
+"metros": 60,
+"barrio": "barri del centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"073b06260666743e",
+"08210f0da3f17278"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510629/d"
+},
+{
+"clave": "fotocasa:191510618",
+"municipio": "granollers",
+"precio": 400,
+"metros": 35,
+"barrio": "sota el cami ral",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191510618/d"
+},
+{
+"clave": "fotocasa:191510617",
+"municipio": "granollers",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"5f674f43c3d11323",
+"dfc4c5e5e5b8ae3f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510617/d"
+},
+{
+"clave": "fotocasa:191510594",
+"municipio": "gava",
+"precio": 400,
+"metros": 35,
+"barrio": "centre - estacio",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"7cb1a5acacac8616"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/gava/ascensor-amueblado-se-aceptan-mascotas/191510594/d"
 }
 ],
 "correos": {
@@ -8061,6 +8147,28 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510550/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 400,
+"municipio": "Granollers",
+"barrio": "Sota el Cami Ral",
+"metros": 35,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191510618/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 400,
+"municipio": "Gavà",
+"barrio": "Centre - Estació",
+"metros": 35,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/gava/ascensor-amueblado-se-aceptan-mascotas/191510594/d",
 "motivo": "",
 "color": ""
 }
