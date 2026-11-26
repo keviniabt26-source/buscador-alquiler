@@ -7411,6 +7411,20 @@
 ],
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-amueblado-internet/191500491/d"
+},
+{
+"clave": "pisoscom:69187650001.106500",
+"municipio": "sant vicenc de castellet",
+"precio": 715,
+"metros": 45,
+"barrio": "sant vicenc de castellet",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"717959595242c288"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-sant_vicenc_de_castellet_centro_urbano-69187650001_106500/"
 }
 ],
 "correos": {
@@ -7420,7 +7434,7 @@
 "habitaclia": 0,
 "fotocasa": 0,
 "milanuncios": 1,
-"pisoscom": 2
+"pisoscom": 0
 },
 "primera_vez": false,
 "fotos_genericas": [
@@ -7466,6 +7480,17 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/les-masies-de-voltrega/calefaccion-terraza-ascensor-amueblado/191501092/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 715,
+"municipio": "Sant Vicenç de Castellet",
+"barrio": "Sant Vicenç de Castellet",
+"metros": 45,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-sant_vicenc_de_castellet_centro_urbano-69187650001_106500/",
 "motivo": "",
 "color": ""
 }
