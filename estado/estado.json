@@ -7514,10 +7514,100 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-trastero/191504954/d"
+},
+{
+"clave": "habitaclia:4ca2989c-fdbd-47fd-adfd-e723ba3e7445",
+"municipio": "el masnou",
+"precio": 832,
+"metros": 40,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "8957c98c2d2272da",
+"fotos": [
+"6a6a2a1b12323838",
+"7357292b274d8e97"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/loft/italia/centre/el-masnou/4ca2989c-fdbd-47fd-adfd-e723ba3e7445/d"
+},
+{
+"clave": "habitaclia:7b032568-778f-4598-9ed4-2317d3f12846",
+"municipio": "el masnou",
+"precio": 950,
+"metros": 56,
+"barrio": "masnou alt",
+"habitaciones": 3,
+"telefono": "32fc6f2bd525d61c",
+"fotos": [
+"3e34374161317879",
+"e1e3c17131949490"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/pol-lacra-goleta-constanza/masnou-alt/el-masnou/7b032568-778f-4598-9ed4-2317d3f12846/d"
+},
+{
+"clave": "habitaclia:ea76ab02-9b0f-4d14-9f75-5f35337c2975",
+"municipio": "manresa",
+"precio": 704,
+"metros": 90,
+"barrio": "placa catalunya",
+"habitaciones": 4,
+"telefono": "e1d1c13b897d09e9",
+"fotos": [
+"0393c3d7170f4d8d",
+"98989ad868cc8430"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/placa-catalunya/manresa/ea76ab02-9b0f-4d14-9f75-5f35337c2975/d"
+},
+{
+"clave": "habitaclia:07cfd6f2-196b-4b87-92cd-92fab1148036",
+"municipio": "barcelona",
+"precio": 675,
+"metros": 88,
+"barrio": "eixample",
+"habitaciones": 3,
+"telefono": "1487daca4419b7d3",
+"fotos": [
+"1f1f5e5c3cb8accc",
+"fce3cec3c7f3f3f3"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-bruc-42/eixample/barcelona-capital/07cfd6f2-196b-4b87-92cd-92fab1148036/d"
+},
+{
+"clave": "habitaclia:1dfbec92-5b10-4fcf-8f8c-e9a3d064107e",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 60,
+"barrio": "sant marti",
+"habitaciones": 2,
+"telefono": "e1e3fef87844c43a",
+"fotos": [
+"8f9f9e9e9e8c8c0e",
+"268292d3c6cf8136"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-corsega-707/sant-marti/barcelona-capital/1dfbec92-5b10-4fcf-8f8c-e9a3d064107e/d"
+},
+{
+"clave": "fotocasa:191502049",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 60,
+"barrio": "el camp de l'arpa del clot",
+"habitaciones": 2,
+"telefono": "e1e3fef87844c43a",
+"fotos": [
+"8f9f9e9e9e8c8c0e",
+"268292d3c6cf8136"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado-television/191502049/d"
 }
 ],
 "correos": {
-"2026-11-26": 0
+"2026-11-26": 1
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -7723,10 +7813,19 @@
 "precio": 650,
 "url": "https://www.habitaclia.com/alquiler/bajo/passeig-del-doctor-moragas/centre-eixample-can-llobet/barbera-del-valles/14a75526-c047-4233-8dca-a17effa281a3/d",
 "fecha": "2026-11-25"
+},
+{
+"destino": "e6f07ba53a676680",
+"municipio": "Barcelona Capital",
+"precio": 1000,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-corsega-707/sant-marti/barcelona-capital/1dfbec92-5b10-4fcf-8f8c-e9a3d064107e/d",
+"fecha": "2026-11-26"
 }
 ],
 "correos_destino": {
-"2026-11-26": {}
+"2026-11-26": {
+"e6f07ba53a676680": 1
+}
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
