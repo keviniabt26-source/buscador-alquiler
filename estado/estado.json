@@ -7634,6 +7634,35 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/corbera-de-llobregat/calefaccion-no-amueblado/191506044/d"
+},
+{
+"clave": "fotocasa:191507095",
+"municipio": "corbera de llobregat",
+"precio": 800,
+"metros": 80,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "0c2494781545962f",
+"fotos": [
+"4658587c5cd6f35b",
+"e4b2c8646c501cac"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/corbera-de-llobregat/calefaccion-trastero-no-amueblado/191507095/d"
+},
+{
+"clave": "pisoscom:69176630015.531427",
+"municipio": "corbera de llobregat",
+"precio": 800,
+"metros": 80,
+"barrio": "corbera de llobregat",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"6658587c5cdef35b"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-corbera_de_llobregat_centro_urbano-69176630015_531427/"
 }
 ],
 "correos": {
