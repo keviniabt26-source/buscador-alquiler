@@ -7440,6 +7440,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/calefaccion-no-amueblado/191504016/d"
+},
+{
+"clave": "fotocasa:191504262",
+"municipio": "el masnou",
+"precio": 950,
+"metros": 56,
+"barrio": "masnou alt",
+"habitaciones": 3,
+"telefono": "32fc6f2bd525d61c",
+"fotos": [
+"3e34374161317879",
+"e1e3c17131949490"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/masnou-alt/191504262/d"
 }
 ],
 "correos": {
@@ -7517,6 +7532,17 @@
 "habitaciones": 1,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/calefaccion-no-amueblado/191504016/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 950,
+"municipio": "El Masnou",
+"barrio": "Masnou Alt",
+"metros": 56,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/masnou-alt/191504262/d",
 "motivo": "",
 "color": ""
 }
