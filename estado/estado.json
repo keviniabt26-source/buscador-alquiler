@@ -8203,6 +8203,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510894/d"
+},
+{
+"clave": "fotocasa:191510128",
+"municipio": "vilanova i la geltru",
+"precio": 980,
+"metros": 77,
+"barrio": "la geltru - sant jordi",
+"habitaciones": 2,
+"telefono": "86a36f510c0eaa91",
+"fotos": [
+"8d1b0727269199b0",
+"3c090464640dbccc"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/aire-acondicionado-calefaccion-amueblado-television/191510128/d"
 }
 ],
 "correos": {
@@ -8258,6 +8273,17 @@
 "habitaciones": 1,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/ascensor-amueblado-se-aceptan-mascotas/191510916/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 980,
+"municipio": "Vilanova i la Geltrú",
+"barrio": "La Geltrú - Sant Jordi",
+"metros": 77,
+"habitaciones": 2,
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/aire-acondicionado-calefaccion-amueblado-television/191510128/d",
 "motivo": "",
 "color": ""
 }
