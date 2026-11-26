@@ -7425,6 +7425,21 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-sant_vicenc_de_castellet_centro_urbano-69187650001_106500/"
+},
+{
+"clave": "fotocasa:191504016",
+"municipio": "el masnou",
+"precio": 832,
+"metros": 40,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "8957c98c2d2272da",
+"fotos": [
+"6a6a2a1b12323838",
+"7357292b274d8e97"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/calefaccion-no-amueblado/191504016/d"
 }
 ],
 "correos": {
@@ -7491,6 +7506,17 @@
 "habitaciones": 1,
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-sant_vicenc_de_castellet_centro_urbano-69187650001_106500/",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 832,
+"municipio": "El Masnou",
+"barrio": "Centre",
+"metros": 40,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/calefaccion-no-amueblado/191504016/d",
 "motivo": "",
 "color": ""
 }
@@ -7586,6 +7612,7 @@
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
+"1fe5aee9f015941b",
 "2db724119dd2a4d6",
 "3acdb04a15e2e7ba",
 "64e10e1c6326fc8f",
