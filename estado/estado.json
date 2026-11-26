@@ -7723,6 +7723,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/191508052/d"
+},
+{
+"clave": "fotocasa:191494233",
+"municipio": "badalona",
+"precio": 370,
+"metros": 120,
+"barrio": "la salut",
+"habitaciones": 4,
+"telefono": "51d70a9cc884a184",
+"fotos": [
+"0e0c060f0703090c",
+"0e2e2ea4aca48ea6"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/calefaccion-jardin-terraza-ascensor-amueblado/191494233/d"
 }
 ],
 "correos": {
@@ -7866,6 +7881,17 @@
 "habitaciones": 1,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-celoni/calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-no-amueblado/191507647/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 370,
+"municipio": "Badalona",
+"barrio": "La Salut",
+"metros": 120,
+"habitaciones": 4,
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/calefaccion-jardin-terraza-ascensor-amueblado/191494233/d",
 "motivo": "",
 "color": ""
 }
