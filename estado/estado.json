@@ -7738,6 +7738,21 @@
 ],
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/calefaccion-jardin-terraza-ascensor-amueblado/191494233/d"
+},
+{
+"clave": "fotocasa:191509143",
+"municipio": "sabadell",
+"precio": 744,
+"metros": 46,
+"barrio": "covadonga",
+"habitaciones": 1,
+"telefono": "517dbb1168bfdd5b",
+"fotos": [
+"d8e8e4c8c8c89e47",
+"7870606060606070"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/parking-ascensor-no-amueblado/191509143/d"
 }
 ],
 "correos": {
