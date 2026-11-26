@@ -7982,6 +7982,113 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/gava/ascensor-amueblado-se-aceptan-mascotas/191510594/d"
+},
+{
+"clave": "fotocasa:191510753",
+"municipio": "vilanova i la geltru",
+"precio": 400,
+"metros": 35,
+"barrio": "centre vila",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/ascensor-amueblado-se-aceptan-mascotas/191510753/d"
+},
+{
+"clave": "fotocasa:191510736",
+"municipio": "sant cugat del valles",
+"precio": 400,
+"metros": 35,
+"barrio": "sant domenec",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-cugat-del-valles/ascensor-amueblado-se-aceptan-mascotas/191510736/d"
+},
+{
+"clave": "fotocasa:191510731",
+"municipio": "sitges",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"3f1f0d34158cb13c",
+"073b06260666743e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sitges/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510731/d"
+},
+{
+"clave": "fotocasa:191510730",
+"municipio": "rubi",
+"precio": 400,
+"metros": 35,
+"barrio": "la serreta",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"2313c373558f8387"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/rubi/ascensor-amueblado-se-aceptan-mascotas/191510730/d"
+},
+{
+"clave": "fotocasa:191510725",
+"municipio": "sant joan despi",
+"precio": 400,
+"metros": 35,
+"barrio": "les planes",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-joan-despi/ascensor-amueblado-se-aceptan-mascotas/191510725/d"
+},
+{
+"clave": "fotocasa:191510700",
+"municipio": "sant boi de llobregat",
+"precio": 500,
+"metros": 60,
+"barrio": "marianao",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"073b06260666743e",
+"01c7069199a83113"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-boi-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510700/d"
+},
+{
+"clave": "fotocasa:191510687",
+"municipio": "barcelona",
+"precio": 500,
+"metros": 60,
+"barrio": "barri gotic",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"3f1f0d34158cb13c",
+"32c2436363e393db"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510687/d"
+},
+{
+"clave": "fotocasa:191510672",
+"municipio": "santa coloma de gramenet",
+"precio": 400,
+"metros": 35,
+"barrio": "can mariner",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/ascensor-amueblado-se-aceptan-mascotas/191510672/d"
 }
 ],
 "correos": {
@@ -8028,151 +8135,7 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [
-{
-"precio": 800,
-"municipio": "Les Masies de Voltregà",
-"barrio": "",
-"metros": 90,
-"habitaciones": 2,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/les-masies-de-voltrega/calefaccion-terraza-ascensor-amueblado/191501092/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 715,
-"municipio": "Sant Vicenç de Castellet",
-"barrio": "Sant Vicenç de Castellet",
-"metros": 45,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.pisos.com/alquilar/piso-sant_vicenc_de_castellet_centro_urbano-69187650001_106500/",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 832,
-"municipio": "El Masnou",
-"barrio": "Centre",
-"metros": 40,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/calefaccion-no-amueblado/191504016/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 950,
-"municipio": "El Masnou",
-"barrio": "Masnou Alt",
-"metros": 56,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/masnou-alt/191504262/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 755,
-"municipio": "Mataró",
-"barrio": "Cirera",
-"metros": 120,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/191504460/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 704,
-"municipio": "Manresa",
-"barrio": "Plaça Catalunya",
-"metros": 90,
-"habitaciones": 4,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/ascensor-amueblado/191504824/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 872,
-"municipio": "Cardedeu",
-"barrio": "",
-"metros": 100,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-trastero/191504954/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 800,
-"municipio": "Corbera de Llobregat",
-"barrio": "",
-"metros": 80,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/60004f7e-d5e1-443a-a7d4-e23ecd6274e5/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 735,
-"municipio": "Sant Celoni",
-"barrio": "",
-"metros": 60,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-celoni/calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-no-amueblado/191507647/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 370,
-"municipio": "Badalona",
-"barrio": "La Salut",
-"metros": 120,
-"habitaciones": 4,
-"particular": true,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/calefaccion-jardin-terraza-ascensor-amueblado/191494233/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 500,
-"municipio": "Badalona",
-"barrio": "Port",
-"metros": 60,
-"habitaciones": 2,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510550/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 400,
-"municipio": "Granollers",
-"barrio": "Sota el Cami Ral",
-"metros": 35,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/granollers/ascensor-amueblado-se-aceptan-mascotas/191510618/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 400,
-"municipio": "Gavà",
-"barrio": "Centre - Estació",
-"metros": 35,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/gava/ascensor-amueblado-se-aceptan-mascotas/191510594/d",
-"motivo": "",
-"color": ""
-}
-],
+"resumen_pendiente": [],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
@@ -8285,5 +8248,5 @@
 "f5dd8fe3f408a054",
 "fbdd081c3053b31c"
 ],
-"ultimo_resumen": "2026-11-25"
+"ultimo_resumen": "2026-11-26"
 }
