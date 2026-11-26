@@ -7798,6 +7798,20 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-celoni/130226a9-1f8d-4582-8cfc-a4c35efe8131/d"
+},
+{
+"clave": "pisoscom:69265412441.109800",
+"municipio": "barcelona",
+"precio": 850,
+"metros": 50,
+"barrio": "la dreta de l'eixample (distrito eixample. barcelona)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"170353d1a82d1f49"
+],
+"particular": true,
+"url": "https://www.pisos.com/alquilar/piso-la_dreta_de_eixample08037-69265412441_109800/"
 }
 ],
 "correos": {
@@ -8064,6 +8078,7 @@
 "77457f38d3a9e493",
 "8a6367eb6dceda82",
 "d16b6b9f2dd43f5e",
+"dea405cfb8b0a62b",
 "f5dd8fe3f408a054",
 "fbdd081c3053b31c"
 ],
