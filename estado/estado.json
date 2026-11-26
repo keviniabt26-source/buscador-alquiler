@@ -7693,6 +7693,36 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-celoni/calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-no-amueblado/191507647/d"
+},
+{
+"clave": "fotocasa:191508305",
+"municipio": "barcelona",
+"precio": 860,
+"metros": 59,
+"barrio": "verdum",
+"habitaciones": 2,
+"telefono": "fa9e8a494ba0f557",
+"fotos": [
+"331f7e7dde36d8cc",
+"812322262606cc0c"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado/191508305/d"
+},
+{
+"clave": "fotocasa:191508052",
+"municipio": "barcelona",
+"precio": 866,
+"metros": 35,
+"barrio": "dreta de l'eixample",
+"habitaciones": 1,
+"telefono": "5603883b8fd975da",
+"fotos": [
+"9cc3d6c68e8fa737",
+"6c6c6df90d27131f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/191508052/d"
 }
 ],
 "correos": {
