@@ -7812,6 +7812,90 @@
 ],
 "particular": true,
 "url": "https://www.pisos.com/alquilar/piso-la_dreta_de_eixample08037-69265412441_109800/"
+},
+{
+"clave": "fotocasa:191510550",
+"municipio": "badalona",
+"precio": 500,
+"metros": 60,
+"barrio": "port",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"08210f0da3f17278",
+"32c2436363e393db"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510550/d"
+},
+{
+"clave": "fotocasa:191510540",
+"municipio": "el prat de llobregat",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"066c3c3c3cf89ef0",
+"08210f0da3f17278"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/el-prat-de-llobregat/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510540/d"
+},
+{
+"clave": "fotocasa:191510539",
+"municipio": "sabadell",
+"precio": 400,
+"metros": 35,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"2313c373558f8387",
+"3d1f2c2c679c3cfe"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/ascensor-amueblado-se-aceptan-mascotas/191510539/d"
+},
+{
+"clave": "fotocasa:191510511",
+"municipio": "barcelona",
+"precio": 400,
+"metros": 35,
+"barrio": "dreta de l'eixample",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191510511/d"
+},
+{
+"clave": "fotocasa:191510496",
+"municipio": "barcelona",
+"precio": 400,
+"metros": 35,
+"barrio": "el raval",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-se-aceptan-mascotas/191510496/d"
+},
+{
+"clave": "fotocasa:191510484",
+"municipio": "mataro",
+"precio": 500,
+"metros": 60,
+"barrio": "centre",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"08311d05e0f17269",
+"32c2436363e393db"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510484/d"
 }
 ],
 "correos": {
@@ -7966,6 +8050,17 @@
 "habitaciones": 4,
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/calefaccion-jardin-terraza-ascensor-amueblado/191494233/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 500,
+"municipio": "Badalona",
+"barrio": "Port",
+"metros": 60,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510550/d",
 "motivo": "",
 "color": ""
 }
