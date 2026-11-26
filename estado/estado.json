@@ -8089,6 +8089,48 @@
 "fotos": [],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/ascensor-amueblado-se-aceptan-mascotas/191510672/d"
+},
+{
+"clave": "fotocasa:191510828",
+"municipio": "vilanova i la geltru",
+"precio": 400,
+"metros": 35,
+"barrio": "barri del mar",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/ascensor-amueblado-se-aceptan-mascotas/191510828/d"
+},
+{
+"clave": "fotocasa:191510794",
+"municipio": "santa coloma de gramenet",
+"precio": 500,
+"metros": 60,
+"barrio": "can mariner",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"070f434353d3c367",
+"5f674f43c3d11323"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510794/d"
+},
+{
+"clave": "fotocasa:191510779",
+"municipio": "terrassa",
+"precio": 500,
+"metros": 60,
+"barrio": "sant pere",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"5f674f43c3d11323",
+"5f674f43c3d11323"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510779/d"
 }
 ],
 "correos": {
