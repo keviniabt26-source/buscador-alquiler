@@ -7484,6 +7484,21 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/loft-el_masnou_centro_urbano-69194976928_109200/"
+},
+{
+"clave": "fotocasa:191504824",
+"municipio": "manresa",
+"precio": 704,
+"metros": 90,
+"barrio": "placa catalunya",
+"habitaciones": 4,
+"telefono": "e1d1c13b897d09e9",
+"fotos": [
+"0393c3d7170f4d8d",
+"98989ad868cc8430"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/ascensor-amueblado/191504824/d"
 }
 ],
 "correos": {
@@ -7583,6 +7598,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/191504460/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 704,
+"municipio": "Manresa",
+"barrio": "Plaça Catalunya",
+"metros": 90,
+"habitaciones": 4,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/manresa/ascensor-amueblado/191504824/d",
 "motivo": "",
 "color": ""
 }
