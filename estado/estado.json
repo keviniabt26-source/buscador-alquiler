@@ -7396,6 +7396,21 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/les-masies-de-voltrega/bb89f6e2-768c-4658-b55f-c1d2bcf50d71/d"
+},
+{
+"clave": "fotocasa:191500491",
+"municipio": "barcelona",
+"precio": 675,
+"metros": 88,
+"barrio": "dreta de l'eixample",
+"habitaciones": 3,
+"telefono": "1487daca4419b7d3",
+"fotos": [
+"1f1f5e5c3cb8accc",
+"fce3cec3c7f3f3f3"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-amueblado-internet/191500491/d"
 }
 ],
 "correos": {
@@ -7551,6 +7566,7 @@
 "64e10e1c6326fc8f",
 "8a6367eb6dceda82",
 "d16b6b9f2dd43f5e",
+"f5dd8fe3f408a054",
 "fbdd081c3053b31c"
 ],
 "ultimo_resumen": "2026-11-25"
