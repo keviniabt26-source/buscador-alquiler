@@ -8131,6 +8131,78 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510779/d"
+},
+{
+"clave": "fotocasa:191510923",
+"municipio": "rubi",
+"precio": 500,
+"metros": 60,
+"barrio": "ca n'oriol",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"3253432323f7d733",
+"08311d05e0f17269"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/rubi/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510923/d"
+},
+{
+"clave": "fotocasa:191510917",
+"municipio": "santa coloma de gramenet",
+"precio": 500,
+"metros": 60,
+"barrio": "llati",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"066c3c3c3cf89ef0",
+"070f434353d3c367"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510917/d"
+},
+{
+"clave": "fotocasa:191510916",
+"municipio": "igualada",
+"precio": 400,
+"metros": 35,
+"barrio": "centre",
+"habitaciones": 1,
+"telefono": "6532502544ae2a48",
+"fotos": [],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/ascensor-amueblado-se-aceptan-mascotas/191510916/d"
+},
+{
+"clave": "fotocasa:191510898",
+"municipio": "barcelona",
+"precio": 500,
+"metros": 60,
+"barrio": "sagrada familia",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"32c2436363e393db",
+"070f434353d3c367"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510898/d"
+},
+{
+"clave": "fotocasa:191510894",
+"municipio": "barcelona",
+"precio": 500,
+"metros": 60,
+"barrio": "el camp d'en grassot i gracia nova",
+"habitaciones": 2,
+"telefono": "6532502544ae2a48",
+"fotos": [
+"08311d05e0f17269",
+"dfc4c5e5e5b8ae3f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado-television-se-aceptan-mascotas-internet/191510894/d"
 }
 ],
 "correos": {
@@ -8177,7 +8249,19 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [],
+"resumen_pendiente": [
+{
+"precio": 400,
+"municipio": "Igualada",
+"barrio": "Centre",
+"metros": 35,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/ascensor-amueblado-se-aceptan-mascotas/191510916/d",
+"motivo": "",
+"color": ""
+}
+],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
