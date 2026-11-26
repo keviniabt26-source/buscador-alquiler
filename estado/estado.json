@@ -7455,6 +7455,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/masnou-alt/191504262/d"
+},
+{
+"clave": "fotocasa:191504460",
+"municipio": "mataro",
+"precio": 755,
+"metros": 120,
+"barrio": "cirera",
+"habitaciones": 3,
+"telefono": "a5a80ba8527ffffe",
+"fotos": [
+"c7f676f6373f3f3f",
+"ca0a9a9a371c54d0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/191504460/d"
 }
 ],
 "correos": {
@@ -7543,6 +7558,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/el-masnou/masnou-alt/191504262/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 755,
+"municipio": "Mataró",
+"barrio": "Cirera",
+"metros": 120,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/mataro/aire-acondicionado-calefaccion-parking-terraza-no-amueblado/191504460/d",
 "motivo": "",
 "color": ""
 }
