@@ -7399,7 +7399,7 @@
 }
 ],
 "correos": {
-"2026-11-25": 1
+"2026-11-26": 0
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -7542,9 +7542,7 @@
 }
 ],
 "correos_destino": {
-"2026-11-25": {
-"0064302e025b39dd": 1
-}
+"2026-11-26": {}
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
