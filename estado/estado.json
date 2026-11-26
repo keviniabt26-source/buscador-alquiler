@@ -7604,6 +7604,36 @@
 ],
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/amueblado-television/191502049/d"
+},
+{
+"clave": "habitaclia:60004f7e-d5e1-443a-a7d4-e23ecd6274e5",
+"municipio": "corbera de llobregat",
+"precio": 800,
+"metros": 80,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "d2ba25bf5735270d",
+"fotos": [
+"4658587c5cd6f35b",
+"4658587c5cd6f35b"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/60004f7e-d5e1-443a-a7d4-e23ecd6274e5/d"
+},
+{
+"clave": "fotocasa:191506044",
+"municipio": "corbera de llobregat",
+"precio": 800,
+"metros": 80,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "d2ba25bf5735270d",
+"fotos": [
+"4658587c5cd6f35b",
+"4658587c5cd6f35b"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/corbera-de-llobregat/calefaccion-no-amueblado/191506044/d"
 }
 ],
 "correos": {
@@ -7725,6 +7755,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/cardedeu/calefaccion-trastero/191504954/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 800,
+"municipio": "Corbera de Llobregat",
+"barrio": "",
+"metros": 80,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/60004f7e-d5e1-443a-a7d4-e23ecd6274e5/d",
 "motivo": "",
 "color": ""
 }
