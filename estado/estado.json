@@ -7678,6 +7678,21 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/ae39e456-3f8f-425e-8d8f-67d41fb17af8/d"
+},
+{
+"clave": "fotocasa:191507647",
+"municipio": "sant celoni",
+"precio": 735,
+"metros": 60,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "2efb2b490237c8b2",
+"fotos": [
+"31160c6565343434",
+"5d154d4d454d4dcd"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-celoni/calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-no-amueblado/191507647/d"
 }
 ],
 "correos": {
@@ -7810,6 +7825,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/corbera-de-llobregat/60004f7e-d5e1-443a-a7d4-e23ecd6274e5/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 735,
+"municipio": "Sant Celoni",
+"barrio": "",
+"metros": 60,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-celoni/calefaccion-parking-trastero-zona-comunitaria-ascensor-internet-no-amueblado/191507647/d",
 "motivo": "",
 "color": ""
 }
