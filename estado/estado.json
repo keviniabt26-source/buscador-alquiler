@@ -8248,6 +8248,51 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-amueblado-television/191336246/d"
+},
+{
+"clave": "fotocasa:191336252",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 50,
+"barrio": "el raval",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"474f4b5ba7a7070f",
+"bbbbb8f0fd37070e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-amueblado/191336252/d"
+},
+{
+"clave": "fotocasa:191331065",
+"municipio": "barcelona",
+"precio": 950,
+"metros": 54,
+"barrio": "el raval",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"13c36387e6e663e3",
+"0c20222260212346"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-television/191331065/d"
+},
+{
+"clave": "fotocasa:191331060",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 56,
+"barrio": "el raval",
+"habitaciones": null,
+"telefono": "",
+"fotos": [
+"1fdf7e7e7e3f4bd3",
+"0fffbfcd1e6eef51"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-television/191331060/d"
 }
 ],
 "correos": {
