@@ -8756,6 +8756,66 @@
 ],
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/artes/aire-acondicionado-jardin-terraza-ascensor-amueblado/191518329/d"
+},
+{
+"clave": "habitaclia:f2610740-9671-48ec-9b96-bfd0f61b2786",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 40,
+"barrio": "nou barris",
+"habitaciones": 1,
+"telefono": "83147dfeb5bfe680",
+"fotos": [
+"1c3534982c181c3e",
+"727275b1b8b2f1fc"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-casals-i-cubero-191/nou-barris/barcelona-capital/f2610740-9671-48ec-9b96-bfd0f61b2786/d"
+},
+{
+"clave": "habitaclia:11da721d-0347-454f-8214-7853113f4bfb",
+"municipio": "terrassa",
+"precio": 700,
+"metros": 60,
+"barrio": "ponent",
+"habitaciones": 2,
+"telefono": "97541e9735ecf703",
+"fotos": [
+"0d0c909a7b79e0e1",
+"0f241822240f0301"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-del-pare-llaurador-146/ponent/terrassa/11da721d-0347-454f-8214-7853113f4bfb/d"
+},
+{
+"clave": "habitaclia:71378107-f3d4-435f-ac3a-c885bfc333a6",
+"municipio": "artes",
+"precio": 595,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "b7e853867789aecd",
+"fotos": [
+"7e5e346ccc2c0c8a",
+"b69c989cc8c8cca3"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/artes/71378107-f3d4-435f-ac3a-c885bfc333a6/d"
+},
+{
+"clave": "habitaclia:0a348f27-ac7f-48e0-aa0f-ec60e0eb7088",
+"municipio": "cornella de llobregat",
+"precio": 760,
+"metros": 70,
+"barrio": "la gavarra",
+"habitaciones": 3,
+"telefono": "dd55a75ed5db88eb",
+"fotos": [
+"1b39339b9cb43c3c",
+"8c9ccdc141755c3b"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-mossen-joaquim-palet-i-bertomeu-8/la-gavarra/cornella-de-llobregat/0a348f27-ac7f-48e0-aa0f-ec60e0eb7088/d"
 }
 ],
 "correos": {
