@@ -8772,140 +8772,7 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [
-{
-"precio": 400,
-"municipio": "Igualada",
-"barrio": "Centre",
-"metros": 35,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/igualada/ascensor-amueblado-se-aceptan-mascotas/191510916/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 980,
-"municipio": "Vilanova i la Geltrú",
-"barrio": "La Geltrú - Sant Jordi",
-"metros": 77,
-"habitaciones": 2,
-"particular": true,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/aire-acondicionado-calefaccion-amueblado-television/191510128/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 723,
-"municipio": "Vic",
-"barrio": "Caputxins - Ambulatori",
-"metros": 78,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-ascensor/191514098/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 550,
-"municipio": "Montesquiu",
-"barrio": "",
-"metros": 55,
-"habitaciones": 1,
-"particular": true,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/montesquiu/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-amueblado-television/191512621/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 1000,
-"municipio": "Malgrat de Mar",
-"barrio": "",
-"metros": 83,
-"habitaciones": 2,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/malgrat-de-mar/ascensor-no-amueblado/191407260/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 750,
-"municipio": "Navarcles",
-"barrio": "",
-"metros": 110,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/navarcles/ascensor-no-amueblado/191517020/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 950,
-"municipio": "Granollers",
-"barrio": "Centre (Granollers)",
-"metros": 80,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.pisos.com/alquilar/piso-granollers_centre-84264086310_510334/",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 779,
-"municipio": "Argentona",
-"barrio": "Nucli Urbà",
-"metros": 58,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/aire-acondicionado-calefaccion/191475063/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 900,
-"municipio": "Badalona",
-"barrio": "Progrés - Pep Ventura",
-"metros": 58,
-"habitaciones": 2,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191430521/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 825,
-"municipio": "El Prat de Llobregat",
-"barrio": "Estruch - Eixample",
-"metros": 35,
-"habitaciones": 1,
-"particular": false,
-"url": "https://www.habitaclia.com/alquiler/planta-intermedia/verge-de-montserrat/estruch-eixample/el-prat-de-llobregat/2e1cbe4e-97bc-40db-a188-964631cc897e/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 915,
-"municipio": "Sant Andreu de la Barca",
-"barrio": "",
-"metros": 82,
-"habitaciones": 5,
-"particular": false,
-"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/a49657c8-db35-4386-823b-e3e6eac68e20/d",
-"motivo": "",
-"color": ""
-},
-{
-"precio": 680,
-"municipio": "Sant Pere de Riudebitlles",
-"barrio": "",
-"metros": 110,
-"habitaciones": 3,
-"particular": false,
-"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pere-de-riudebitlles/aire-acondicionado-calefaccion-no-amueblado/191518313/d",
-"motivo": "",
-"color": ""
-}
-],
+"resumen_pendiente": [],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
@@ -9013,6 +8880,7 @@
 "64e10e1c6326fc8f",
 "65e5dc7d0ea47785",
 "719d509afac34551",
+"76307d1447248db7",
 "77457f38d3a9e493",
 "8a6367eb6dceda82",
 "a878ff543eb0a409",
@@ -9022,5 +8890,5 @@
 "f5dd8fe3f408a054",
 "fbdd081c3053b31c"
 ],
-"ultimo_resumen": "2026-11-26"
+"ultimo_resumen": "2026-11-27"
 }
