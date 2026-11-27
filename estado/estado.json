@@ -8726,6 +8726,36 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pere-de-riudebitlles/aire-acondicionado-calefaccion-no-amueblado/191518313/d"
+},
+{
+"clave": "fotocasa:191519043",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 40,
+"barrio": "verdum",
+"habitaciones": 1,
+"telefono": "83147dfeb5bfe680",
+"fotos": [
+"1c3534982c181c3e",
+"727275b1b8b2f1fc"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-amueblado/191519043/d"
+},
+{
+"clave": "fotocasa:191518329",
+"municipio": "artes",
+"precio": 595,
+"metros": 50,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "b7e853867789aecd",
+"fotos": [
+"7e5e346ccc2c0c8a",
+"b69c989cc8c8cca3"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/artes/aire-acondicionado-jardin-terraza-ascensor-amueblado/191518329/d"
 }
 ],
 "correos": {
@@ -8772,7 +8802,19 @@
 "cef3f3e3f3b3f0e7",
 "eb7ff0e5f6f5e5c4"
 ],
-"resumen_pendiente": [],
+"resumen_pendiente": [
+{
+"precio": 595,
+"municipio": "Artés",
+"barrio": "",
+"metros": 50,
+"habitaciones": 2,
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/artes/aire-acondicionado-jardin-terraza-ascensor-amueblado/191518329/d",
+"motivo": "",
+"color": ""
+}
+],
 "contactados": [
 {
 "destino": "a075c86b283127e5",
