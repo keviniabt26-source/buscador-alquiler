@@ -8368,6 +8368,21 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-ascensor/191514098/d"
+},
+{
+"clave": "fotocasa:191512621",
+"municipio": "montesquiu",
+"precio": 550,
+"metros": 55,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "32319d086e72d7a7",
+"fotos": [
+"9e9e8e9796b31139",
+"123c30312026468e"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/montesquiu/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-amueblado-television/191512621/d"
 }
 ],
 "correos": {
@@ -8445,6 +8460,17 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-ascensor/191514098/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 550,
+"municipio": "Montesquiu",
+"barrio": "",
+"metros": 55,
+"habitaciones": 1,
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/montesquiu/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-amueblado-television/191512621/d",
 "motivo": "",
 "color": ""
 }
@@ -8551,7 +8577,9 @@
 "209ef78e97e2d0f0",
 "2db724119dd2a4d6",
 "3acdb04a15e2e7ba",
+"3afc06f9c4a47514",
 "64e10e1c6326fc8f",
+"719d509afac34551",
 "77457f38d3a9e493",
 "8a6367eb6dceda82",
 "d16b6b9f2dd43f5e",
