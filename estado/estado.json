@@ -8532,6 +8532,35 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-la_torrassa-69256599399_518209/"
+},
+{
+"clave": "fotocasa:191517020",
+"municipio": "navarcles",
+"precio": 750,
+"metros": 110,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "e1d1c13b897d09e9",
+"fotos": [
+"03c3c0b0f0f8c880",
+"9f70486868e83809"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/navarcles/ascensor-no-amueblado/191517020/d"
+},
+{
+"clave": "pisoscom:84264086310.510334",
+"municipio": "granollers",
+"precio": 950,
+"metros": 80,
+"barrio": "centre (granollers)",
+"habitaciones": 3,
+"telefono": "",
+"fotos": [
+"e70f9387cdcdcece"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-granollers_centre-84264086310_510334/"
 }
 ],
 "correos": {
@@ -8631,6 +8660,28 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/malgrat-de-mar/ascensor-no-amueblado/191407260/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 750,
+"municipio": "Navarcles",
+"barrio": "",
+"metros": 110,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/navarcles/ascensor-no-amueblado/191517020/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 950,
+"municipio": "Granollers",
+"barrio": "Centre (Granollers)",
+"metros": 80,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-granollers_centre-84264086310_510334/",
 "motivo": "",
 "color": ""
 }
