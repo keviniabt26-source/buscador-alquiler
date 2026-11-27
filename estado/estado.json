@@ -8383,6 +8383,36 @@
 ],
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/montesquiu/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-amueblado-television/191512621/d"
+},
+{
+"clave": "fotocasa:191511536",
+"municipio": "sabadell",
+"precio": 600,
+"metros": 55,
+"barrio": "covadonga",
+"habitaciones": 1,
+"telefono": "856e354a4c56cbe6",
+"fotos": [
+"1e646773303a3a38",
+"c3c6ceedb9ac7d5f"
+],
+"particular": true,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sabadell/patio-amueblado/191511536/d"
+},
+{
+"clave": "fotocasa:191407260",
+"municipio": "malgrat de mar",
+"precio": 1000,
+"metros": 83,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "bfed9311894032f4",
+"fotos": [
+"1f1f118c89f91903",
+"3935961400107c0e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/malgrat-de-mar/ascensor-no-amueblado/191407260/d"
 }
 ],
 "correos": {
@@ -8471,6 +8501,17 @@
 "habitaciones": 1,
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/montesquiu/aire-acondicionado-calefaccion-parking-terraza-ascensor-patio-amueblado-television/191512621/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 1000,
+"municipio": "Malgrat de Mar",
+"barrio": "",
+"metros": 83,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/malgrat-de-mar/ascensor-no-amueblado/191407260/d",
 "motivo": "",
 "color": ""
 }
