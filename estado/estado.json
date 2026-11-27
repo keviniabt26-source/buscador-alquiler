@@ -8503,6 +8503,35 @@
 ],
 "particular": true,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/montesquiu/dbedef99-d5de-4006-94a3-c85393bf03a8/d"
+},
+{
+"clave": "fotocasa:191516571",
+"municipio": "l'hospitalet de llobregat",
+"precio": 938,
+"metros": 73,
+"barrio": "la torrassa",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"3133535367566e7f",
+"7334bc1c3c6c6fcf"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/l-hospitalet-de-llobregat/amueblado/191516571/d"
+},
+{
+"clave": "pisoscom:69256599399.518209",
+"municipio": "l'hospitalet de llobregat",
+"precio": 938,
+"metros": 73,
+"barrio": "la torrassa (l'hospitalet de llobregat)",
+"habitaciones": 2,
+"telefono": "",
+"fotos": [
+"3373535367566f7e"
+],
+"particular": false,
+"url": "https://www.pisos.com/alquilar/piso-la_torrassa-69256599399_518209/"
 }
 ],
 "correos": {
