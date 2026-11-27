@@ -8353,6 +8353,21 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/ciutat-vella/barcelona-capital/f2077ec2-313f-455f-ae33-4158934fc1bd/d"
+},
+{
+"clave": "fotocasa:191514098",
+"municipio": "vic",
+"precio": 723,
+"metros": 78,
+"barrio": "caputxins - ambulatori",
+"habitaciones": 3,
+"telefono": "cbab21386ff553a0",
+"fotos": [
+"008bb8b83030082c",
+"0f8fa6a6a6a6865e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-ascensor/191514098/d"
 }
 ],
 "correos": {
@@ -8419,6 +8434,17 @@
 "habitaciones": 2,
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/vilanova-i-la-geltru/aire-acondicionado-calefaccion-amueblado-television/191510128/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 723,
+"municipio": "Vic",
+"barrio": "Caputxins - Ambulatori",
+"metros": 78,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-ascensor/191514098/d",
 "motivo": "",
 "color": ""
 }
