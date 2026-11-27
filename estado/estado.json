@@ -8443,6 +8443,66 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/no-amueblado/191514682/d"
+},
+{
+"clave": "habitaclia:527c3bbc-2f92-4ce0-ab60-97c67aac6f80",
+"municipio": "sant cugat del valles",
+"precio": 925,
+"metros": 60,
+"barrio": "centre - estacio",
+"habitaciones": 3,
+"telefono": "d99a412cefc48268",
+"fotos": [
+"83a692d283050607",
+"cae8697b5f777f1f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/apartamento/centre-estacio/sant-cugat-del-valles/527c3bbc-2f92-4ce0-ab60-97c67aac6f80/d"
+},
+{
+"clave": "habitaclia:99f85085-45ab-4117-8d2d-685f76d3b60b",
+"municipio": "malgrat de mar",
+"precio": 1000,
+"metros": 83,
+"barrio": "",
+"habitaciones": 2,
+"telefono": "bfed9311894032f4",
+"fotos": [
+"1f1f118c89f91903",
+"3935961400107c0e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/malgrat-de-mar/99f85085-45ab-4117-8d2d-685f76d3b60b/d"
+},
+{
+"clave": "habitaclia:85052082-9bbc-4889-bc81-fc4b8aff2623",
+"municipio": "sabadell",
+"precio": 600,
+"metros": 55,
+"barrio": "centre - sant oleguer",
+"habitaciones": 1,
+"telefono": "856e354a4c56cbe6",
+"fotos": [
+"1e646773303a3a38",
+"c3c6ceedb9ac7d5f"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-bilbao-2/centre-sant-oleguer/sabadell/85052082-9bbc-4889-bc81-fc4b8aff2623/d"
+},
+{
+"clave": "habitaclia:dbedef99-d5de-4006-94a3-c85393bf03a8",
+"municipio": "montesquiu",
+"precio": 550,
+"metros": 55,
+"barrio": "",
+"habitaciones": 1,
+"telefono": "32319d086e72d7a7",
+"fotos": [
+"9e9e8e9796b31139",
+"123c30312026468e"
+],
+"particular": true,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/montesquiu/dbedef99-d5de-4006-94a3-c85393bf03a8/d"
 }
 ],
 "correos": {
