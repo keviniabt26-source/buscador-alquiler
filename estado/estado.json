@@ -8561,6 +8561,51 @@
 ],
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-granollers_centre-84264086310_510334/"
+},
+{
+"clave": "fotocasa:191517551",
+"municipio": "terrassa",
+"precio": 791,
+"metros": 79,
+"barrio": "placa catalunya - escola industrial",
+"habitaciones": 3,
+"telefono": "bfb4704d6bd9aeff",
+"fotos": [
+"3b33332d3d0c2a5b",
+"cd496d2d29498c0e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/terrassa/placa-catalunya-escola-industrial/191517551/d"
+},
+{
+"clave": "fotocasa:191475063",
+"municipio": "argentona",
+"precio": 779,
+"metros": 58,
+"barrio": "nucli urba",
+"habitaciones": 1,
+"telefono": "c50f00ef00859858",
+"fotos": [
+"3f979f1f1f777f7f",
+"6f7e57670f1f4f4f"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/aire-acondicionado-calefaccion/191475063/d"
+},
+{
+"clave": "fotocasa:191430521",
+"municipio": "badalona",
+"precio": 900,
+"metros": 58,
+"barrio": "progres - pep ventura",
+"habitaciones": 2,
+"telefono": "c50f00ef00859858",
+"fotos": [
+"cac9a8e3c3c6c228",
+"37370733b2b216c2"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191430521/d"
 }
 ],
 "correos": {
@@ -8682,6 +8727,28 @@
 "habitaciones": 3,
 "particular": false,
 "url": "https://www.pisos.com/alquilar/piso-granollers_centre-84264086310_510334/",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 779,
+"municipio": "Argentona",
+"barrio": "Nucli Urbà",
+"metros": 58,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/argentona/aire-acondicionado-calefaccion/191475063/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 900,
+"municipio": "Badalona",
+"barrio": "Progrés - Pep Ventura",
+"metros": 58,
+"habitaciones": 2,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191430521/d",
 "motivo": "",
 "color": ""
 }
