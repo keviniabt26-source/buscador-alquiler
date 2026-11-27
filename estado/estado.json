@@ -8606,6 +8606,111 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191430521/d"
+},
+{
+"clave": "habitaclia:a95d30a2-5acf-4251-979c-578d466787db",
+"municipio": "l'hospitalet de llobregat",
+"precio": 938,
+"metros": 73,
+"barrio": "collblanc - la torrassa",
+"habitaciones": 2,
+"telefono": "a5cc04cc873f9f76",
+"fotos": [
+"3133535367566e7f",
+"7334bc1c3c6c6fcf"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/calle-ronda-de-la-torrassa/collblanc-la-torrassa/l-hospitalet-de-llobregat/a95d30a2-5acf-4251-979c-578d466787db/d"
+},
+{
+"clave": "habitaclia:bf212e47-0e36-4616-8538-100032b33019",
+"municipio": "navarcles",
+"precio": 750,
+"metros": 110,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "e1d1c13b897d09e9",
+"fotos": [
+"03c3c0b0f0f8c880",
+"9f70486868e83809"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/navarcles/bf212e47-0e36-4616-8538-100032b33019/d"
+},
+{
+"clave": "habitaclia:2e1cbe4e-97bc-40db-a188-964631cc897e",
+"municipio": "el prat de llobregat",
+"precio": 825,
+"metros": 35,
+"barrio": "estruch - eixample",
+"habitaciones": 1,
+"telefono": "7e80b0b5fe0d7ea7",
+"fotos": [
+"9e94dcace4ece0c8",
+"2fed1f93914fc9ad"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/verge-de-montserrat/estruch-eixample/el-prat-de-llobregat/2e1cbe4e-97bc-40db-a188-964631cc897e/d"
+},
+{
+"clave": "habitaclia:a49657c8-db35-4386-823b-e3e6eac68e20",
+"municipio": "sant andreu de la barca",
+"precio": 915,
+"metros": 82,
+"barrio": "",
+"habitaciones": 5,
+"telefono": "251a09f70e58a034",
+"fotos": [
+"0f0f031317181e3b",
+"1e1dcb4b49796c6f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/a49657c8-db35-4386-823b-e3e6eac68e20/d"
+},
+{
+"clave": "habitaclia:e386ec48-499b-4a3e-8a45-f7fd011e7b8e",
+"municipio": "argentona",
+"precio": 779,
+"metros": 58,
+"barrio": "nucli urba",
+"habitaciones": 1,
+"telefono": "c50f00ef00859858",
+"fotos": [
+"3f979f1f1f777f7f",
+"6f7e57670f1f4f4f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/ramon-par/nucli-urba/argentona/e386ec48-499b-4a3e-8a45-f7fd011e7b8e/d"
+},
+{
+"clave": "habitaclia:257011cc-d2ac-4bb1-bb55-da169c6aacf0",
+"municipio": "badalona",
+"precio": 900,
+"metros": 58,
+"barrio": "gorg - progres",
+"habitaciones": 2,
+"telefono": "c50f00ef00859858",
+"fotos": [
+"cac9a8e3c3c6c228",
+"37370733b2b216c2"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/industria/gorg-progres/badalona/257011cc-d2ac-4bb1-bb55-da169c6aacf0/d"
+},
+{
+"clave": "habitaclia:36f079d7-f3ae-4430-9d16-4f6405140ea9",
+"municipio": "terrassa",
+"precio": 791,
+"metros": 79,
+"barrio": "centre",
+"habitaciones": 3,
+"telefono": "bfb4704d6bd9aeff",
+"fotos": [
+"3b33332d3d0c2a5b",
+"cd496d2d29498c0e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/terrassa/36f079d7-f3ae-4430-9d16-4f6405140ea9/d"
 }
 ],
 "correos": {
@@ -8749,6 +8854,28 @@
 "habitaciones": 2,
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/ascensor/191430521/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 825,
+"municipio": "El Prat de Llobregat",
+"barrio": "Estruch - Eixample",
+"metros": 35,
+"habitaciones": 1,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/verge-de-montserrat/estruch-eixample/el-prat-de-llobregat/2e1cbe4e-97bc-40db-a188-964631cc897e/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 915,
+"municipio": "Sant Andreu de la Barca",
+"barrio": "",
+"metros": 82,
+"habitaciones": 5,
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/a49657c8-db35-4386-823b-e3e6eac68e20/d",
 "motivo": "",
 "color": ""
 }
