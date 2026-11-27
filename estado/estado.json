@@ -8233,10 +8233,25 @@
 ],
 "particular": true,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/avinguda-del-garraf-31/la-geltru-sant-jordi/vilanova-i-la-geltru/8f689204-3c0c-4f61-b510-8d643c664a14/d"
+},
+{
+"clave": "fotocasa:191336246",
+"municipio": "barcelona",
+"precio": 1000,
+"metros": 50,
+"barrio": "el raval",
+"habitaciones": 1,
+"telefono": "",
+"fotos": [
+"3d1f37071e5e1e9f",
+"078390c59119b9b0"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-amueblado-television/191336246/d"
 }
 ],
 "correos": {
-"2026-11-26": 1
+"2026-11-27": 0
 },
 "errores_seguidos": {
 "habitaclia": 0,
@@ -8397,9 +8412,7 @@
 }
 ],
 "correos_destino": {
-"2026-11-26": {
-"e6f07ba53a676680": 1
-}
+"2026-11-27": {}
 },
 "respuestas_vistas": [
 "1c736e572bfd1720",
