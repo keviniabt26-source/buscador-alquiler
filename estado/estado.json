@@ -8711,6 +8711,21 @@
 ],
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/centre/terrassa/36f079d7-f3ae-4430-9d16-4f6405140ea9/d"
+},
+{
+"clave": "fotocasa:191518313",
+"municipio": "sant pere de riudebitlles",
+"precio": 680,
+"metros": 110,
+"barrio": "",
+"habitaciones": 3,
+"telefono": "562dfdb27af6f355",
+"fotos": [
+"1b92808081808381",
+"61c1c949cfcdc7e3"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pere-de-riudebitlles/aire-acondicionado-calefaccion-no-amueblado/191518313/d"
 }
 ],
 "correos": {
@@ -8876,6 +8891,17 @@
 "habitaciones": 5,
 "particular": false,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/sant-andreu-de-la-barca/a49657c8-db35-4386-823b-e3e6eac68e20/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 680,
+"municipio": "Sant Pere de Riudebitlles",
+"barrio": "",
+"metros": 110,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/sant-pere-de-riudebitlles/aire-acondicionado-calefaccion-no-amueblado/191518313/d",
 "motivo": "",
 "color": ""
 }
