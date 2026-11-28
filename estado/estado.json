@@ -8816,6 +8816,21 @@
 ],
 "particular": true,
 "url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-mossen-joaquim-palet-i-bertomeu-8/la-gavarra/cornella-de-llobregat/0a348f27-ac7f-48e0-aa0f-ec60e0eb7088/d"
+},
+{
+"clave": "fotocasa:191522172",
+"municipio": "vic",
+"precio": 944,
+"metros": 133,
+"barrio": "caputxins - ambulatori",
+"habitaciones": 3,
+"telefono": "c9a1ba3ce7d2cd3e",
+"fotos": [
+"1e1f1e2636326787",
+"4f77773fbf7e3e3e"
+],
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-terraza-ascensor-amueblado/191522172/d"
 }
 ],
 "correos": {
@@ -8871,6 +8886,17 @@
 "habitaciones": 2,
 "particular": true,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/artes/aire-acondicionado-jardin-terraza-ascensor-amueblado/191518329/d",
+"motivo": "",
+"color": ""
+},
+{
+"precio": 944,
+"municipio": "Vic",
+"barrio": "Caputxins - Ambulatori",
+"metros": 133,
+"habitaciones": 3,
+"particular": false,
+"url": "https://www.fotocasa.es/es/alquiler/vivienda/vic/calefaccion-parking-terraza-ascensor-amueblado/191522172/d",
 "motivo": "",
 "color": ""
 }
