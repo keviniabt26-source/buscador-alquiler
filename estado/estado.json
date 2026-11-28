@@ -8846,6 +8846,36 @@
 ],
 "particular": false,
 "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-parking-ascensor-amueblado/191522472/d"
+},
+{
+"clave": "habitaclia:48685c3a-dcb1-4476-84cd-766df1dd3380",
+"municipio": "barcelona",
+"precio": 960,
+"metros": 53,
+"barrio": "eixample",
+"habitaciones": 1,
+"telefono": "3f5e52547ced4dbf",
+"fotos": [
+"d8c4c4c8d8bb6766",
+"1f339b9b3b8f9f9f"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/planta-intermedia/carrer-de-provenca/eixample/barcelona-capital/48685c3a-dcb1-4476-84cd-766df1dd3380/d"
+},
+{
+"clave": "habitaclia:3ad3ed44-afe7-4b14-932f-1bdcc6935f02",
+"municipio": "vic",
+"precio": 944,
+"metros": 133,
+"barrio": "caputxins - ambulatori",
+"habitaciones": 3,
+"telefono": "c9a1ba3ce7d2cd3e",
+"fotos": [
+"1e1f1e2636326787",
+"4f77773fbf7e3e3e"
+],
+"particular": false,
+"url": "https://www.habitaclia.com/alquiler/duplex/calle-bellmunt/caputxins-ambulatori/vic/3ad3ed44-afe7-4b14-932f-1bdcc6935f02/d"
 }
 ],
 "correos": {
